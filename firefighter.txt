@@ -1,0 +1,2550 @@
+Name,Rank,FIRE DEPARTMENT,Date of Death,Location on Memorial
+Glenn J. Winuk,Firefighter,JERICHO FIRE DEPARTMENT,9/11/2001,19 Bottom
+Abe Dias,Firefighter,HAVERSTRAW FIRE DEPARTMENT,1/8/1906,20 Bottom
+Todd Smith,Firefighter,NEW PALTZ FIRE DEPARTMENT,2/6/2005,21 Bottom
+Adam D. Rand,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+Joseph E. Piazzi,Deputy Chief,BRIARCLIFF MANOR FIRE DEPARTMENT,5/16/2007,  2 Top
+Adam Fisher,Captain,BUFFALO FIRE DEPARTMENT,01/23/1891,14 Bottom
+Adolph L. Wiemer,Hoseman,ROCHESTER FIRE DEPARTMENT,5/20/1939,17 Top
+Charles D. Pickard,Firefighter,MARILLA FIRE DEPARTMENT,1/21/1985,12 Top
+William J. Ford,Captain,BINGHAMTON FIRE DEPARTMENT,10/29/1915,   2 Top
+William Ewing,Hoseman,COHOES FIRE DEPARTMENT,3/24/1930,   1 Bottom
+Alan D. Feinbert,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Top
+Alan E. Jones,Firefighter,NEW ROCHELLE FIRE DEPARTMENT,10/8/1983,12 Top
+Peter E. Hotaling,Firefighter,CLAVERACK FIRE DEPARTMENT,10/5/2005,   4 Top
+Stephen E. Belson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Christopher W. Dill,Firefighter,BUFFALO FIRE DEPARTMENT,4/4/2005,   1 Bottom
+Ernest Starrett,Firefighter,HUDSON FALLS FIRE DEPARTMENT,1/16/1910,21 Top
+Albert F. Fischer,Firefighter,WILLISTON PARK FIRE DEPARTMENT,1/1/1982,12 Top
+Peter Lund,Firefighter,WOODMERE FIRE DEPARTMENT,6/14/2005,   4 Bottom
+Albert F. Schrempf,Lieutenant,SYRACUSE FIRE DEPARTMENT,1/12/1961,12 Bottom
+Albert G. Young,Lieutenant,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+"Albert J. DeFlumere, Jr.",Ex-Chief,BLAUVELT FIRE COMPANY,10/26/1996,10 Top
+Albert M. Weeks,Past Chief,SAYVILLE FIRE DEPARTMENT,6/1/1993,10 Top
+Albert Mack,Firefighter,RUSH FIRE DEPARTMENT,12/29/1959,13 Top
+William R. McAnally,Firefighter,OSSINING FIRE DEPARTMENT,6/22/2005,19 Top
+Albert Sipple,Lieutenant,BELLMORE FIRE DEPARTMENT,7/16/1997,10 Top
+John P. McConnell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/4/1908,  6 Bottom
+Francis J. Hehar,Firefighter,BINGHAMTON FIRE DEPARTMENT,09/26/1898,   3 Bottom
+Alexander McKay,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+Alfons Richter,Firefighter,EAST ISLIP FIRE DEPARTMENT,12/21/1947,15 Top
+Alfred A. Wohrman,Firefighter/Commissioner,BEEKMAN VOLUNTEER FIRE DEPARTMENT,4/16/2005,20 Bottom
+Alfred Bauman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/22/1896,14 Bottom
+Jeffrey L. Wiener,Firefighter,LYNBROOK FIRE DEPARTMENT,5/7/2005,19 Bottom
+Alfred E. Ronaldson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/5/1991,11 Top
+Alfred F. Shoesmith,2nd Assistant Foreman,JAMESTOWN FIRE DEPARTMENT,3/16/1910,10 Bottom
+James J. O’Neil,Firefighter,HEMPSTEAD FIRE DEPARTMENT,6/14/2005,21 Top
+Jason D. Hasenauer,Firefighter,HILTON FIRE DEPARTMENT,12/28/2005,   2 Top
+Alfred J. Hynes     ,Firefighter    ,OGDENSBURG FIRE DEPARTMENT        ,10/25/1934,10 Bottom
+Alfred M. Knecht,Captain,NEW YORK CITY FIRE DEPARTMENT,3/1/1982,12 Top
+E. Timothy Parsell,Captain,COLLINS FIRE DEPARTMENT,11/4/2005,18 Bottom
+"Alston F. Hill, Sr.",Firefighter,JAMISON ROAD FIRE DEPARTMENT,3/28/1991,11 Top
+Andrew B. George,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/3/1939,17 Top
+Andrew C. Brunn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,11 Bottom
+Andrew C. Schenck,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+"Andrew Harcher, Jr.",Firefighter,WALLKILL FIRE COMPANY,2/21/1982,12 Top
+Andrew J. Desperito,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+Andrew K. Wright,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/4/1955,14 Top
+Andrew L. Milyko,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/1/1953,14 Top
+"Andrew S. Usyk, Sr.",Firefighter,SCHUYLER FIRE DEPARTMENT,3/3/1983,12 Top
+"Angel C. Juarbe, Jr. ",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+Anthony A. Kaiser,Firefighter,NARROWSBURG FIRE DEPARTMENT,3/17/2007,19 Bottom
+Anthony Capozzi,Firefighter,HY-VIEW FIRE DEPARTMENT,1/7/1987,11 Top
+Anthony Carracciolo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/08/1855,18 Bottom
+Anthony Ceravolo,Firefighter,WARWICK FIRE DEPARTMENT,1/1/1994,10 Top
+Anthony F. Eisele,Chief,ROOSEVELT FIRE DEPARTMENT,6/16/1957,15 Top
+Anthony Galatifore,Ex-Chief,SELDEN FIRE DEPARTMENT,9/3/1979,10 Bottom
+Anthony J. LeoGrande,Firefighter,ONEONTA FIRE DEPARTMENT,9/8/1982,12 Top
+Anthony J. Waskielewicz,Firefighter,BUFFALO FIRE DEPARTMENT,12/27/1983,12 Top
+Anthony Jireck,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,1/27/1945,15 Top
+Anthony M. Jovic,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Anthony P. Longa,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/31/1957,13 Top
+Anthony R. Martucci,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,3/9/1961,12 Bottom
+Anthony Sands,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/20/1984,12 Top
+Antonio C. Rodriques ,Firefighter ,YONKERS FIRE DEPARTMENT ,7/31/2012,14 Top
+Antonio J. Assante,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/31/1952,14 Top
+Armand Santacroce,Firefighter,NEWBURGH FIRE DEPARTMENT,2/23/1952,14 Top
+Arnold N. Hafner,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/31/1955,14 Top
+Arthur A. Poole,Firefighter,BUFFALO FIRE DEPARTMENT,07/10/1878,20 Top
+Arthur C. Smith,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/5/1951,14 Top
+"Arthur Cassell, Jr.",Firefighter,NEWTON FALLS FIRE DEPARTMENT,11/5/1983,12 Top
+Arthur E. Sink ,Firefighter ,LAURELTON FIRE DEPARTMENT ,8/27/1952,20 Bottom
+Arthur G. Hanson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/4/1956,13 Top
+Arthur J. Dillon,Chief,BINGHAMTON FIRE DEPARTMENT,3/7/1946,10 Bottom
+Arthur J. Evans,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/25/1852,18 Bottom
+Arthur K. Tuck,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/9/1993,10 Top
+"Arthur Kuss, Jr.",Firefighter,ISLAND PARK FIRE DEPARTMENT,11/3/1962,11 Top
+Arvid Wallin,Firefighter,BEUKENDAAL FIRE DEPARTMENT,2/25/1956,18 Top
+Asa F. Barnes,Firefighter,OSSINING FIRE DEPARTMENT,2/3/1957,13 Top
+August L. Cowdrey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,07/19/1845,19 Bottom
+Augustine Halley,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/18/1956,13 Top
+Barend Geel,Battalion Chief,ALBANY FIRE DEPARTMENT,2/9/1946,15 Top
+Barry Brown,Captain,NEW YORK CITY FIRE DEPARTMENT,7/22/1982,12 Top
+Bartholomew V. Foley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/19/1965,11 Bottom
+Benjamin Nelson,Firefighter,HAVERSTRAW FIRE DEPARTMENT,1/8/1906,16 Top
+Benjamin Parcell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/28/1941,17 Top
+Bernard A. Tepper,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+Bernard Bamer,Hoseman,ALBANY FIRE DEPARTMENT,12/19/1892,14 Bottom
+Bernard Blumenthal,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/14/1958,13 Top
+Bernard D. Scannell,Firefighter/Fire Police,WATERLOO FIRE DEPARTMENT,9/21/2000,19 Bottom
+Bernard Delmar,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/6/1951,14 Top
+Bernard E. Meany,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/19/1952,14 Top
+Bernard Goldman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/30/1962,12 Bottom
+"Bernard J. Callahan, Jr.",Firefighter,WHITE PLAINS FIRE DEPARTMENT,7/31/1954,14 Top
+Bernard J. Spillman,Lieutenant,ROCHESTER FIRE DEPARTMENT,9/12/1986,11 Top
+"Bernard McGuire, Jr.",Firefighter,BRIGHTON FIRE DEPARTMENT,1/1/1947,15 Top
+Bernard P. McGreavy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/15/1944,16 Top
+Bernard Tully,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/17/1957,13 Top
+Bertram Butler,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/17/1941,17 Top
+Beverly H. Pratt,Firefighter,PORT HENRY FIRE DEPARTMENT,5/17/1956,21 Bottom
+Bradley P. Golden,Firefighter,LAIRDSVILLE FIRE DEPARTMENT,9/25/2001,15 Top
+"Brian D. Myers, Sr.",Firefighter,SCHUYLERVILLE FIRE DEPARTMENT,1/1/1997,10 Top
+Brian E. Bilcher,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,11 Bottom
+Brian G. Ahearn,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Brian T. Dillon,Firefighter,BUFFALO FIRE DEPARTMENT,1/28/1991,11 Top
+Bruce A. Rhinehart,Lieutenant,JAMESTOWN FIRE DEPARTMENT,10/27/1990,11 Top
+Bruce B. Baldwin,Firefighter,ALBION FIRE DEPARTMENT,11/6/1974,20 Bottom
+"C. Clifford Preisigke, III",Firefighter,BUFFALO FIRE DEPARTMENT,4/13/1985,12 Top
+Carl Aschenbrenner,Chief,BUCHANAN FIRE DEPARTMENT,1/1/1961,13 Top
+Carl H. Bischoff,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/5/1941,17 Top
+Carl Lee,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+Carmen Russo,Firefighter,ROCHESTER FIRE DEPARTMENT,3/10/1987,11 Top
+Ceasar J. Macari,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/24/1939,17 Top
+Charles A. Cook,Firefighter,TROY FIRE DEPARTMENT,7/27/1900,13 Bottom
+Charles A. Dunbar,Firefighter,ROCHESTER FIRE DEPARTMENT,2/6/1949,15 Top
+Charles A. Hickey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/22/1945,16 Top
+"Charles A. Stenvall, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/16/1940,17 Top
+Charles A. Widdowson,Captain,ROCHESTER FIRE DEPARTMENT,4/29/1932,20 Top
+Charles B. Elliott,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/08/1855,18 Bottom
+Charles B. Osborn,Firefighter,VALATIE FIRE DEPARTMENT,06/01/1860,17 Bottom
+Charles Boynton,1st Assistant Chief,SYRACUSE FIRE DEPARTMENT,2/6/1939,17 Top
+Charles Brady,Firefighter,ALBANY FIRE DEPARTMENT,3/7/1953,14 Top
+Charles Conklin,Ex-Captain,SEA CLIFF FIRE DEPARTMENT,1/23/1959,14 Top
+Charles D. Bangel,Firefighter,PATCHOGUE FIRE DEPARTMENT,7/21/1934,19 Top
+Charles E. Bentley,Firefighter,ELMIRA FIRE DEPARTMENT,01/01/1888,15 Bottom
+"Charles E. H. Lauber, Jr.",Commissioner,SMITHTOWN FIRE DEPARTMENT,12/24/2000,14 Bottom
+Charles E. Marshall,Foreman,ALBANY FIRE DEPARTMENT,12/19/1892,14 Bottom
+Charles Elliott,Firefighter,BRENTWOOD FIRE DEPARTMENT,5/11/1952,14 Top
+Charles F. Daley,Firefighter,OSWEGO FIRE DEPARTMENT,8/26/1944,10 Bottom
+Charles F. Hale,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/12/1962,12 Bottom
+Charles F. Moody,Firefighter,ONEIDA FIRE DEPARTMENT,8/8/1959,13 Top
+Charles G. Lang,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/22/1961,12 Bottom
+Charles G. Rappe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/18/1932,20 Top
+Charles H. Beadle,Captain,WALTON FIRE DEPARTMENT,11/20/1993,10 Top
+Charles H. Vandecar    ,Firefighter    ,TROY FIRE DEPARTMENT   ,8/30/1922,21 Bottom
+Charles J. Boll,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/20/1959,13 Top
+Charles J. Connolly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,03/14/1878,16 Bottom
+Charles J. Franck,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/14/1965,11 Bottom
+Charles J. Ginter,Firefighter,ONEIDA FIRE DEPARTMENT,8/30/1941,17 Top
+Charles J. Infosino,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/4/1956,13 Top
+Charles Keagan,Captain,NEW YORK CITY FIRE DEPARTMENT,09/15/1884,15 Bottom
+Charles Kohlenberger,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,3/31/1945,16 Top
+Charles McHugh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,08/08/1889,15 Bottom
+Charles Mooney,Firefighter,BUFFALO FIRE DEPARTMENT,5/15/1950,15 Top
+Charles Palmore,Firefighter,NIAGARA FALLS FIRE DEPARTMENT,2/1/1982,12 Top
+Charles R. Haas,Firefighter,HIGH FALLS FIRE DEPARTMENT,2/17/1981,12 Top
+Charles R. Will,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/18/1939,17 Top
+Charles S. Morris,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/03/1890,14 Bottom
+Charles S. Vancleve,Battalion Chief,BINGHAMTON FIRE DEPARTMENT,1/16/1929,10 Bottom
+Charles Schoener,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/7/1936,18 Top
+Charles Snyder,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/4/1919,14 Bottom
+Charles V. Wallace ,Firefighter ,MONTGOMERY FIRE DEPARTMENT ,2/3/2015,14 Bottom
+Charles W. Abrams,Firefighter,NEW YORK CITY FIRE DEPARTMENT,06/22/1820,21 Bottom
+Charles W. McCarthy ,Lieutenant ,BUFFALO FIRE DEPARTMENT ,8/24/2009,20 Bottom
+Charles Walker,Firefighter,COHOES FIRE DEPARTMENT,03/29/1877,10 Bottom
+Charles Wilson,Driver,BUFFALO FIRE DEPARTMENT,02/09/1891,14 Bottom
+"Charles Wilson, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/19/1959,13 Top
+"Chester A. Long, Jr.",Past Chief,KENMORE FIRE DEPARTMENT,4/9/1959,13 Top
+Chris E. A. McAuley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/12/1949,15 Top
+Chris J. Plunkett,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/3/1938,18 Top
+Christian M. O. Regenhard,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Top
+Christian P. Engeldrum,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/29/2004,17 Top
+Christopher A. Bilger,Firefighter,NORTH SYRACUSE FIRE DEPARTMENT,9/21/1987,11 Top
+Christopher A. Santora,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Christopher Boines,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/21/1901,13 Bottom
+Christopher Fralick,Firefighter,SYRACUSE FIRE DEPARTMENT,02/02/1885,15 Bottom
+Christopher J. Blackwell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+Christopher J. Siedenburg,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/29/1994,10 Top
+Christopher Kent,Firefighter,HOWARD FIRE DEPARTMENT,1/12/1994,10 Top
+Christopher M. Bopp,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/18/1998,10 Top
+Christopher M. Mozzillo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Christopher P. Savage,Lieutenant,SIR WILLIAM JOHNSON FIRE DEPARTMENT,2/27/1993,10 Top
+Christopher P. Sullivan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Christopher W. Harmon,Lieutenant,WHITE PLAINS FIRE DEPARTMENT,5/30/1962,12 Bottom
+Clarence S. LaMora,Firefighter,WATERTOWN FIRE DEPARTMENT,7/4/1950,10 Bottom
+Clark S. Segmann,Firefighter,TROY FIRE DEPARTMENT,01/10/1835,20 Bottom
+Claude Gowdy,Firefighter,WILLING FIRE DEPARTMENT,7/7/1985,12 Top
+Clifford B. Fuerst,Firefighter,ALBANY FIRE DEPARTMENT,7/2/1961,12 Bottom
+Clyde W. Miller,Firefighter,SIDNEY FIRE DEPARTMENT,6/24/1988,11 Top
+Colin Fell,Captain,HASTINGS ON THE HUDSON FIRE DEPARTMENT,3/1/1989,11 Top
+Cornelius Garrison,Firefighter,NEW YORK CITY FIRE DEPARTMENT,07/05/1832,20 Bottom
+Cornelius Healy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/2/1935,19 Top
+Cornelius Shea,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/10/1980,10 Bottom
+Curtis W. Meyran,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/23/2005,21 Top
+Dale A. Monica,Firefighter,BURKE VOLUNTEER FIRE DEPARTMENT,4/16/2005,21 Top
+Dale E. Linkroum,Firefighter,DEPOSIT FIRE DEPARTMENT,12/6/1993,10 Top
+Dale M. Seib,Firefighter,PLAINVILLE FIRE DEPARTMENT,2/26/1990,11 Top
+Dale Steel,Firefighter,MECHANICVILLE FIRE DEPARTMENT,1/26/1981,12 Top
+Dana R. Hannon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Top
+Daniel A. Dunphy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/26/1955,14 Top
+Daniel A. Weisse,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/14/1953,14 Top
+Daniel Bermingham,Captain,ELMIRA FIRE DEPARTMENT,1/11/1939,17 Top
+Daniel E. Harlin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,12 Bottom
+Daniel F. Libretti,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Top
+Daniel J. Brethel,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Daniel J. Miller,Past Chief,GETZVILLE FIRE DEPARTMENT,12/8/1991,11 Top
+Daniel L. Rey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+Daniel M. Krauss,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/30/1946,15 Top
+Daniel McKay,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+"Daniel Murphy, I",Captain,NEW YORK CITY FIRE DEPARTMENT,2/20/1941,17 Top
+Daniel R. Joslyn,Chief   ,MAPLE SPRING FIRE DEPARTMENT,6/1/1990,11 Top
+Daniel Shanahan,Driver,BUFFALO FIRE DEPARTMENT,07/20/1890,15 Bottom
+Daniel Strong,Firefighter,FRANKLIN SQUARE & MUNSON FIRE DEPARTMENT,2/25/1989,11 Top
+Daniel Sullivan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/1954,14 Top
+Daniel T. Rice,Captain,NEW YORK CITY FIRE DEPARTMENT,11/11/1956,13 Top
+Daniel W. McCarthy,Firefighter,IRVINGTON FIRE DEPARTMENT,2/16/1941,10 Bottom
+Daniel W. Mumford,Firefighter,WEST HAVERSTRAW FIRE DEPARTMENT,5/9/1998,10 Top
+Daniel Wheeler,Hoseman,ALBANY FIRE DEPARTMENT,07/12/1885,15 Bottom
+David Clute,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/08/1876,14 Bottom
+"David D. Duncan, Jr.",Lieutenant,ALBANY FIRE DEPARTMENT,5/24/1985,12 Top
+David E. Smith ,Captain ,HOWELLS FIRE COMPANY #1 ,4/11/2006,18 Bottom
+David F. Murray,Firefighter,HURLEYVILLE FIRE DEPARTMENT,12/21/1984,12 Top
+David G. Arce,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+"David Halderman, Jr. ",Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+David J. Clapp,Firefighter,WEST WEBSTER FIRE DEPARTMENT,9/29/1986,11 Top
+David J. Fontana,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+David J. LaForge,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+David L. Blakely,Firefighter,TROY FIRE DEPARTMENT,05/03/1868,17 Bottom
+David L. Kline,Firefighter,WARSAW FIRE DEPARTMENT,1/1/1992,11 Top
+David Lavine,Lieutenant,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+David M. Weiss,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+David McBride,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/17/1882,15 Bottom
+David Muldrew,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/08/1876,16 Bottom
+David P. DeRubbio,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+David P. Janora,Assistant Chief,CLARENCE CTR FIRE DEPARTMENT,1/2/1997,10 Top
+David T. Wooley,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+David W. Raymer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,03/08/1827,21 Bottom
+David Ward,Firefighter,SAG HARBOR FIRE DEPARTMENT,5/28/1988,11 Top
+David Waters,Captain,NEW YORK CITY FIRE DEPARTMENT,05/21/1866,17 Bottom
+Denis J. Corrodan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/10/1952,14 Top
+Denis P. Germain,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+Dennis A. Cross,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+"Dennis J. Mullins, Jr.",Firefighter,MOUNT VERNON FIRE DEPARTMENT,1/18/1995,10 Top
+Dennis L. Devline,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Dennis M. Carey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Dennis M. Peterson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/19/1981,12 Top
+Dennis McGee,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/20/1886,15 Bottom
+Dennis McQueenie,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/29/1960,13 Top
+Dennis Mojica,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Bottom
+Dennis P. McHugh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Top
+Dennis Rodd,Firefighter,CORAM FIRE DEPARTMENT,3/13/1993,10 Top
+"Dominic A. LaGudi, Jr.",2nd Assistant Chief,OCEANSIDE FIRE DEPARTMENT,4/14/1989,11 Top
+Dominic Villano,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/22/1966,11 Bottom
+Dominick Sicot,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/14/1865,17 Bottom
+Donald A. Collins,Firefighter,SCHENECTADY FIRE DEPARTMENT,4/19/1996,10 Top
+Donald Bradway,Firefighter,MEXICO FIRE DEPARTMENT,5/27/1964,11 Bottom
+Donald Hilton,Firefighter,MELLENVILLE VOLUNTEER FIRE COMPANY,4/27/1989,11 Top
+Donald J. Gagnier,Firefighter,BEEKMANTOWN FIRE DEPARTMENT,4/28/1965,12 Bottom
+Donald J. Smith,Firefighter,EAST AURORA FIRE DEPARTMENT,7/1/1989,11 Top
+Donald K. Bishop,Protective,ALBANY FIRE DEPARTMENT,7/25/1902,13 Bottom
+Donald M. Hodgkinson,Past Chief,SAYVILLE FIRE DEPARTMENT,7/4/1989,11 Top
+Donald R. Bogash,Firefighter,RIVERHEAD FIRE DEPARTMENT,6/27/1983,21 Top
+Donald R. Conklin,Firefighter,CHENANGO FIRE DEPARTMENT,12/3/1982,12 Top
+Donald R. Henry,Firefighter,COPENHAGEN FIRE DEPARTMENT,8/2/1988,11 Top
+"Donald W. Ambler, Sr.",Firefighter,MOHEGAN LAKE FIRE DEPARTMENT,3/24/1955,14 Top
+Duane F. Ahl,Captain,ROTTERDAM FIRE DEPARTMENT,1/18/1988,11 Top
+"Dwight G. Burger, Jr.",Firefighter,SOUTH DANSVILLE FIRE DEPARTMENT,12/6/1994,10 Top
+Earl E. Pritchard,Past Chief,BRIDGEWATER FIRE DEPARTMENT,10/9/1973,18 Top
+"Earl Garrity, III",Firefighter,PORT JERVIS FIRE DEPARTMENT,10/4/1987,11 Top
+Edgar H. Scott,Fire Police Captain,VILLAGE OF MENANDS FIRE DEPARTMENT,4/3/2007,20 Top
+Edmond Smith,Firefighter,SEA CLIFT FIRE DEPARTMENT,7/18/1929,12 Bottom
+Edmund A. Chrosniak,Firefighter,BUFFALO FIRE DEPARTMENT,9/26/1983,12 Top
+Edward Burke,Firefighter,NEW YORK CITY FIRE DEPARTMENT,06/22/1872,16 Bottom
+Edward C. Huber,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,7/27/1954,14 Top
+Edward C. McCulley,Captain,ONEIDA FIRE DEPARTMENT,9/26/1963,11 Bottom
+Edward Erbland,Past Chief,RIDGE-CULVER FIRE DEPARTMENT,5/5/1981,12 Top
+Edward F. Dunn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/03/1894,14 Bottom
+Edward F. Keating,Firefighter,PATCHOGUE FIRE DEPARTMENT,4/11/1950,14 Top
+Edward F. Snediker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/27/1965,11 Bottom
+Edward Hawkes,Firefighter,BUFFALO FIRE DEPARTMENT,4/11/1944,16 Top
+Edward J. Brickner,Firefighter,CRANESVILLE FIRE DEPARTMENT,2/5/1964,19 Top
+Edward J. Campbell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/16/1959,13 Top
+Edward J. Carroll,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/4/1956,13 Top
+Edward J. Curtin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/17/1954,14 Top
+Edward J. Duggan,Captain,BUFFALO FIRE DEPARTMENT,12/23/1986,12 Top
+Edward J. Klimas,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/30/1942,17 Top
+"Edward J. Matter, Jr.",Firefighter,WESTFORD FIRE DEPARTMENT,3/8/1998,10 Top
+Edward J. Nelson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/26/1944,16 Top
+Edward Johnson,Firefighter,FREEPORT FIRE DEPARTMENT,12/31/1959,14 Top
+Edward L. Simpson,Firefighter,MELLENVILLE VOLUNTEER FIRE COMPANY,7/14/1990,11 Top
+Edward M. Supples,Firefighter,BUFFALO FIRE DEPARTMENT,8/23/1985,12 Top
+Edward M. White,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/28/1962,12 Bottom
+Edward Maney,Firefighter,NEWBURGH FIRE DEPARTMENT,11/16/1956,13 Top
+Edward McGaul,Firefighter,HUNTINGTON FIRE DEPARTMENT,1/1/1937,18 Top
+Edward Mulligan,Firefighter,BUFFALO FIRE DEPARTMENT,1/27/1961,12 Bottom
+Edward P. Scully,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,7/24/1955,14 Top
+Edward R. Broeland,Firefighter,SCHENECTADY FIRE DEPARTMENT,5/10/1939,17 Top
+Edward R. Maloney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/18/1932,21 Top
+Edward Stanczyk,Firefighter,NORTH PATCHOGUE FIRE DEPARTMENT,7/6/1988,11 Top
+Edward Torre,Firefighter,NIAGARA FALLS FIRE DEPARTMENT,4/3/1948,15 Top
+Edward Vincelette,Firefighter,NEW YORK CITY FIRE DEPARTMENT,03/14/1883,15 Bottom
+Edward W. Jackson,Ex-Chief,STEWART MANOR FIRE DEPARTMENT,1/31/1955,17 Top
+Edward W. Murdock,Firefighter,PORT EWEN FIRE DEPARTMENT,1/10/1991,11 Top
+Edward W. Murphy,Lieutenant,ROCHESTER FIRE DEPARTMENT,1/8/1901,13 Bottom
+Edward Walsh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/01/1896,14 Bottom
+Edwin C. Remhild,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/11/1964,11 Bottom
+Edwin H. Tobin,Captain,NEW YORK CITY FIRE DEPARTMENT,1/24/1900,13 Bottom
+"Edwin J. Haungs, Sr.",Firefighter,SO. LOCKPORT FIRE DEPARTMENT,6/16/1997,10 Top
+Edwin J. Hovey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/16/1946,15 Top
+"Edwin M. Rogers, Jr.",Assistant Chief,SARATOGA SPRINGS FIRE DEPARTMENT,9/18/1963,12 Bottom
+Edwin Quick,Firefighter,ROOSEVELT FIRE DEPARTMENT,6/19/1934,10 Bottom
+Elbert Hardman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/9/1945,15 Top
+Elias Ovsiovitch,Fire Police,HILLCREST FIRE COMPANY,10/17/1994,10 Top
+Ellwood T. Raymond,Foreman,NORTH TONAWANDA FIRE DEPARTMENT,11/28/1930,10 Bottom
+Elmer Adkins,Lieutenant,ROCHESTER FIRE DEPARTMENT,6/3/1962,12 Bottom
+Elmer R. Berry,Firefighter,JAMESTOWN FIRE DEPARTMENT,1/2/1945,15 Top
+Emanuel Adler,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/16/1952,14 Top
+"Emil J. Durand, Jr.",Ladderman,ALBANY FIRE DEPARTMENT,2/5/1948,15 Top
+Emile A. Steiner,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/22/1944,16 Top
+Enrico F. Vendetti,Firefighter,SYRACUSE FIRE DEPARTMENT,7/12/1959,13 Top
+Epitanio Gonzalez,Assistant Chief,ROMBOUT FIRE COMPANY,11/30/1984,12 Top
+Eric R. Anderson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/28/1954,14 Top
+Erick W. Thomas,Captain,NEW YORK CITY FIRE DEPARTMENT,4/3/1959,13 Top
+Ernest F. Kannig,Chief,HUNTINGTON MANOR FIRE DEPARTMENT,11/11/1948,10 Bottom
+Ernest G. Stoll,Ex-Lieutenant,SAYVILLE FIRE DEPARTMENT,2/27/1953,14 Top
+Ernest J. Marquart,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/26/1964,11 Bottom
+Ernest J. Welsh,Captain,YONKERS FIRE DEPARTMENT,3/20/1937,18 Top
+Ernest Kane,Chief ,GLEN FIRE DEPARTMENT,1/29/1987,11 Top
+Ernest Mattes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/26/1935,19 Top
+Ernest Smith,Firefighter,WESTMORELAND FIRE DEPARTMENT,7/12/1989,11 Top
+Estes J. Landon,Firefighter,ITHACA FIRE DEPARTMENT,12/7/1906,20 Top
+Eugene F. Kelly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/22/1943,16 Top
+Eugene F. Steffens,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/5/1944,16 Top
+Eugene G. Dowd,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,1/27/1955,14 Top
+Eugene J. Caffrey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/20/1921,16 Bottom
+Eugene J. Studer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/2/1944,16 Top
+Eugene K. Byrne,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/4/1963,12 Bottom
+Eugene P. Lessard,Firefighter,MATTITUCK FIRE DEPARTMENT,1/1/1957,13 Top
+Eugene Underhill,Firefighter,NEW YORK CITY FIRE DEPARTMENT,07/01/1834,20 Bottom
+Everett D. Holdridge,Assistant Chief,ANCRAM FIRE DEPARTMENT,4/13/1963,21 Top
+Everitt L. Wilcox,Firefighter,ARKPORT FIRE DEPARTMENT,7/10/1927,10 Bottom
+Ezra M. Hough,Firefighter,SYRACUSE FIRE DEPARTMENT,08/20/1841,19 Bottom
+F. A. Ward,Firefighter,NEW YORK CITY FIRE DEPARTMENT,07/01/1834,20 Bottom
+Felix J. Jankowski,Firefighter,ELMIRA FIRE DEPARTMENT,3/12/1954,14 Top
+Ferdinand Bartz,Firefighter,NORTH JAVA FIRE DEPARTMENT,1/1/1983,12 Top
+Ferdinand Z. Riviello,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/20/1933,19 Top
+Ferrell F. Finkle,Firefighter,KINGSTON FIRE DEPARTMENT,9/24/1937,18 Top
+Floyd E. Coon,Firefighter,HORSEHEADS FIRE DEPARTMENT,7/20/1982,12 Top
+Francis B. Miller,Firefighter,HASTINGS ON THE HUDSON FIRE DEPARTMENT,6/10/1962,12 Bottom
+Francis Hanavan,Firefighter,BUFFALO FIRE DEPARTMENT,7/14/1984,12 Top
+Francis J. Novak,Ex-Captain,BABYLON FIRE DEPARTMENT,12/14/1981,12 Top
+Francis J. Quinn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/01/1887,15 Bottom
+Francis J. Sammon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/18/1960,13 Top
+Francis Joseph,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,03/08/1827,21 Bottom
+Francis Mahedy,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,03/12/1886,15 Bottom
+Francis X. Casey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/18/1956,13 Top
+Francis X. Egan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/26/1962,12 Bottom
+"Francisco Graca, Jr.",Firefighter,OSSINING FIRE DEPARTMENT,4/11/1949,15 Top
+Frank A. Kober,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/29/1955,14 Top
+"Frank A. Post, Sr.",Firefighter,HUGHSONVILLE FIRE DISTRICT,3/12/1959,17 Bottom
+Frank Canga,Firefighter,WATERVLIET FIRE DEPARTMENT,7/2/1967,17 Top
+Frank Cizek,Firefighter,BOHEMIA FIRE DEPARTMENT,4/20/1937,18 Top
+Frank Disarlo,Firefighter,FREEPORT FIRE DEPARTMENT,1/1/1985,12 Top
+Frank E. Wolf,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/16/1951,14 Top
+Frank Featherson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/28/1901,13 Bottom
+Frank H. Luby,Hoseman,ALBANY FIRE DEPARTMENT,09/11/1891,14 Bottom
+Frank H. Yann,Firefighter,SYRACUSE FIRE DEPARTMENT,07/13/1898,13 Bottom
+Frank J. Kerlin,Firefighter,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+Frank J. Molinari,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/13/1946,15 Top
+Frank J. Nerney,Lieutenant,ALBANY FIRE DEPARTMENT,2/12/1984,12 Top
+Frank J. Turner,Division Chief,NEW YORK CITY FIRE DEPARTMENT,6/6/1962,12 Bottom
+Frank J. Winklarek,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/24/1945,15 Top
+Frank J. Zatecky,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/6/1958,13 Top
+Frank L. Fitzsimmons,Firefighter,TONAWANDA FIRE DEPARTMENT,6/22/1943,21 Bottom
+Frank L. Jelley,Firefighter,SMITHTOWN FIRE DEPARTMENT,6/3/1985,12 Top
+"Frank L. Schips, Jr.",Fire Police,PORT JERVIS FIRE DEPARTMENT,2/4/1992,11 Top
+Frank M. Hausauer,1st Assistant Chief,WALES CENTER FIRE DEPARTMENT,7/1/1989,11 Top
+Frank McMurray,Engineer,BUFFALO FIRE DEPARTMENT,10/07/1893,14 Bottom
+"Frank Moorehead, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/12/1946,15 Top
+Frank P. Miller,Captain,ALBANY FIRE DEPARTMENT,5/4/1935,19 Top
+Frank Swerdzewski,Firefighter,WESTHAMPTON BEACH FIRE DEPARTMENT,7/7/1958,13 Top
+Frank W. Miller,Firefighter,DUNKIRK FIRE DEPARTMENT,11/26/1904,10 Bottom
+Frank W. Peckering,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/3/1963,11 Bottom
+Fred Amthor,Hoseman,ALBANY FIRE DEPARTMENT,12/19/1892,14 Bottom
+"Fred C. Scheffold, Jr.",Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Fred G. Meyers,Chief,CORNING FIRE DEPARTMENT,2/14/1944,16 Top
+Fred Gerner,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/5/1937,18 Top
+Fred J. Hellauer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/4/1956,13 Top
+Fred J. Wallen,Foreman,ALBANY FIRE DEPARTMENT,07/12/1885,15 Bottom
+Fred L. Cumming,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/5/1955,14 Top
+Fred McCellan,Firefighter,BUFFALO FIRE DEPARTMENT,1/11/1952,14 Top
+Fred Schreiber,Firefighter,MALVERNE FIRE DEPARTMENT,4/18/1937,10 Bottom
+Frederic P. Smith    ,Chief    ,HARRISVILLE VOLUNTEER FIRE DEPARTMENT                ,5/9/1972,10 Bottom
+Frederick F. Kopple,Firefighter,ONEIDA FIRE DEPARTMENT,7/7/1942,16 Top
+Frederick Glasser,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/14/1959,13 Top
+Frederick Hochhauser,Firefighter,BUFFALO FIRE DEPARTMENT,5/6/1963,12 Bottom
+"Frederick J. Ill, Jr.",Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+James Diamond,Firefighter,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+Frederick J. Wenzell,Firefighter,SYRACUSE FIRE DEPARTMENT,4/12/1947,15 Top
+Frederick Schmitt,Hoseman,ALBANY FIRE DEPARTMENT,4/25/1938,18 Top
+Frederick Schultz,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/3/1910,15 Bottom
+Frederick T. Fairweather,Firefighter,BULLVILLE FIRE DEPARTMENT,9/23/1995,10 Top
+Frederick V. Erb,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/23/1934,19 Top
+Fredrick J. Trefcer,Captain,NEW YORK CITY FIRE DEPARTMENT,5/17/1932,20 Top
+Fredrick M. Kubera,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/23/1965,11 Bottom
+Fredrick Ziegler,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/17/1947,15 Top
+Garrett W. Langdon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/6/1953,14 Top
+Garry S. Kuehner,Lieutenant,YONKERS FIRE DEPARTMENT,4/10/1983,12 Top
+Gary G. Partridge,Firefighter,ASHLAND FIRE DEPARTMENT,9/28/1982,12 Top
+Gary Kennicutt,Fire Police,GREENE FIRE DEPARTMENT,4/10/1993,10 Top
+Gary P. Geidel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Gary R. Box,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Geoffrey E. Guja,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+George A. Alexander,Captain,YONKERS FIRE DEPARTMENT,11/28/1966,11 Bottom
+George A. Erlacher,Assistant Engineer,NEW YORK CITY FIRE DEPARTMENT,02/09/1873,16 Bottom
+George Amos,Captain,BUFFALO FIRE DEPARTMENT,1/24/1934,19 Top
+George B. Benjamin,Firefighter,ROCHESTER FIRE DEPARTMENT,08/26/1840,19 Bottom
+George B. Christman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/26/1906,16 Bottom
+George B. Nickerson,Firefighter,PAWLING FIRE DEPARTMENT,3/10/1932,10 Bottom
+George B. Weill,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/22/1945,15 Top
+George Badger,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/03/1863,17 Bottom
+George Bell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/08/1865,17 Bottom
+"George Bercier, Sr.",Firefighter,ROSLYN FIRE DEPARTMENT,10/9/1956,16 Top
+George Brewer,Firefighter,FULTON FIRE DEPARTMENT,2/16/1961,21 Bottom
+George Brown,Firefighter,ALBANY FIRE DEPARTMENT,2/16/1922,10 Bottom
+George C. Cain,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+George C. Zapf,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/5/1955,14 Top
+George D. Leggio,Firefighter,EAST MEADOW FIRE DEPARTMENT,5/21/1952,14 Top
+George D. Morton,Firefighter,JAMESTOWN FIRE DEPARTMENT,2/7/1927,10 Bottom
+George D. Neat,Firefighter,SYRACUSE FIRE DEPARTMENT,1/16/1942,16 Top
+George DiPasquale,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+George F. Long,Hoseman,ROCHESTER FIRE DEPARTMENT,1/8/1901,13 Bottom
+George F. Mand,Deputy Commissioner,NEW YORK CITY FIRE DEPARTMENT,5/3/1965,11 Bottom
+"George H. Cridland, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/9/1944,16 Top
+George Henderson,Firefighter,BLUE POINT FIRE DEPARTMENT,1/1/1959,13 Top
+George J. Karl,Past Chief,MAIN TRANSIT FIRE DEPARTMENT,8/1/1990,11 Top
+George J. Murphy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/21/1956,13 Top
+George J. Zahn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/26/1962,12 Bottom
+George Kerr,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/02/1848,19 Bottom
+George L. Byrne,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/6/1931,21 Top
+George Lyons,Firefighter,BUFFALO FIRE DEPARTMENT,2/17/1943,16 Top
+George M. Williams,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/11/1946,15 Top
+George Malarky,Firefighter,BUFFALO FIRE DEPARTMENT,8/2/1939,18 Top
+George Moriarity,Firefighter,BUFFALO FIRE DEPARTMENT,10/18/1952,14 Top
+George Nigro,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/13/1945,15 Top
+George P. Oats,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/3/1949,15 Top
+George R. Goger,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/2/1963,12 Bottom
+George Roth,Firefighter,BUFFALO FIRE DEPARTMENT,03/25/1885,15 Bottom
+George Sandfield,Ex-Chief ,CONGERS FIRE DEPARTMENT,11/2/1987,11 Top
+George Schmitt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/24/1943,16 Top
+George T. Hamilton    ,Firefighter    ,COHOES FIRE DEPARTMENT           ,4/23/1922,11 Top
+George W. Buridge,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/16/1864,17 Bottom
+George W. Dove,Firefighter,SKANEATELES FIRE DEPARTMENT,7/12/1965,11 Top
+George W. Haight,Firefighter,NEW YORK CITY FIRE DEPARTMENT,06/22/1884,15 Bottom
+George W. Lener,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,7/20/1994,10 Top
+George W. Sampson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/18/1935,19 Top
+George W. Trenchard,Captain,NEW YORK CITY FIRE DEPARTMENT,05/31/1853,18 Bottom
+George Weitz,Captain,BUFFALO FIRE DEPARTMENT,12/11/1932,21 Top
+George Weston,Firefighter,NORTH BABYLON FIRE DEPARTMENT,1/1/1954,14 Top
+Gerald A. Machajewski,Firefighter,CAMBRIA VOLUNTEER FIRE COMPANY,5/21/2006,21 Top
+Gerald E. Murray,1st Assistant Chief,WINDHAM HOSE COMPANY #1,8/27/1994,10 Top
+Gerald F. Mullins,Firefighter,BINGHAMTON FIRE DEPARTMENT,1/8/1994,10 Top
+Gerald T. Atwood,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+Gerald T. Hanley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/13/1939,17 Top
+Gerard A. Barbara,Assistant Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Gerard Marcheterre,Firefighter,BORODINO FIRE DEPARTMENT,3/6/2010,10 Bottom
+Gerard T. Baptiste,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Bottom
+Gordon O. Schmidt,Captain,SAINT PAUL BOULEVARD FIRE DEPARTMENT,11/11/1991,11 Top
+Gregory E. Williams,Firefighter,HOLLAND FIRE COMPANY,11/4/1991,11 Top
+Gregory M. Dixon,Firefighter,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+Gunther E. Beake,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,8/23/1949,15 Top
+Gustav F. Deutschmann,Past Foreman,NORTH TONAWANDA FIRE DEPARTMENT,4/1/1929,10 Bottom
+Guy R. Pollard,Firefighter,NEWARK VALLEY FIRE DEPARTMENT,1/6/1996,10 Top
+H. Clair Brainard,Firefighter,BINGHAMTON FIRE DEPARTMENT,3/25/1925,10 Bottom
+Hamilton S. White,Honorary Assistant Chief,SYRACUSE FIRE DEPARTMENT,03/13/1899,13 Bottom
+Harold A. Barker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/5/1941,17 Top
+Harold Anderson,Firefighter,JAMESTOWN FIRE DEPARTMENT,6/14/1934,10 Bottom
+"Harold E. Roemer, Jr.",Firefighter,GREENLAWN FIRE DEPARTMENT,1/5/1998,10 Top
+Harold F. Clandening,Lineman,NEW YORK CITY FIRE DEPARTMENT,6/25/1946,15 Top
+Harold F. Johns,Master Mechanic,GLENS FALLS CITY FIRE DEPARTMENT,2/25/1961,14 Bottom
+Harold F. Perkins,1st Assistant Chief,PITTSFORD FIRE DEPARTMENT,12/27/1955,17 Top
+Harold Holsten,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/12/1945,16 Top
+Harold J. Brazell,Firefighter,SCHENECTADY FIRE DEPARTMENT,2/1/1948,15 Top
+Harold J. Curran,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/30/1944,16 Top
+"Harold J. Lyons, Sr.",Deputy Coordinator ,BROOKHAVEN FIRE DEPARTMENT,10/30/1992,10 Top
+Harry B. Austin,Protective,ROCHESTER FIRE DEPARTMENT,10/02/1896,10 Bottom
+Harry E. Jenkins,Firefighter,SARATOGA SPRINGS FIRE DEPARTMENT,11/30/1954,14 Top
+"Harry E. Johnston, Jr.",Firefighter,BRIGHTON FIRE DEPARTMENT,7/22/1940,17 Top
+Harry G. Boyle,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/8/1948,15 Top
+Harry J. Kett,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/10/1938,18 Top
+"Harry J. Smith, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/16/1953,14 Top
+Harry M. Korwatch,Lieutenant,YONKERS FIRE DEPARTMENT,3/14/1984,12 Top
+Harry M. Maloney,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/9/1948,15 Top
+Harry Payne,Driver,TANNERSVILLE FIRE DEPARTMENT,7/11/1925,10 Bottom
+Harry R. Halsey,Firefighter,SARATOGA SPRINGS FIRE DEPARTMENT,12/13/1940,17 Top
+Harry S. Ford,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/17/2001,10 Bottom
+"Harry Sauer, Sr.",Firefighter,SALISBURY MILLS FIRE DEPARTMENT,3/20/1985,12 Top
+Harry Smith,Firefighter,BUFFALO FIRE DEPARTMENT,11/5/1960,13 Top
+Harry T. McCarthy,Captain,ALBANY FIRE DEPARTMENT,3/21/1944,16 Top
+Harry W. Barker,Firefighter,JAMESTOWN FIRE DEPARTMENT,10/21/1930,10 Bottom
+Harvey L. Harrell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,12 Bottom
+"Hector L. Tirado, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,11 Bottom
+Hector McClune,Firefighter,MILLERTON FIRE DEPARTMENT,11/26/2006,21 Bottom
+Henry A. Hoderlein,Firefighter,ROCHESTER FIRE DEPARTMENT,2/24/1943,16 Top
+"Henry A. Miller, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Bottom
+Henry B. Innes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/18/1945,16 Top
+Henry C. Foster,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/23/1939,18 Top
+Henry C. Mount,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/09/1879,16 Bottom
+Henry C. Northrip,Firefighter,COLDENHAM FIRE DEPARTMENT,8/21/1982,10 Bottom
+Henry Devitt,Lieutenant,BUFFALO FIRE DEPARTMENT,11/1/1901,13 Bottom
+Henry F. Fargis,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/02/1848,19 Bottom
+Henry Forscheler,Firefighter,ROCHESTER FIRE DEPARTMENT,05/05/1867,17 Bottom
+Henry Goodbrodt,Firefighter,NIAGARA FALLS FIRE DEPARTMENT,8/6/1948,15 Top
+Henry J. Holborn,Firefighter,ROCHESTER FIRE DEPARTMENT,1/15/1940,17 Top
+Henry M. Jackson,Firefighter,BUFFALO FIRE DEPARTMENT,01/28/1854,17 Top
+Henry Tomasewski,Firefighter,WESTHAMPTON BEACH FIRE DEPARTMENT,7/11/1952,14 Top
+Henry W. Dodge,Firefighter,HUTCHINSON HOSE COMPANY,01/15/1894,20 Bottom
+Herman Stanton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/6/1945,15 Top
+"Hiram T. Manning, II",Firefighter,UNIONVILLE FIRE DEPARTMENT,8/8/1952,21 Top
+Howard E. Scroger,Fire Police,ALABAMA FIRE DEPARTMENT,11/18/1987,11 Top
+Howard E. Wynn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/29/1947,15 Top
+Howard Garrison,Firefighter,CENTERVILLE FIRE COMPANY,4/19/1988,11 Top
+Howard R. Schmitt,Battalion Chief,ALBANY FIRE DEPARTMENT,8/15/1993,10 Top
+Howard V. Colbert,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/9/1944,16 Top
+Hubert J. Ingersoll,Firefighter,PULASKI FIRE DEPARTMENT,7/30/1947,15 Top
+Hugh Fox,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/23/1896,14 Bottom
+Hugh Gallagher,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+Hugh McGowen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/04/1891,14 Bottom
+Hugh T. Gibson,Foreman,SYRACUSE FIRE DEPARTMENT,08/28/1841,20 Bottom
+Ignatius V. Bell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/8/1960,12 Bottom
+Ingrid Sowle,Firefighter,PORT WASHINGTON FIRE DEPARTMENT,2/19/1990,11 Top
+Ira L. Foote,Firefighter,ROCHESTER FIRE DEPARTMENT,6/29/1944,16 Top
+Irving W. Dwyer,Lieutenant,AUBURN CITY FIRE DEPARTMENT,12/21/1931,10 Bottom
+Isaac L. Ransom,Lieutenant,EAST CLINTON FIRE DEPARTMENT,2/13/1946,13 Bottom
+Issac Monroe,Firefighter,UTICA FIRE DEPARTMENT,09/28/1897,14 Bottom
+Ivan R. Delameter,Firefighter,MARGARETVILLE FIRE DEPARTMENT,9/2/1961,12 Bottom
+J. M. Forrester,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/01/1849,19 Bottom
+J. Robert Hickey,Fire Police,EAST GREENBUSH FIRE DEPARTMENT,3/22/1987,11 Top
+Jack Fink,Firefighter,BELLEROSE TERRACE FIRE DEPARTMENT,4/8/1963,10 Top
+Jack Miller,Firefighter,DUNDEE FIRE DEPARTMENT,1/1/1986,12 Top
+Jacob Bassman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/29/1947,15 Top
+Jacob Edler,Firefighter,NEW YORK CITY FIRE DEPARTMENT,03/18/1871,16 Bottom
+Jacob Steiger,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/06/1897,14 Bottom
+Jacob Steigler,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/08/1872,18 Bottom
+Jake M. Hoeffner,Captain/Juniors,YAPHANK FIRE DEPARTMENT,5/31/1998,10 Top
+Jamel M. Sears,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/11/2008,11 Top
+James A. Dingee,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/23/1943,16 Top
+James A. Giberson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+James A. Kane,Firefighter,YONKERS FIRE DEPARTMENT,1/31/1943,16 Top
+James A. Pinto,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/20/1961,12 Bottom
+James A. Rogers,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/2/1963,11 Bottom
+James B. Williams,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/5/1996,10 Top
+James Byrne,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,11/23/1954,14 Top
+James C. Farley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/16/1947,15 Top
+James C. Lickfield,Firefighter,BUFFALO FIRE DEPARTMENT,12/27/1983,12 Top
+James C. Riches,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+James Costello,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/13/1945,16 Top
+James Curtin,Battalion Chief,BUFFALO FIRE DEPARTMENT,4/5/1956,13 Top
+James Davis,Firefighter,PORT WASHINGTON FIRE DEPARTMENT,08/19/1892,17 Bottom
+James Dawe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/29/1902,13 Bottom
+James Devlin,Firefighter,ELMONT FIRE DEPARTMENT,7/24/1981,12 Top
+James Dworetsky,Chief,YOUNGSVILLE FIRE DEPARTMENT,11/25/1995,10 Top
+James E. Bohan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/18/1998,10 Top
+James E. Deegan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+James E. Linekin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/27/1966,11 Bottom
+James E. McArdle,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/14/1957,13 Top
+James E. Nugent,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/14/1901,13 Bottom
+James E. Winne,Ladderman,ALBANY FIRE DEPARTMENT,01/16/1875,16 Bottom
+James F. Calnan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/29/1897,13 Bottom
+James F. Coyle,Lieutenant,ALBANY FIRE DEPARTMENT,4/20/1943,16 Top
+James F. Devine,"Patrolman, Fire Patrol",NYBFU/STATIONED WITH FDNY,2/14/1958,17 Top
+James F. Greene,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/1/1932,20 Top
+James F. Hipple,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/31/1965,11 Bottom
+James F. Hughes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/3/1938,18 Top
+James F. Marino,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/26/1962,12 Bottom
+James F. McDonnell,Captain,NEW YORK CITY FIRE DEPARTMENT,10/20/1985,12 Top
+James F. Roche,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/14/1884,15 Bottom
+James F. Young,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/28/1994,10 Top
+James G. Corbett,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/18/1903,13 Bottom
+James G. Kesling,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,4/6/1957,13 Top
+James Glasglow,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/15/1840,19 Bottom
+James H. McGee,Firefighter,AUBURN FIRE DEPARTMENT,5/13/1939,17 Top
+James H. Savage,Captain,NEW YORK CITY FIRE DEPARTMENT,7/5/1943,16 Top
+James H. Shute,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,08/23/1891,14 Bottom
+James H. Sidway,Assistant Foreman,BUFFALO FIRE DEPARTMENT,01/25/1865,19 Top
+James Harris,Lieutenant/Fire Police,MECHANICVILLE FIRE DEPARTMENT,12/4/1994,10 Top
+James Hartnett,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/1/1932,20 Top
+James Hedges,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/25/1832,20 Bottom
+James Hennessey,Firefighter,BUFFALO FIRE DEPARTMENT,3/20/1940,17 Top
+James Hunter,Firefighter,NEWBURGH FIRE DEPARTMENT,01/24/1895,14 Bottom
+James J. Corrigan,Fire Safety Director WTC,WORLD TRADE CENTER,9/11/2001,15 Bottom
+"James J. Farrell, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/19/1945,15 Top
+James J. Hughes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/19/1944,16 Top
+"James J. Johnston, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/22/1963,12 Bottom
+"James J. Moran, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/13/1953,14 Top
+James J. Ruane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/17/1962,12 Bottom
+"James J. Ryan, IV",Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/16/1945,15 Top
+James Jimenez,Firefighter,SYOSSET FIRE DEPARTMENT,8/7/1984,12 Top
+James L. Fitzgerald,Captain,TROY FIRE DEPARTMENT,2/4/1946,15 Top
+James L. Haviland,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/15/1905,16 Bottom
+"James L. Sheridan, Sr.",Firefighter,SCHENECTADY FIRE DEPARTMENT,6/12/1961,12 Bottom
+James M. Amato,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,12 Bottom
+James M. Gray,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+James McNulty,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+James Molloy,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/6/1959,13 Top
+James Murphy,Firefighter,SYRACUSE FIRE DEPARTMENT,12/04/1896,14 Bottom
+James Murphy,Firefighter,OSWEGO FIRE DEPARTMENT,4/20/1918,10 Bottom
+James N. Pappageorge,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+James P. Cummings,Firefighter,CATSKILL FIRE DEPARTMENT,1/6/1988,11 Top
+James P. Reilly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/14/1956,13 Top
+James P. Smith,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/04/1885,15 Bottom
+James P. Wickham,Firefighter,CUTCHOGUE FIRE DEPARTMENT,4/5/1930,13 Top
+James Plunket,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/24/1873,16 Bottom
+James R. Cameron,Firefighter,CANTON FIRE DEPARTMENT,2/22/1948,19 Top
+James R. Coyle,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+James R. Gillis,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/20/1946,15 Top
+James R. Hickey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/5/1945,16 Top
+James Rehill,Firefighter,NEW YORK CITY FIRE DEPARTMENT,06/01/1887,15 Bottom
+James Roche,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/24/1951,14 Top
+James S. Wells,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/15/1840,19 Bottom
+James Tubridy,Division Chief,NEW YORK CITY FIRE DEPARTMENT,7/30/1940,17 Top
+James V. Galanaugh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+James W. Blackmore,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,6/5/1998,10 Top
+James W. Kojac,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/2/1956,13 Top
+James W. McCarthy,Firefighter,BINGHAMTON FIRE DEPARTMENT,10/8/1940,10 Bottom
+James Weaver,Firefighter,GALLUPVILLE FIRE DEPARTMENT,4/2/1995,10 Top
+James Whalen,Captain,NEW YORK CITY FIRE DEPARTMENT,10/06/1869,17 Bottom
+Jeffrey J. Giordano,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Bottom
+Jeffrey J. Olsen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+Jeffrey M. Palazzo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+Jeffrey P. Walz,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Jeffrey Stark,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+Jeremiah P. Coughlin,Firefighter,ROCHESTER FIRE DEPARTMENT,5/24/1936,18 Top
+Jeremy S. Lasher ,Firefighter ,VERONA FIRE DEPARTMENT ,7/23/2009,20 Top
+Jerry G. Saxe,Firefighter,KISKATOM VOLUNTEER FIRE DEPARTMENT,11/4/1964,16 Top
+Joan Monahan,Firefighter,NANUET FIRE COMPANY,1/1/1994,10 Top
+Joe M. Vargason,Fire Police,MAINE FIRE DEPARTMENT,6/30/2001,17 Bottom
+Joel F. Kinzly,Firefighter,NORTH TONAWANDA FIRE DEPARTMENT,11/20/1945,15 Top
+Joel Kohlhammer,Assistant Foreman,SYRACUSE FIRE DEPARTMENT,08/28/1841,21 Bottom
+John A. Crisci,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,12 Bottom
+John A. Davison,Chief,EAST NORWICH FIRE DEPARTMENT,12/1/1955,18 Top
+John A. Keyser,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+John A. Licciardo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/7/1982,12 Top
+John A. Luby,Foreman,ALBANY FIRE DEPARTMENT,07/12/1885,15 Bottom
+John A. Lyden,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/24/1949,15 Top
+John A. Santore,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+John A. Schardt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+John A. Slowey,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,8/1/1934,19 Top
+John A. Wheeler,Firefighter,OSSINING FIRE DEPARTMENT,12/10/1874,16 Bottom
+John A. Williamson,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+John Biernie,Lieutenant,UTICA FIRE DEPARTMENT,2/12/1902,13 Bottom
+John Bradshaw,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/26/1828,21 Bottom
+John Buckloh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/06/1838,19 Bottom
+John Bulger,Engineer,NEW YORK CITY FIRE DEPARTMENT,11/28/1890,14 Bottom
+John C. Cosner,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/18/1960,13 Top
+John C. Farragher,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/12/1962,12 Bottom
+John C. Huggins,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/26/1942,17 Top
+John C. Huss,Firefighter,RIDGE - CULVER FIRE DEPARTMENT,3/7/1984,12 Top
+"John C. Nelson, Jr.",Firefighter,HOLLAND FIRE COMPANY,9/25/1992,10 Top
+John Cannon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/15/1962,12 Bottom
+John Carroll,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/28/1935,19 Top
+John Catalano,Ex-Chief,SELDEN FIRE DEPARTMENT,5/1/1962,11 Top
+John Clarke,Firefighter,BUFFALO FIRE DEPARTMENT,08/16/1896,14 Bottom
+John Crotty,Deputy Commissioner,BUFFALO FIRE DEPARTMENT,2/8/1937,18 Top
+John D. McKean,Engineer,NEW YORK CITY FIRE DEPARTMENT,9/22/1953,14 Top
+John D. Pike,Firefighter,ROCHESTER FIRE DEPARTMENT,05/05/1867,17 Bottom
+John Dargan,Ex-Captain,PORT WASHINGTON FIRE DEPARTMENT,4/11/1953,19 Top
+John Domblewski,Inspector,SCHENECTADY FIRE DEPARTMENT,1/11/1974,19 Bottom
+John Dougherty,Firefighter,OSWEGO FIRE DEPARTMENT,2/10/1904,10 Bottom
+John Durkin,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/24/1937,18 Top
+John E. DeRosa,Firefighter,SENNETT FIRE DEPARTMENT,1/1/1983,12 Top
+John E. Ginocchetti,Firefighter,MANLIUS FIRE DEPARTMENT,3/7/2002,10 Bottom
+John E. Murphy,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/27/1939,18 Top
+John E. Woodard,Fire Protection Specialist,NYS/DOS/OFFICE OF FIRE PREVENTION & CONTROL,6/29/1995,10 Top
+John Eaton,Firefighter,ROCHESTER FIRE DEPARTMENT,08/26/1840,19 Bottom
+John Ennis,Firefighter,NEW YORK CITY FIRE DEPARTMENT,08/30/1885,15 Bottom
+John F. Cassidy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/20/1880,16 Bottom
+John F. Hickey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/30/1896,14 Bottom
+John F. Kroening,Firefighter,CAMBRIA FIRE DEPARTMENT,11/18/1997,10 Top
+John F. Molloy,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/4/1956,13 Top
+John F. Spaulding,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/12/1892,14 Bottom
+John G. Barry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+John G. Chipura,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+John G. Reinhardt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/06/1897,14 Bottom
+John Geary,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/22/1901,13 Bottom
+John H. Bush,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,02/11/1876,16 Bottom
+John H. Cosgrove,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/1/1932,20 Top
+John H. Seaman,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/2/1935,19 Top
+John H. Slattery,Hoseman,ROCHESTER FIRE DEPARTMENT,1/8/1901,13 Bottom
+John Husser,Firefighter,ROCKVILLE CENTRE FIRE DEPARTMENT,6/28/2005,18 Top
+John J. Bresnan,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,12/29/1894,14 Bottom
+"John J. Daly, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/12/1955,14 Top
+John J. Downing,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/17/2001,18 Top
+John J. Drennan,Captain,NEW YORK CITY FIRE DEPARTMENT,5/7/1994,10 Top
+John J. Fanning,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,11 Bottom
+"John J. Feeley, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/18/1933,19 Top
+John J. Finley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/17/1939,17 Top
+John J. Finley,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+"John J. Flanagan, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/8/1975,8 Top
+John J. Flood,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,12/20/1932,11 Bottom
+John J. Garrick,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/9/1961,12 Bottom
+John J. Grady,Captain,NEW YORK CITY FIRE DEPARTMENT,3/24/1900,13 Bottom
+John J. Jakoby,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/5/1938,18 Top
+John J. Kiley,Firefighter,YONKERS FIRE DEPARTMENT,12/20/1943,16 Top
+John J. King,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/27/1961,12 Bottom
+"John J. Lyons, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/17/1939,17 Top
+John J. McDermott,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/18/1960,13 Top
+John J. McPartlin,Firefighter,ROCHESTER FIRE DEPARTMENT,10/8/1936,18 Top
+John J. Rober,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/28/1959,13 Top
+John J. Russell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/15/1945,15 Top
+John J. Sheehy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/1/1944,16 Top
+John J. Stolz,Hoseman,ALBANY FIRE DEPARTMENT,7/12/1954,14 Top
+"John J. Storch, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/6/1933,19 Top
+"John J. Tipping, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+John J. Toomey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/6/1987,11 Top
+John J. Tracy,Firefighter,MATTYDALE FIRE DEPARTMENT,7/31/1966,11 Bottom
+John Kennell,Firefighter,BUFFALO FIRE DEPARTMENT,5/8/1902,13 Bottom
+John Knapp,Firefighter,NEW YORK CITY FIRE DEPARTMENT,03/07/1834,20 Bottom
+John L. Carlson,Firefighter,JERICHO FIRE DEPARTMENT,6/26/1984,12 Top
+John L. Guyre,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1850,19 Bottom
+"John L. Kelley, Jr.",Fire Police,CANISTEO FIRE DEPARTMENT,3/18/1990,11 Top
+John L. Rooney,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/29/1894,14 Bottom
+John M. Clancy,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/31/1995,10 Top
+John M. Collins,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+John M. Gill,Firefighter,AUBURN FIRE DEPARTMENT,5/31/1942,16 Top
+John M. J. McGowan,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,3/8/1952,14 Top
+John M. Killian,Firefighter,SCHENECTADY FIRE DEPARTMENT,9/9/1952,14 Top
+John Manning,Captain,BUFFALO FIRE DEPARTMENT,07/21/1887,15 Bottom
+John Morrissey,Firefighter,BUFFALO FIRE DEPARTMENT,01/13/1890,15 Bottom
+John N. Crosthwaite,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/4/1961,12 Bottom
+John P. Bergin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+John P. Burnside,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+John P. Devaney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/3/1989,11 Top
+John P. Hamilton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/22/1954,14 Top
+John P. Rotundo,Firefighter,HARRISON FIRE DEPARTMENT,12/6/1964,11 Bottom
+John P. Schwintek,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/14/1940,17 Top
+John P. Tierney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+John R. Sheridan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/14/1945,16 Top
+John Reilly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/14/1879,16 Bottom
+John Reinhardt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+John Roller,Firefighter,BREWERTON FIRE DEPARTMENT,11/18/1987,11 Top
+John S. Carman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/30/1853,18 Bottom
+John S. Whitnell,Hoseman,ALBANY FIRE DEPARTMENT,01/31/1899,13 Bottom
+John Slowey,Captain,NEW YORK CITY FIRE DEPARTMENT,02/03/1863,17 Bottom
+John T. Andariese,Captain,NEW YORK CITY FIRE DEPARTMENT,2/26/1903,13 Bottom
+John T. Dwyer,Captain,TROY FIRE DEPARTMENT,4/18/1956,13 Top
+John T. Rynn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/10/1948,15 Top
+"John T. Vigiano, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Top
+John U. Green,Deputy Coordinator ,RICHVILLE FIRE DEPARTMENT,9/9/1987,11 Top
+John V. Logan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/24/1933,19 Top
+John W. Agan,Firefighter,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+John W. Bridgeford,Hoseman,ALBANY FIRE DEPARTMENT,12/19/1892,14 Bottom
+John W. Eiserman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/14/1945,16 Top
+John W. Irving,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/07/1879,16 Bottom
+John W. Leary,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/9/1946,15 Top
+"John W. Smith, II",Lieutenant,NEW YORK CITY FIRE DEPARTMENT,6/18/1933,20 Top
+John Woods,Firefighter,OSWEGO FIRE DEPARTMENT,4/4/1916,10 Bottom
+Jonathan Hanson,Captain,JAMESTOWN FIRE DEPARTMENT,3/12/1910,10 Bottom
+Jonathan Tyack,Assistant Foreman,NEW YORK CITY FIRE DEPARTMENT,06/22/1884,15 Bottom
+Joseph A. Dansbach,Firefighter,ROCHESTER FIRE DEPARTMENT,10/7/1940,17 Top
+Joseph A. Joyce,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/1/1945,15 Top
+Joseph A. Mascali,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Joseph A. McNamara,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1937,18 Top
+Joseph Albert,Firefighter,HAVERSTRAW FIRE DEPARTMENT,1/8/1906,20 Top
+Joseph Anton,Firefighter,AUBURN CITY FIRE DEPARTMENT,12/26/1932,20 Top
+Joseph C. Fiala,Firefighter,SAYVILLE FIRE DEPARTMENT,7/29/1947,15 Top
+Joseph C. G. Fischer,Firefighter,LYNBROOK FIRE DEPARTMENT,5/3/1963,11 Bottom
+Joseph Calabro,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/1/1982,12 Top
+Joseph Culligan,Battalion Chief,ROCHESTER FIRE DEPARTMENT,11/22/1937,18 Top
+"Joseph D. Jarvis, Sr.",Fire Police,OCEANSIDE FIRE DEPARTMENT,5/19/1994,10 Top
+Joseph Delong,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/28/1954,14 Top
+Joseph Dunn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/4/1936,18 Top
+Joseph E. Muggleton,Firefighter,BINGHAMTON FIRE DEPARTMENT,6/14/1914,10 Bottom
+Joseph Eckes,Firefighter,OSSINING FIRE DEPARTMENT,5/13/1941,17 Top
+Joseph Farrell,Firefighter,BAYPORT FIRE DEPARTMENT,3/19/1991,11 Top
+Joseph Hugger,Firefighter,SYRACUSE FIRE DEPARTMENT,09/10/1887,15 Bottom
+Joseph J. Brecht,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/31/1948,15 Top
+Joseph J. Kirker,Protective,ALBANY FIRE DEPARTMENT,4/30/1959,13 Top
+"Joseph J. McNally, Sr.",Captain,ALBANY FIRE DEPARTMENT,4/23/1986,12 Top
+Joseph J. Ogren,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+Joseph J. Stock,Chief,ROSLYN FIRE DEPARTMENT,4/13/1918,15 Bottom
+Joseph J. Tucker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/19/1957,13 Top
+"Joseph Kelly, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+Joseph L. Minore,Ex-Chief,SETAUKET FIRE DEPARTMENT,8/2/1986,12 Top
+Joseph LaGrange,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/20/1932,20 Top
+Joseph M. Oesau,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/12/1955,14 Top
+Joseph McCarty,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/21/1939,17 Top
+Joseph P. Ahearn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/10/1934,19 Top
+Joseph P. Cavalieri,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/18/1998,10 Top
+Joseph P. Dugan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/31/1954,14 Top
+Joseph P. Faughnan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/17/1987,11 Top
+Joseph P. Graffagnino,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/18/2007,19 Bottom
+Joseph P. Spor,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Joseph P. Treacy,Assistant Chief,YONKERS FIRE DEPARTMENT,5/27/1962,12 Bottom
+Joseph Priore,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+Joseph R. Bow,Firefighter,PEARL RIVER FIRE DEPARTMENT,10/21/1991,11 Top
+"Joseph R. Marchbanks, Jr.",Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Top
+"Joseph R. Rivelli, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Joseph Scanlon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/13/1936,18 Top
+Joseph Skillman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/08/1861,17 Bottom
+Joseph T. Fosse,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/26/1937,18 Top
+Joseph T. Mannino,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/24/1953,14 Top
+Joseph Tillotson,Firefighter,NEWBURGH FIRE DEPARTMENT,01/31/1887,15 Bottom
+Joseph Tracy,Captain,NEW YORK CITY FIRE DEPARTMENT,5/3/1938,18 Top
+Joseph V. Machansky,Firefighter,GREENLAWN FIRE DEPARTMENT,1/1/1960,13 Top
+Joseph Valentino,Firefighter,VALLEY STREAM FIRE DEPARTMENT,1/1/1963,11 Bottom
+Joseph Wernette,Firefighter,ROCHESTER FIRE DEPARTMENT,05/05/1867,17 Bottom
+Joseph Wescott,Firefighter,RICHMOND VOLUNTEER ENGINE COMPANY,11/24/1930,21 Top
+Joseph Williams,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/01/1877,16 Bottom
+Joshua A. Wallace,Firefighter,NEW YORK CITY FIRE DEPARTMENT,06/25/1884,15 Bottom
+Julius C. Greene,Ex-Chief,WESTVILLE FIRE DEPARTMENT,11/2/1988,11 Top
+Julius Feldman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/8/1953,14 Top
+June M. Fitzpatrick,Firefighter,ROCKY POINT FIRE DEPARTMENT,6/15/1995,10 Top
+Karl A. Schmidt,Assistant Chief,COWLESVILLE FIRE DEPARTMENT,10/15/1996,10 Top
+Karl H. Joseph,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Karl Richter,Firefighter,WANTAUGH FIRE DEPARTMENT,6/14/1990,11 Top
+Keith A. Glascoe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Keith Roma,Fire Patrol,"WORLD TRADE CENTER, MEM. OF NYBFU/STATIONED WITH FDNY",9/11/2001,19 Top
+Keith W. Farr,Firefighter,AVON FIRE DEPARTMENT,1/23/1983,12 Top
+Keithroy M. Maynard,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+Kenneth B. Kumpel,Fire Marshal,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Kenneth F. Clinch,Firefighter,MOUNT MARION FIRE DEPARTMENT,7/30/1999,21 Top
+Kenneth F. Schunk    ,Firefighter    ,CASSADAGA FIRE DEPARTMENT     ,1/24/1965,21 Top
+Kenneth J. Marino,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Kenneth J. Phelan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Kenneth Smith,Ex-Chief,MERRICK FIRE DEPARTMENT,6/26/1982,12 Top
+Kenneth T. Watson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Kenneth Wamsley,Firefighter,HURLEY FIRE DEPARTMENT,10/26/1963,18 Top
+Kevin C. Dowdell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Kevin C. Seaburg,Assistant Chief,SELKIRK FIRE DEPARTMENT,2/5/1997,10 Top
+"Kevin E. Townes, Sr. ",Firefighter ,MOUNT VERNON FIRE DEPARTMENT,12/8/2011,18 Top
+Kevin H. Bracken,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+Kevin J. Bristol ,Firefighter ,PEEKSKILL FIRE DEPARTMENT ,3/3/2014,11 Bottom
+Kevin J. Cioffi,Firefighter,WYANDANCH FIRE DEPARTMENT,7/15/1985,12 Top
+Kevin J. Pfeifer,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+Kevin J. Smith,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+Kevin J. Sutch,Commissioner,LEVITOWN FIRE DEPARTMENT,6/12/1995,10 Top
+Kevin Kane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/12/1991,11 Top
+Kevin M. Prior,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Kevin O. Reilly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Kevin W. Donnelly,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Lawrence D. Thrower,Lieutenant,SIDNEY FIRE DEPARTMENT,10/24/1998,10 Top
+Lawrence E. Miller,Firefighter,CHERRY CREEK FIRE DEPARTMENT,5/20/1983,12 Top
+Lawrence G. Sesso ,Firefighter ,SAYVILLE FIRE DEPARTMENT ,8/22/2015,16 Bottom
+Lawrence G. Veling,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+Lawrence J. Virgilio,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+"Lawrence R. Smith, Sr.",Firefighter,GHENT VOLUNTEER FIRE COMPANY # 1,3/14/1989,11 Top
+Lawrence T. Stack,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Top
+Lawrence W. Koen,Firefighter,ROCHESTER FIRE DEPARTMENT,9/18/1961,12 Bottom
+Lee S. Fehling,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Leland R. Smith,Hoseman,ALBANY FIRE DEPARTMENT,3/21/1944,16 Top
+Leo A. Podeswa,Firefighter,YONKERS FIRE DEPARTMENT,2/10/1947,15 Top
+Leo Doyle,Firefighter,NATURAL BRIDGE FIRE DEPARTMENT,6/20/1987,11 Top
+Leo J. J. Ray,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/15/1962,12 Bottom
+"Leon Smith, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+"Leon Thomas, Jr.",Firefighter,ADAMS CENTER FIRE DEPARTMENT,7/17/1987,11 Top
+Leon Walton,Firefighter,YORK FIRE DEPARTMENT,8/8/1985,12 Top
+Leonard Bloodgood,Firefighter,OTISCO FIRE DEPARTMENT,4/18/1983,12 Top
+Leonard J. Giustino,Firefighter,PELHAM FIRE DEPARTMENT,1/7/1950,15 Top
+Leonard J. Ragaglia,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Leonard N. Zeller,Past Chief,EDWARDS FIRE DEPARTMENT,12/15/1997,10 Top
+LeRoy A. Kemp    ,Firefighter    ,TIOGA CENTER FIRE COMPANY NO. 1             ,1/13/2010,10 Top
+Leroy Schmuck,Chief,OLD FORGE VOLUNTEER FIRE DEPARTMENT,6/28/1965,19 Bottom
+Leslie G. Ackerly,Firefighter,PATCHOGUE FIRE DEPARTMENT,5/17/1948,15 Top
+Lewis M. Grimes,Firefighter,ALBION FIRE DEPARTMENT,5/13/1949,16 Top
+Lincoln Quappe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Lloyd E. Curtis,Firefighter,VESTAL FIRE DEPARTMENT,2/19/2001,19 Top
+Lloyd Jablin,Firefighter,SOUTH SPRING VALLEY FIRE DEPARTMENT,6/5/1998,10 Top
+Loren Walter ,Fire Police,THURMAN FIRE DEPARTMENT,6/23/1956,13 Top
+Lorenzo Camerano,Firefighter,ROCKVILLE CENTER FIRE DEPARTMENT,2/10/1924,10 Bottom
+Lou Chadderdon,Firefighter,AUBURN FIRE DEPARTMENT,06/17/1880,16 Bottom
+Louis Arena,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Louis Hardina,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/1/1932,20 Top
+Louis J. Brusati,"Patrolman, Fire Patrol",NYBFU/STATIONED WITH FDNY,2/14/1958,15 Bottom
+Louis J. Flurry,Firefighter,UNION VOLUNTEER FIRE COMPANY,7/26/1987,11 Top
+Louis J. Modafferi,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Louis Rice,Assistant Foreman,ROCHESTER FIRE DEPARTMENT,12/16/1894,14 Bottom
+Louis Valentino,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/5/1996,10 Top
+Louis W. Finger,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/7/1953,14 Top
+Lowell J. McElroy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/8/1949,15 Top
+Ludwig A. Beckmann,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/26/1959,13 Top
+Luigi Bianca,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/28/1962,12 Bottom
+"Manuel Delvalle, Jr. ",Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+"Manuel Mojica, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+Mark B. Davis,Firefighter,CAPE VINCENT FIRE DEPARTMENT,1/31/2009,2 Top
+Mark P. Whitford,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Mark Pirolli,Firefighter,NIAGARA FALLS FIRE DEPARTMENT ,10/31/1964,11 Bottom
+Marshall E. Wells,Firefighter,GANSEVOORT FIRE DEPARTMENT,1/1/1981,12 Top
+Marshall F. Sarles,Firefighter,MAMARONECK FIRE DEPARTMENT,7/2/1991,11 Top
+Martin Ames,Firefighter,BRENTWOOD FIRE DEPARTMENT,5/6/1952,14 Top
+Martin D. Kelly,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/26/1957,13 Top
+Martin E. McWilliams,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Martin F. Dwyer,Captain,SYRACUSE FIRE DEPARTMENT,8/27/1936,18 Top
+Martin Hanrahan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/16/1964,11 Bottom
+Martin J. McCormick,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/26/1960,13 Top
+Martin J. Oakley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/21/1897,14 Bottom
+Martin M. Coleman,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,12/21/1903,13 Bottom
+Martin Mahoney,Captain,BUFFALO FIRE DEPARTMENT,11/11/1901,13 Bottom
+Mathais Henes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/22/1870,16 Bottom
+Mathew A. Phillips,Firefighter,ALBION FIRE DEPARTMENT,2/4/1926,15 Bottom
+Mathew F. Wieners,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/28/1959,13 Top
+Mathew Fohey,Captain,NEW YORK CITY FIRE DEPARTMENT,8/24/1900,17 Bottom
+Matthew A. Sheerin,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/19/1960,13 Top
+Matthew Colpoys,Firefighter,BUFFALO FIRE DEPARTMENT,12/27/1983,12 Top
+Matthew J. Belford,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/7/1957,13 Top
+Matthew J. Porcari ,Captain ,OWEGO FIRE DEPARTMENT ,1/22/2013,13 Bottom
+Matthew Lynch,Captain,NEW YORK CITY FIRE DEPARTMENT,3/30/1932,20 Top
+Matthew Merzig,Firefighter,BUFFALO FIRE DEPARTMENT,8/28/1935,19 Top
+Matthew W. Casey,Captain,TROY FIRE DEPARTMENT,10/28/1938,18 Top
+Merle Lewis,Fire Police,WESTFIELD FIRE DEPARTMENT,2/12/1987,11 Top
+Merritt Thorpe,Firefighter,VARNA FIRE DEPARTMENT,8/1/1962,12 Top
+Michael A. Esposito,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+Michael Berenz,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/22/1957,13 Top
+Michael C. Fiore,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Michael C. Reilly,Probationary Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/27/2006,19 Top
+Michael Carvet,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/01/1854,18 Bottom
+Michael Conners,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/31/1882,15 Bottom
+Michael D. Mullan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+Michael D. Sowich ,Firefighter ,NEW HARTFORD FIRE DEPARTMENT ,3/2/2007,17 Top
+Michael E. Gerrie,Lieutenant,BUFFALO FIRE DEPARTMENT,2/2/1988,11 Top
+Michael E. Reilly,Firefighter,PATCHOGUE FIRE DEPARTMENT,12/23/1980,10 Bottom
+Michael Emmett,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/26/1900,13 Bottom
+Michael F. Cammarata,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Michael F. Logan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/5/1935,19 Top
+Michael F. Lynch,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Michael F. Lynch,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Michael Flynn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+Michael G. Catanzaro,Firefighter,BUFFALO FIRE DEPARTMENT,12/27/1983,12 Top
+Michael G. McGee,"Sergeant, Fire Patrol",NYBFU/STATIONED WITH FDNY,2/14/1958,18 Bottom
+Michael G. Montesi,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,12 Bottom
+Michael Gillen,Engineer,TROY FIRE DEPARTMENT,06/22/1890,14 Bottom
+Michael H. Haub,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+Michael J. Berkery,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/14/1946,15 Top
+Michael J. Chiapperini,Firefighter,WEST WEBSTER FIRE DEPARTMENT,12/24/2012,12 Top
+Michael J. Elferis,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Michael J. Lyons,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Bottom
+Michael J. McNamara,Hoseman,ALBANY FIRE DEPARTMENT,11/21/1870,17 Bottom
+Michael J. Mulvey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/7/1937,18 Top
+Michael J. Nolan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/03/1888,15 Bottom
+Michael J. Otten,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Michael J. Shields,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/26/1962,12 Bottom
+Michael K. Healy,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+Michael Klein,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/7/1960,13 Top
+Michael L. Austin,Firefighter,BUFFALO FIRE DEPARTMENT,12/27/1983,12 Top
+Michael L. Seguin,Firefighter,BUFFALO FIRE DEPARTMENT,7/4/1997,10 Top
+Michael Michelotti,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/12/1950,15 Top
+Michael Moschenross,Firefighter,GLENWOOD FIRE DEPARTMENT,12/18/1989,11 Top
+Michael N. Fodor,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Michael Neuner,Lieutenant,BREWSTER FIRE DEPARTMENT,6/22/1997,10 Top
+Michael P. Esposito ,Firefighter ,BALDWIN FIRE DEPARTMENT ,5/18/2011,15 Top
+Michael P. Ragusa,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,11 Bottom
+Michael R. Tracy,"Patrolman, Fire Patrol",SOUTH GLENS FALLS FIRE DEPARTMENT,2/14/1958,19 Top
+Michael Rogers,Firefighter,SYRACUSE FIRE DEPARTMENT,10/12/1887,15 Bottom
+Michael Sheehan,Firefighter,BUFFALO FIRE DEPARTMENT,12/9/1944,16 Top
+Michael Snyder,Captain,NEW YORK CITY FIRE DEPARTMENT,05/16/1868,17 Bottom
+Michael T. Quilty,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Michael T. Weinberg,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Michael V. Kiefer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Michael W. Tarpey,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/1/1945,16 Top
+Miles J. Rutyna,Firefighter,YONKERS FIRE DEPARTMENT,7/1/1957,16 Top
+Miles L. Swoarby,Firefighter,NEW YORK CITY FIRE DEPARTMENT,08/27/1867,17 Bottom
+Milford H. Ottmann,Captain,ROCKVILLE CENTRE FIRE DEPARTMENT,7/28/1933,10 Bottom
+Milton F. Meisner,Firefighter,ATTICA FIRE DEPARTMENT,2/16/1922,10 Bottom
+Mitchel E. Spoth,Firefighter,EAST AMHERST FIRE DEPARTMENT,1/11/1985,12 Top
+Morris Graf,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/22/1945,15 Top
+Mortimer A. Roberts,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/6/1901,13 Bottom
+Moses W. Embler,Firefighter,NEWBURGH CITY FIRE DEPARTMENT,8/30/1904,21 Top
+Myron F. VanBuskirk,Assistant Chief,BALDWINSVILLE FIRE DEPARTMENT,10/22/1954,14 Top
+Nathan E. Olmstead,Chief,CAMDEN FIRE DEPARTMENT,5/21/1959,13 Top
+Nathan Levine,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/22/1947,15 Top
+Nathaniel Brown,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/25/1832,20 Bottom
+Neil Hyland,Firefighter,MASSAPEQUA FIRE DEPARTMENT,3/2/1995,10 Top
+Nelson L. Tuite,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/9/1945,15 Top
+Nicholas P. Chiofalo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+Nicholas P. Rossomando,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+Nickolas Marzen,Firefighter,HUNTINGTON MANOR FIRE DEPARTMENT,4/6/1930,10 Bottom
+Norman J. Rowe,Captain,SYRACUSE FIRE DEPARTMENT,7/7/1989,11 Top
+Norman Lester,Firefighter,SCHENECTADY FIRE DEPARTMENT,12/13/1960,12 Bottom
+Norman Schunk,Fire Police,EAST EDEN FIRE DEPARTMENT,1/9/1993,10 Top
+O. M. Wilson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+"Olin L. Blair, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/19/1964,11 Bottom
+Orestes Hantjiles,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/28/1959,13 Top
+Orio J. Palmer,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Oscar F. Dell,Firefighter,RUSH FIRE DEPARTMENT,1/7/1988,11 Top
+Oscar H. Bloom,Firefighter,JAMESTOWN FIRE DEPARTMENT,6/13/1934,10 Bottom
+Otto Lindemann,Ex-Captain,SPRING VALLEY FIRE DEPARTMENT,1/29/1928,13 Bottom
+P. Joseph Connolly,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,8/22/1962,12 Top
+Paavo J. Siivonen,Firefighter,ONEIDA FIRE DEPARTMENT,9/26/1963,11 Bottom
+Packey Radigan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/26/1952,14 Top
+Patrick A. Dougherty,Firefighter,TROY FIRE DEPARTMENT,4/22/1934,19 Top
+Patrick Clark,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/01/1880,16 Bottom
+Patrick Conlin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,06/09/1895,14 Bottom
+Patrick Devlin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/29/1940,17 Top
+Patrick Heavey,Firefighter,ROCHESTER FIRE DEPARTMENT,11/21/1857,17 Bottom
+Patrick J. Lyons,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Patrick J. Maloney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/3/1933,20 Top
+Patrick J. Quail,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/11/1902,13 Bottom
+Patrick Lafferty,Firefighter,GREENVILLE FIRE DEPARTMENT,10/12/1993,10 Top
+Patrick Lennon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/1/1904,13 Bottom
+Patrick McKeon,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/25/1938,18 Top
+Paul A. MacMurray,Firefighter,HUDSON FALLS FIRE DEPARTMENT,8/27/1994,10 Top
+Paul A. Tegtmeier,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,12 Bottom
+Paul C. Wrigley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/16/1958,13 Top
+"Paul E. Caywood, Sr.",Assistant Chief,FABIUS FIRE DEPARTMENT,9/29/1990,11 Top
+"Paul E. Ryf, Jr.",Chief,FRANKLIN SQUARE & MUNSON FIRE DEPARTMENT,3/23/1932,10 Bottom
+Paul E. Savoir,Assistant Chief,CONSTABLE FIRE DEPARTMENT,4/30/1998,16 Bottom
+Paul G. Ruback,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Paul J. Gill,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Paul J. Pansini,Fire Marshal,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,11 Bottom
+Paul P. Shannon,Firefighter,YONKERS FIRE DEPARTMENT,11/20/1986,12 Top
+Paul R. Brady,Firefighter,MELVERNE FIRE DEPARTMENT,7/30/2006,12 Bottom
+Paul R. Cady,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/13/1960,13 Top
+Paul R. Martini,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Bottom
+Paul T. Mitchell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Paul Warhola ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/14/2009,21 Bottom
+Paul Wishmeyer,Lieutenant,SAINT PAUL BOULEVARD FIRE DEPARTMENT,4/15/1960,19 Top
+Peter A. Carey,Firefighter,KINGSTON FIRE DEPARTMENT,5/15/1937,18 Top
+Peter A. Cervini,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/16/1964,11 Bottom
+Peter A. Daly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/1/1932,20 Top
+Peter Bradley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/18/1955,17 Top
+Peter Dunn,Firefighter,TROY FIRE DEPARTMENT,12/16/1844,19 Bottom
+Peter E. Farley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/16/1949,15 Top
+Peter Engel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/5/1950,14 Top
+Peter F. Bowen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/24/1900,13 Bottom
+Peter F. McLaughlin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/8/1995,10 Top
+Peter G. Peila,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/13/1957,13 Top
+Peter H. Kahn,Firefighter,TRUMANSBURG FIRE DEPARTMENT,2/16/1997,10 Top
+Peter H. Walsh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/21/1866,17 Bottom
+"Peter J. Brennan, Jr.",Captain,NEW YORK CITY FIRE DEPARTMENT,5/15/1963,11 Bottom
+Peter J. Canelli,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,2/16/1987,11 Top
+Peter J. Daley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/18/1955,14 Top
+Peter J. Dannhardt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/4/1943,16 Top
+Peter J. Harmon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/24/1937,18 Top
+Peter J. Moody,Firefighter,LYNBROOK FIRE DEPARTMENT,5/2/1963,11 Bottom
+Peter McKeon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/11/1895,14 Bottom
+Peter S. Clark,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/1904,13 Bottom
+Philip Eckel,Chief,SYRACUSE FIRE DEPARTMENT,06/01/1886,15 Bottom
+Philip Fournier,Firefighter,VALLEY STREAM FIRE DEPARTMENT,9/19/1948,15 Top
+Philip Laino,Firefighter,ROCKY POINT FIRE DEPARTMENT,1/1/1962,12 Bottom
+"Phillip H. Baker, Sr.",Ex-Chief ,NORTH PATCHOGUE FIRE DEPARTMENT,12/16/1987,11 Top
+Phillip Holton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,07/29/1880,16 Bottom
+Phillip J. Maus,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/14/1875,16 Bottom
+Phillip W. Hublitz,Captain,NEW YORK CITY FIRE DEPARTMENT,11/13/1939,17 Top
+Pierce English,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/07/1898,13 Bottom
+Preston L. DeWitt,Firefighter,KINGSTON FIRE DEPARTMENT,5/15/1937,18 Top
+"Ralph E. Hager, Jr.",Firefighter,SHORTSVILLE FIRE DEPARTMENT,9/19/1984,12 Top
+Ralph J. Osterhout,Ex-Chief,BROADALBIN FIRE DEPARTMENT,8/10/1981,12 Top
+Ralph Walston,Firefighter,OYSTER BAY FIRE DEPARTMENT,4/20/1928,13 Bottom
+Randolph F. Belcher,Firefighter,HORSEHEADS FIRE DEPARTMENT,6/21/1991,11 Top
+Raymond Abrams,Ex-Chief,LYNBROOK FIRE DEPARTMENT,6/30/1946,15 Top
+Raymond Cauxx,Firefighter,MOHEGAN LAKE FIRE DEPARTMENT,4/19/1963,11 Bottom
+Raymond Cosgrove,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/2/1942,17 Top
+Raymond E. Bauder,Lieutenant,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+Raymond F. Farrell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/21/1923,14 Bottom
+Raymond F. Schiebel,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/7/1995,10 Top
+Raymond H. Place,Firefighter,CATSKILL FIRE DEPARTMENT,1/4/1974,20 Bottom
+Raymond J. Vandermark,Firefighter,CATSKILL FIRE DEPARTMENT,1/28/1973,19 Top
+Raymond J. Whalen,Firefighter,BUFFALO FIRE DEPARTMENT,7/29/1985,12 Top
+Raymond M. Sands,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/24/1935,19 Top
+Raymond Nakovics,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/29/1998,10 Top
+Raymond R. Mayr,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/2/1963,11 Bottom
+Raymond Somers,Captain,UTICA FIRE DEPARTMENT,5/8/1953,14 Top
+Rex E. Hoad,Firefighter,CAMERON FIRE DEPARTMENT,6/19/1996,10 Top
+Rex E. Walter,Firefighter,NAPANOCH FIRE DEPARTMENT,2/10/2002,11 Bottom
+Rex S. Green,Firefighter,PULASKI FIRE DEPARTMENT,8/28/1954,14 Top
+Richard A. Prunty,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,11 Bottom
+Richard Andrews,Probationary Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/26/1962,12 Bottom
+Richard Bates,Firefighter,CORTLAND FIRE DEPARTMENT,1/1/1981,12 Top
+Richard D. Buongiorne,Firefighter,KENDALL FIRE DEPARTMENT,1/10/2001,16 Bottom
+"Richard D. Weisse, Sr. ",Firefighter ,ST. JAMES FIRE DEPARTMENT ,11/15/2014,17 Top
+"Richard E. Gleason, Sr.",Firefighter,MOHEGAN LAKE FIRE DEPARTMENT,7/9/1993,10 Top
+Richard Farrell,Lieutenant Fire Police,SOUTH SCHODACK FIRE DEPARTMENT,6/25/1997,10 Top
+Richard G. Sale,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/19/1986,12 Top
+Richard Gelke,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/15/1958,13 Top
+Richard J. Joyce,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/21/1903,13 Bottom
+Richard J. Serla,Chief,SYOSSET FIRE DEPARTMENT,7/1/1990,11 Top
+"Richard J. Smith, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/11/1982,12 Top
+Richard M. Powers,Firefighter,HEMPSTEAD FIRE DEPARTMENT,6/7/1932,20 Top
+Richard MacClave,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/26/1957,13 Top
+Richard Marion,Firefighter,BUFFALO FIRE DEPARTMENT,02/02/1889,15 Bottom
+Richard Murdock,Firefighter,SCHUYLER LAKE FIRE DEPARTMENT,1/1/1984,12 Top
+Richard P. Gifford,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/26/1962,12 Bottom
+Richard S. Ritchie,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/26/1836,20 Bottom
+"Richard T. Muldowney, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Bottom
+Richard T. Sclafani,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/24/2005,20 Top
+Richard VanWert,Chief,SCHAGHTICOKE FIRE DEPARTMENT,12/10/1999,17 Bottom
+Richard W. Beck,Firefighter,OWEGO FIRE DEPARTMENT,7/9/1993,10 Top
+Richard W. Schultz,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/31/1959,13 Top
+Robert A. Knight ,Firefighter ,SAYVILLE FIRE DEPARTMENT ,5/1/2014,18 Top
+Robert A. Meill,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/1/1961,12 Bottom
+Robert A. Shea,Firefighter,BABYLON FIRE DEPARTMENT,1/23/1991,11 Top
+Robert B. Gooding,Firefighter,FAIRVIEW FIRE DEPARTMENT,1/1/1983,12 Top
+Robert B. Pagels,Driver,TONAWANDA FIRE DEPARTMENT,2/28/1928,16 Bottom
+Robert Beddia,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/18/2007,21 Top
+Robert C. Ayers,Past Chief,WEST CORNERS FIRE DEPARTMENT,9/12/1984,12 Top
+Robert C. Davidson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/22/1951,14 Top
+"Robert C. Pettit, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/15/1944,16 Top
+Robert Calladine,1st Assistant Chief,NIAGARA FALLS FIRE DEPARTMENT,2/13/1954,14 Top
+Robert Cordice,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Bottom
+Robert Curatolo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Robert D. McMahon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Robert E. Costa,Firefighter,FONDA FIRE DEPARTMENT,1/1/1981,12 Top
+Robert E. Evans,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+Robert E. Nagel,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Robert E. Parro,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Robert E. Rummel,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/16/1950,15 Top
+Robert F. Cushing,Firefighter,PATCHOGUE FIRE DEPARTMENT,7/6/1988,11 Top
+Robert F. Gilmer,Truckman,ALBANY FIRE DEPARTMENT,01/23/1895,14 Bottom
+Robert F. Peters,Lieutenant,HASTINGS ON THE HUDSON FIRE DEPARTMENT,8/29/1998,10 Top
+Robert F. Wallace,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+Robert Fowler,Firefighter,SPENCERPORT FIRE DEPARTMENT,2/22/1997,10 Top
+Robert G. Gates,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/14/1943,16 Top
+Robert H. Dayton,Lieutenant,PORT WASHINGTON FIRE DEPARTMENT,11/26/1988,11 Top
+Robert H. Hathaway,Chief,BRANCHPORT FIRE DEPARTMENT,1/8/1997,10 Top
+Robert J. Cahill,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,2/17/1982,12 Top
+Robert J. Cassidy,Ex-Assistant Chief ,SHUSHAN FIRE DEPARTMENT,10/4/1987,11 Top
+Robert J. Crawford,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+Robert J. Denney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/11/1960,13 Top
+Robert J. Foti,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+Robert J. McCarthy,Lieutenant,SYRACUSE FIRE DEPARTMENT,7/12/1959,13 Top
+Robert J. Minara,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+Robert J. Moloney,Firefighter,INWOOD FIRE DEPARTMENT,4/27/1946,15 Top
+"Robert King, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+"Robert L. Goodrich, Sr.",Firefighter,CHESTER FIRE DEPARTMENT,1/27/1988,11 Top
+Robert L. Hitchcock,Assistant Chief,BLENHEIM FIRE DEPARTMENT,3/13/1990,11 Top
+Robert Linder,Firefighter,HOLBROOK FIRE DEPARTMENT,1/1/1957,13 Top
+Robert Lucier,Firefighter,ALPLAUS FIRE DEPARTMENT,8/18/1991,11 Top
+Robert M. Regan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Robert Mahl,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/9/1941,17 Top
+Robert McDougall,Firefighter,NEW YORK CITY FIRE DEPARTMENT,07/25/1883,15 Bottom
+Robert Niebling,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/22/1965,11 Bottom
+Robert Parks,Firefighter,RANDOLPH FIRE COMPANY,7/12/1935,10 Bottom
+Robert Pitt,Past Chief,SPRING VALLEY FIRE DEPARTMENT,12/6/1964,20 Bottom
+Robert R. Hurst,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/22/1961,12 Bottom
+Robert Schneider,Firefighter,BUFFALO FIRE DEPARTMENT,01/23/1891,14 Bottom
+Robert Sharp,Firefighter,CICERO FIRE DEPARTMENT,7/19/1963,11 Bottom
+Robert T. Lane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Bottom
+Robert T. Linnane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+Robert T. Smullen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/19/1966,11 Bottom
+Robert Ulrich,Firefighter,BUFFALO FIRE DEPARTMENT,1/1/1984,12 Top
+Robert W. Hamilton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+Robert W. Johnston,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/31/1943,16 Top
+Robert W. Lane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/9/1943,16 Top
+Robert W. McPadden,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+"Robert W. Spear, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Bottom
+Robert Wintringham,Firefighter,NEW YORK CITY FIRE DEPARTMENT,08/24/1865,17 Bottom
+Rodman G. Chrysler,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,6/26/1957,13 Top
+Roger D. Snyder,Lieutenant,KINGSTON FIRE DEPARTMENT,11/19/1988,11 Top
+Romano Petrucco,Firefighter,HOMER FIRE DEPARTMENT,12/14/1981,12 Top
+Ronald G. Bazoge,Firefighter,MEDFORD FIRE DEPARTMENT,1/22/1982,12 Top
+Ronald J. Keddie,Firefighter,SHERIDAN FIRE DEPARTMENT,6/27/2012,10 Top
+Ronald P. Bucca,Fire Marshal,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Ronald T. Kerwin,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Bottom
+Ronald T. Kreamer,Firefighter,FRONTIER FIRE DEPARTMENT,8/13/2001,18 Bottom
+"Ronald W. Svoboda, Jr.",Firefighter,CHENANGO FIRE DEPARTMENT,8/31/1987,11 Top
+Ronald Wannamaker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/1/1982,12 Top
+Ronnie E. Gies,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+Ronnie L. Henderson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Ross E. Huffer ,Firefighter ,NESCONSET FIRE DEPARTMENT ,2/27/2014,14 Top
+Roy W. Dodge,Firefighter,BUFFALO FIRE DEPARTMENT,6/16/1949,20 Top
+Ruben D. Correa,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Ruby Naturman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/13/1956,13 Top
+Rudolf Bethge,Firefighter,BUFFALO FIRE DEPARTMENT,12/11/1932,21 Top
+Russell E. Dunham,Firefighter,HIGHLAND FIRE DEPARTMENT,7/16/1991,11 Top
+Russell H. Dixon,Firefighter,ALDEN HOOK AND LADDER FIRE COMPANY,12/6/1984,12 Top
+Russell W. Wilkinson,Firefighter,LANCASTER VOLUNTEER FIRE DEPARTMENT,4/21/1951,18 Bottom
+Salvatore B. Calabro,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+Salvatore N. Galasso,Firefighter,WHITE PLAINS FIRE DEPARTMENT,7/31/1954,14 Top
+Salvatore Scarentino ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,3/21/2009,21 Top
+Samuel A. Schiller,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/31/1954,14 Top
+Samuel Christopher,Firefighter,BUFFALO FIRE DEPARTMENT,1/1/1984,12 Top
+Samuel Crosley,Firefighter,ILION FIRE DEPARTMENT,4/17/1913,10 Bottom
+Samuel D. Carbone,Firefighter,MASSENA FIRE DEPARTMENT,6/4/1987,11 Top
+Samuel McHahon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,08/08/1889,15 Bottom
+Samuel P. Oitice,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+Samuel R. Doherty,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/28/1949,15 Top
+Santo Caracciolo,Firefighter,LONG BEACH FIRE DEPARTMENT,1/1/1956,13 Top
+Scott A. Larsen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Scott J. LaPiedra,Captain,NEW YORK CITY FIRE DEPARTMENT,7/4/1998,10 Top
+Scott Kopytko,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Bottom
+Scott M. Davidson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Scott Pfaff,Firefighter,TARRYTOWN FIRE DEPARTMENT,1/1/1986,12 Top
+Scott T. Laverty,Firefighter,HEMPSTEAD FIRE DEPARTMENT,6/6/1991,11 Top
+Sean McGuire,Firefighter,VAILS GATE FIRE DEPARTMENT,2/14/1986,12 Top
+Sean P. Tallon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Sean S. Hanley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+Sergio G. Villanueva,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,13 Bottom
+Shawn E. Powell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Sigurd J. Jansen,Firefighter,NORTH BABYLON FIRE DEPARTMENT,1/1/1946,15 Top
+Stanley F. Kaminski,Firefighter,LANGFORD - NEW OREGON FIRE DEPARTMENT,5/26/1997,10 Top
+Stanley Nowakowski,Firefighter,NEW HYDE PARK FIRE DEPARTMENT,2/6/1954,18 Top
+Stanley Powell,Firefighter,BEST-LUTHER FIRE DEPARTMENT,1/19/1975,19 Bottom
+"Stanley S. Smagala, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Bottom
+Stephen C. Auditore,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/18/1943,16 Top
+Stephen D. Rooney,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/13/1958,13 Top
+Stephen Dyczko,Captain,NEW YORK CITY FIRE DEPARTMENT,12/11/1959,13 Top
+Stephen F. Sulzinski,Firefighter,HICKSVILLE FIRE DEPARTMENT,10/29/1995,10 Top
+Stephen G. Harrell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Stephen J. Butch,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/19/1945,16 Top
+Stephen J. Marangas,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/20/1945,16 Top
+Stephen P. Russell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Top
+Stephen Wade,Firefighter,OCEANSIDE FIRE DEPARTMENT,6/13/1986,12 Top
+Terrance P. Conaty,Division Chief,NEW YORK CITY FIRE DEPARTMENT,2/1/1953,14 Top
+Thaddius Connolly ,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/27/1932,20 Top
+Theodore F. Knote,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/23/1959,13 Top
+Theodore Hilsinger,Lieutenant,HOMER FIRE DEPARTMENT,12/15/1989,11 Top
+Theodore J. Abriel,Acting Lieutenant,ALBANY FIRE DEPARTMENT,2/19/2007,20 Bottom
+Theodore Wisniewski,Firefighter,GARDINER FIRE DEPARTMENT,2/25/1957,15 Top
+Thomas A. Bowler,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/15/1934,19 Top
+Thomas A. Reilly,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+Thomas A. Williams,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,2/25/1992,11 Top
+Thomas A. Wylie,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/3/1995,10 Top
+Thomas B. Rice,Past Chief,PERRY FIRE DEPARTMENT,11/9/1998,10 Top
+Thomas Barragry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/24/1938,18 Top
+Thomas Blackburne,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,7/26/1942,17 Top
+Thomas C. Moody,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Top
+Thomas Casey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/8/1958,13 Top
+Thomas Cox,Firefighter,NEW YORK CITY FIRE DEPARTMENT,07/26/1860,17 Bottom
+"Thomas Cummings, Jr.",Firefighter,SARATOGA SPRINGS FIRE DEPARTMENT,9/18/1965,11 Bottom
+Thomas Donlon,Firefighter,BUFFALO FIRE DEPARTMENT,12/27/1902,13 Bottom
+"Thomas Dorr, Sr.",Firefighter,PLEASANTVILLE FIRE DEPARTMENT,1/7/1996,10 Top
+Thomas Dunleavy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,08/25/1885,15 Bottom
+Thomas E. Brown,Firefighter,OLEAN FIRE DEPARTMENT,2/3/1933,19 Top
+Thomas E. Fitzgerald,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/22/1960,13 Top
+Thomas E. Sabella,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,14 Bottom
+Thomas F. Carrigan,Battalion Chief,NEW ROCHELLE FIRE DEPARTMENT,9/25/1961,12 Bottom
+Thomas F. Kain,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/12/1931,21 Top
+Thomas F. Maher,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/3/1956,13 Top
+Thomas F. Shortell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/8/1945,16 Top
+Thomas F. Taylor,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/3/1945,16 Top
+"Thomas Farrell, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/28/1953,14 Top
+Thomas Felli,1st Assistant Chief,ROSLYN FIRE DEPARTMENT,7/21/1964,10 Top
+Thomas Felly,Firefighter,ROSLYN FIRE DEPARTMENT,7/21/1945,17 Bottom
+Thomas G. Schoales,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Thomas Graham,Firefighter,TROY FIRE DEPARTMENT,02/01/1860,17 Bottom
+Thomas H. Pierce,Firefighter,TROY FIRE DEPARTMENT,12/25/1851,19 Bottom
+Thomas Herlihy,Captain,NEW YORK CITY FIRE DEPARTMENT,1/1/1955,13 Top
+Thomas Horton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/01/1837,20 Bottom
+Thomas Irvin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/02/1865,17 Bottom
+Thomas J. Burley ,Firefighter ,YOUNGSTOWN VOLUNTEER FIRE COMPANY,6/18/2013,11 Bottom
+Thomas J. Cooney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/10/1902,13 Bottom
+Thomas J. Corbalis,Firefighter,YONKERS FIRE DEPARTMENT,1/31/1943,16 Top
+Thomas J. Dougherty,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/20/1880,16 Bottom
+Thomas J. Dugan,Acting District Chief,SYRACUSE FIRE DEPARTMENT,2/3/1939,17 Top
+Thomas J. Fina,Firefighter,SARANAC LAKE FIRE DEPARTMENT,6/27/1954,14 Top
+Thomas J. Hitter,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/31/1938,18 Top
+Thomas J. Kennedy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Bottom
+Thomas J. Kuveikis,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+Thomas J. Mahoney,Firefighter,WILLISTON PARK FIRE DEPARTMENT,5/7/1988,11 Top
+Thomas J. McCann,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Bottom
+Thomas J. Osborn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/3/1941,17 Top
+Thomas J. Rodgers,Hoseman,ALBANY FIRE DEPARTMENT,5/4/1935,19 Top
+Thomas J. Tobin,Firefighter,TYRONE FIRE DEPARTMENT,7/18/1992,11 Top
+Thomas J. Walters,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/26/1957,13 Top
+Thomas L. Jacobus,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/13/1880,18 Bottom
+Thomas M. McCormack,Chief,WATERVLIET FIRE DEPARTMENT,12/1/1997,10 Top
+Thomas M. Rathbun,Firefighter,ROCHESTER FIRE DEPARTMENT,12/21/1827,21 Bottom
+Thomas Meehan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/3/1938,18 Top
+Thomas Mingione,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Thomas P. Mulvaney,Captain,NEW YORK CITY FIRE DEPARTMENT,1/16/1959,13 Top
+Thomas R. Dore,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,6/5/1955,14 Top
+Thomas R. Godfrey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/23/1892,14 Bottom
+Thomas R. Gott,Firefighter,LIVONIA FIRE DEPARTMENT,2/28/1986,12 Top
+Thomas R. Kelly,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+"Thomas Razzano, Sr.",Firefighter,FREEPORT FIRE DEPARTMENT,1/4/1989,11 Top
+Thomas Roberts,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/24/1869,17 Bottom
+Thomas S. Coppinger,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,12/26/1902,13 Bottom
+Thomas S. Finn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/1/1932,20 Top
+"Thomas Secovnie, Jr.",Firefighter,SCHODACK LANDING FIRE DEPARTMENT,1/1/1982,12 Top
+Thomas Staab,Firefighter,OCEANSIDE FIRE DEPARTMENT,12/7/1958,13 Top
+Thomas Sullivan,Captain,BUFFALO FIRE DEPARTMENT,6/29/1936,18 Top
+Thomas Toner,Firefighter,GENEVA FIRE DEPARTMENT,7/5/1943,10 Bottom
+Thomas W. Cokeley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/29/1952,14 Top
+Thomas W. Kelly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Thomas Ward,Hoseman,ALBANY FIRE DEPARTMENT,10/18/1902,13 Bottom
+Timothy B. Higgins,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,19 Bottom
+"Timothy J. Warren, III",Firefighter,GENEVA FIRE DEPARTMENT,2/15/1997,10 Top
+Timothy M. Goff,Firefighter,KENMORE FIRE DEPARTMENT,5/27/1997,10 Top
+Timothy M. Stackpole,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+Timothy M. Welty,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,21 Top
+Timothy P. McSweeney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Timothy S. Haskell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+Tobias Miller    ,Firefighter    ,POUGHKEEPSIE FIRE DEPARTMENT     ,11/14/1950,20 Top
+Tomasz M. Kaczowka,Firefighter,WEST WEBSTER FIRE DEPARTMENT,12/24/2012,12 Bottom
+Vernon A. Richard,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Top
+Vernon F. Edwards,Firefighter,CORAM FIRE DEPARTMENT,5/1/1930,12 Bottom
+Vernon P. Cherry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,20 Bottom
+Victor Prokop,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/17/1962,12 Bottom
+Vincent A. Schmitt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/6/1945,15 Top
+Vincent Brier,Firefighter,DEER PARK FIRE DEPARTMENT,1/1/1961,12 Bottom
+Vincent D. Kane,Fire Marshal,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,16 Bottom
+"Vincent D. Meegan, Jr.",Firefighter,BUFFALO FIRE DEPARTMENT,12/24/1993,10 Top
+Vincent E. Brunton,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Vincent F. Giammona,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,10 Bottom
+Vincent Fowler,Captain,NEW YORK CITY FIRE DEPARTMENT,6/4/1999,11 Top
+Vincent Herbert,Ex-Chief,OCEANSIDE FIRE DEPARTMENT,4/29/1962,12 Bottom
+Vincent I. Dineen,1st Assistant Chief,ISLIP FIRE DEPARTMENT,12/4/1982,20 Top
+Vincent J. McGill,Captain,NEW YORK CITY FIRE DEPARTMENT,12/25/1955,14 Top
+Vincent Janczewski,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/12/1958,13 Top
+Vincent Laurence,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/20/1955,14 Top
+Vincent Morana,Firefighter,BUFFALO FIRE DEPARTMENT,1/1/1961,12 Bottom
+W. John Eckerson,Firefighter,BEUKENDAAL VOLUNTEER FIRE DEPARTMENT,8/19/1956,20 Bottom
+Walter A. Ernst,Firefighter,EAST MEADOW FIRE DEPARTMENT,5/30/1998,10 Top
+Walter A. Jensen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/5/1946,15 Top
+Walter Augustin,Firefighter,CONGERS FIRE DEPARTMENT,11/7/1995,10 Top
+Walter C. Bersig,Captain,NEW YORK CITY FIRE DEPARTMENT,6/27/1961,12 Bottom
+Walter F. Bell,Firefighter,CANTON FIRE DEPARTMENT,7/3/1955,20 Top
+Walter F. Howell,Captain,BINGHAMTON FIRE DEPARTMENT,3/3/1914,10 Bottom
+Walter H. Kastenhuber,Firefighter,JAMESTOWN FIRE DEPARTMENT,6/13/1934,10 Bottom
+Walter J. Borek,Firefighter,YONKERS FIRE DEPARTMENT,12/6/1986,11 Top
+Walter J. Higgins,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+Walter Mahoney,Battalion Chief,BUFFALO FIRE DEPARTMENT,5/4/1939,18 Top
+Walter Peters,Firefighter,NEW ROCHELLE FIRE DEPARTMENT,10/3/1937,10 Bottom
+Walter Sandberg,Captain,NEW YORK CITY FIRE DEPARTMENT,10/24/1941,17 Top
+"Walter Schwinger, Jr.",Captain,TONAWANDA FIRE DEPARTMENT,11/12/1996,10 Top
+Walter T. Clarke,Captain,NEW YORK CITY FIRE DEPARTMENT,10/25/1944,16 Top
+Walter W. Chadwick,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/26/1950,15 Top
+Warren H. Kenyon,Hoseman,ALBANY FIRE DEPARTMENT,5/6/1935,19 Top
+Warren R. Ogburn,Firefighter,WHITE PLAINS FIRE DEPARTMENT,2/24/1993,10 Top
+Wayland A. Estes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/12/1892,14 Bottom
+Wayne E. Smith,Captain,NEW YORK CITY FIRE DEPARTMENT,10/4/1994,10 Top
+Wellington Hackett,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/15/1932,21 Top
+Wilbur A. Ritter,Firefighter,SAYVILLE FIRE DEPARTMENT,8/28/2006,12 Bottom
+Wilbur J. Dickinson,Lieutenant,NISKAYUNA DISTRICT NO. 1,2/10/1964,19 Bottom
+William A. Canavan,Firefighter,YONKERS FIRE DEPARTMENT,4/29/1959,13 Top
+William B. Brazell,Captain,SCHENECTADY FIRE DEPARTMENT,2/7/1966,11 Bottom
+William Baldwin,Captain,NEW YORK CITY FIRE DEPARTMENT,01/20/1880,16 Bottom
+William Boland,Division Chief,BUFFALO FIRE DEPARTMENT,1/6/1957,13 Top
+"William Boon, Sr.",1st Assistant Chief,ROCHESTER FIRE DEPARTMENT,10/12/1902,13 Bottom
+William Briggs,Ex-Captain,FREEPORT FIRE DEPARTMENT,6/15/1953,20 Top
+William Cessford,Firefighter,UTICA FIRE DEPARTMENT,07/14/1857,17 Bottom
+William Clark,Lieutenant,BUFFALO FIRE DEPARTMENT,5/13/1903,13 Bottom
+William Cleator,Firefighter,ROCHESTER FIRE DEPARTMENT,11/21/1857,17 Bottom
+William Cruickshank,Firefighter,MAMARONECK FIRE DEPARTMENT,6/15/1988,11 Top
+William D. Austin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/17/1947,15 Top
+William Dickman,Driver,BUFFALO FIRE DEPARTMENT,10/30/1896,14 Bottom
+William Doyle,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/1/1982,12 Top
+"William E. Akin, Jr.",Fire Police Captain    ,GHENT VOLUNTEER FIRE COMPANY NO. 1    ,10/19/2010,12 Top
+William E. Hughes,Firefighter,HAVERSTRAW FIRE DEPARTMENT,1/8/1906,15 Top
+William E. Lehmann,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/24/1939,17 Top
+William E. Schalle,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/4/1919,6 Top
+William Egan,Lieutenant,SYRACUSE FIRE DEPARTMENT,12/9/1951,14 Top
+William F. Boon,Lieutenant,ROCHESTER FIRE DEPARTMENT,1/28/1902,13 Bottom
+William F. Bradley,Firefighter,TROY FIRE DEPARTMENT,08/06/1845,19 Bottom
+"William F. Carter, Sr.",Firefighter,ALCAN FIRE DEPARTMENT,11/30/1990,11 Top
+William F. Fisher,Driver,TONAWANDA FIRE DEPARTMENT,1/9/1942,17 Top
+William F. Jeffery,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/26/1902,13 Bottom
+William F. Klauck,Captain,NEW YORK CITY FIRE DEPARTMENT,3/30/1944,16 Top
+William F. McCarron,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,11 Bottom
+William F. McNulty,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1945,16 Top
+William F. Mullen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/4/1900,13 Bottom
+William F. Russell,Captain,NEW YORK CITY FIRE DEPARTMENT,10/26/1962,12 Bottom
+William G. Brown,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/6/1955,14 Top
+William G. Schmid,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/14/1958,13 Top
+William H. Borfitz,Firefighter,INWOOD FIRE DEPARTMENT,11/5/1942,17 Top
+William H. Cadier,Firefighter,SYRACUSE FIRE DEPARTMENT,11/1/1954,14 Top
+William H. Carlin,Ladderman,ALBANY FIRE DEPARTMENT,03/03/1883,15 Bottom
+William H. Farweather,Firefighter,MIDDLETOWN FIRE DEPARTMENT,11/15/1997,10 Top
+William H. Gillett,Firefighter,BUFFALO FIRE DEPARTMENT,01/25/1865,17 Top
+"William H. Marshall, Jr.",Captain,ROOSEVELT FIRE DEPARTMENT,2/15/1991,11 Top
+William H. Nash,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,09/14/1875,16 Bottom
+William H. Smith,Firefighter,LA GRANGE FIRE DEPARTMENT,2/27/1988,11 Top
+William J Rodgers,Battalion Chief,ALBANY FIRE DEPARTMENT,11/8/1937,18 Top
+William J. Brady,Captain,NEW YORK CITY FIRE DEPARTMENT,2/8/1952,14 Top
+William J. Bryan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/12/1961,12 Bottom
+William J. Chin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/12/1880,16 Bottom
+William J. Chin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/05/1889,17 Bottom
+William J. Driscoll,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/28/1941,17 Top
+William J. Dwyer,Firefighter,CAZENOVIA FIRE DEPARTMENT,8/21/1946,10 Bottom
+William J. Farrell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/21/1966,11 Bottom
+William J. Ford,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/21/1983,12 Top
+William J. Hanlon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/30/1963,12 Bottom
+William J. Head,Captain,NEW YORK CITY FIRE DEPARTMENT,3/1/1935,19 Top
+William J. Robertson,Battalion Chief,GREECE-RIDGE FIRE DEPARTMENT,4/25/1998,10 Top
+William J. Smith,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/24/1900,13 Bottom
+"William J. Tripp, Jr.",Firefighter,RICHFORD FIRE DEPARTMENT,4/13/2002,6 Top
+William J. Walsh,Firefighter,TROY FIRE DEPARTMENT,5/3/1944,16 Top
+William J. Wandling,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/16/1946,15 Top
+William Koch,Firefighter,LYNBROOK FIRE DEPARTMENT,4/30/1963,11 Bottom
+William Korte,Firefighter,SOUTHHAMPTON FIRE DEPARTMENT,11/4/1999,20 Top
+"William Kostinec, Jr.",Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/22/1932,20 Top
+William Kot,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/5/1954,14 Top
+William Krattinger,Firefighter,NEW YORK CITY FIRE DEPARTMENT,02/16/1882,16 Bottom
+William L. Casey,Captain,NEW YORK CITY FIRE DEPARTMENT,2/1/1955,14 Top
+William L. Pratt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/1/1932,21 Top
+William McEvoy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/30/1956,13 Top
+William McNally,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/5/1903,13 Bottom
+William Mellon,Firefighter,BAY RIDGE FIRE COMPANY,6/19/1997,10 Top
+William Michaelsen,Chief,EAST NORWICH FIRE DEPARTMENT,9/4/1961,13 Top
+William Mohan,Firefighter,SOMERS FIRE DEPARTMENT,1/1/1983,18 Bottom
+William Munda,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/22/1952,14 Top
+William N. Hammond,Firefighter,GENERAL ELECTRIC FIRE DEPARTMENT,1/1/1983,12 Top
+William Ormsby,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/7/1931,11 Bottom
+William P. Hogan,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,1/9/1947,15 Top
+William P. Hoolan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/4/1956,13 Top
+William P. Long,Tillerman,ROCHESTER FIRE DEPARTMENT,3/15/1944,16 Top
+William Peterson,Captain,NEW YORK CITY FIRE DEPARTMENT,05/19/1811,21 Bottom
+William Prechtel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/9/1956,13 Top
+William Quinn,Captain,BUFFALO FIRE DEPARTMENT,12/23/1952,14 Top
+William Rutter,Firefighter,ELMIRA FIRE DEPARTMENT,01/01/1854,18 Bottom
+William Ryan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/4/1901,13 Bottom
+William S. Kennedy,Firefighter,BINGHAMTON FIRE DEPARTMENT,4/29/1929,10 Bottom
+William S. Neville,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/10/1936,18 Top
+William S. Wilkes,Firefighter,TROY FIRE DEPARTMENT,07/22/1873,16 Bottom
+William Shaw,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,05/09/1896,14 Bottom
+William Sheehan,Lineman,BUFFALO FIRE DEPARTMENT,8/31/1934,19 Top
+William Sinzer,Firefighter,PEEKSKILL FIRE DEPARTMENT,9/16/1989,11 Top
+William Smith,Firefighter,BUFFALO FIRE DEPARTMENT,12/21/1882,16 Bottom
+William Sullivan,Firefighter,AMSTERDAM FIRE DEPARTMENT,4/9/1907,10 Bottom
+William T. Moran,Firefighter,BINGHAMTON FIRE DEPARTMENT,9/17/1928,10 Bottom
+William V. Kendrick,Firefigher,SYRACUSE FIRE DEPARTMENT,10/16/1944,16 Top
+William V. Ryan,Captain,TROY FIRE DEPARTMENT,4/17/1958,13 Top
+William W. Smith,Firefighter,ROCHESTER FIRE DEPARTMENT,12/29/1943,16 Top
+William Wray,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/24/1887,15 Bottom
+Williams Hughes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,09/14/1875,16 Bottom
+Willis Meginn,Firefighter,NEWBURGH FIRE DEPARTMENT,5/17/1900,13 Bottom
+Winfield A. Walsh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/4/1947,15 Top
+Oliver G. O’Dell,Firefighter,NEW ROCHELLE FIRE DEPARTMENT,12/5/1940,17 Top
+Edward Hanavan,Firefighter’s Aide,BUFFALO FIRE DEPARTMENT,12/21/1934,19 Top
+John O’Rourke,Firefighter,NEW YORK CITY FIRE DEPARTMENT,01/25/1880,16 Bottom
+Michael O’Brien,Driver,BUFFALO FIRE DEPARTMENT,01/12/1894,14 Bottom
+Timothy F. O’Leary,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/1/1958,13 Top
+William H. O’Brien,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/20/1966,11 Bottom
+John O’Donnell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,04/24/1854,18 Bottom
+Edward D. O’Connell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/26/1956,13 Top
+Joseph O’Flaherty,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/4/1944,16 Top
+James J. O’Leary,Driver,ROCHESTER FIRE DEPARTMENT,11/9/1902,13 Bottom
+Raymond H. Brooder,Lieutenant,CORNING FIRE DEPARTMENT,1/4/1964,11 Bottom 
+John O’Hanlon,Firefighter,UTICA FIRE DEPARTMENT,09/28/1897,14 Bottom
+Thomas G. O’Hagan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,15 Bottom
+Thomas H. O’Connor,Driver,ALBANY FIRE DEPARTMENT,05/06/1892,14 Bottom
+Louis P. Pelligrino,Firefighter,TERRY’S CORNERS FIRE DEPARTMENT,1/1/1986,12 Top
+John O’Niell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,08/16/1874,16 Bottom
+Ernest A. Duquette,Firefighter,GLEN PARK FIRE DEPARTMENT,5/12/1983,12 Top 
+John J. O’Keefe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/17/1966,11 Bottom
+Michael J. O’Toole,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/26/1902,13 Bottom
+Ronald L. O’Rourke,Captain,ROOSEVELT FIRE DEPARTMENT,1/4/1993,10 Top
+J. C. O’Shaunessy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,05/11/1887,15 Bottom
+Raymond W. Allison,Chief’s Aide,JAMESTOWN FIRE DEPARTMENT,6/14/1934,10 Bottom
+Phillip C. D’ Adamo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/1/1984,12 Top
+Kevin M. O’Rourke,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,18 Top
+John O’Brien,Assistant Foreman,ALBANY FIRE DEPARTMENT,04/07/1871,16 Bottom
+James O’Kane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/30/1955,14 Top
+Michael O’Brien,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/30/1853,18 Bottom
+William O’Sullivan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/8/1956,13 Top
+Theodore J. O’Donnell,Firefighter,ALBANY FIRE DEPARTMENT,1/21/1955,14 Top
+William O’Donnell,Firefighter,BUFFALO FIRE DEPARTMENT,1/8/1901,13 Bottom
+Felix A. D’Avignon,Firefighter,MECHANICVILLE FIRE DEPARTMENT,2/25/1945,21 Bottom
+James O’Donnell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/29/1932,20 Top
+John J. O’Rourke,Firefighter,MOUNT VERNON FIRE DEPARTMENT,1/30/1943,16 Top
+David J. O’Keeffe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/2/1952,14 Top
+Patrick O’Keefe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/6/1943,16 Top
+Thomas F. Madigan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/27/1904,  3 Bottom
+John J. Donohue 3rd,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/3/1928,  5 Top
+Joseph Kenavan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/1/1976,  8 Top
+Jerome P. Ryan,Firefighter,BINGHAMTON FIRE DEPARTMENT,9/3/1951,  7 Bottom
+Stephen Meegan,Firefighter,BUFFALO FIRE DEPARTMENT,1/28/1907,  6 Bottom
+George H. Smith,Firefighter,PATCHOAGUE FIRE DEPARTMENT,10/5/1923,  6 Top
+Edward J. Tuite,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1970,  8 Bottom
+Daniel J. Sheehan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/6/1905,  3 Bottom
+Paul Feeney,Firefighter,COLD SPRING FIRE COMPANY,6/30/1979,  9 Top
+William L. Moran,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/30/1926,  5 Top
+Thomas J. Kelly ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/3/2016,  5 Top
+Leo Hackbarth,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/13/1911,  5 Bottom
+Leon F. Pettit,Chief,BABYLON FIRE DEPARTMENT,2/5/1916,  3 Top
+Robert G. Alford ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,3/22/2016,21 Bottom
+Charles I. Pratt,Firefighter,SOUTH QUEENSBURY FIRE DEPARTMENT,4/9/1978,  9 Top
+Gerard P. Dewan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Bottom
+Francis Wolfe,Firefighter,BUFFALO FIRE DEPARTMENT,1/3/1927,  5 Top
+James H. Murphy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/20/1929,  4 Top
+Brian C. Hickey,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+William H. Quick ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/18/2011,17 Top
+Joan R. Daley ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,9/27/2009,  1 Bottom
+James McGroarty,Firefighter,SYRACUSE FIRE DEPARTMENT,1/19/1999,  4 Top
+John L. Bowker,1st Assistant Chief,WOODMERE FIRE DEPARTMENT,3/17/1973,  7 Top
+James P. Kelly,Hoseman,ALBANY FIRE DEPARTMENT,7/11/1909,  5 Bottom
+Martin J. McHale ,Fire Marshal ,NEW YORK CITY FIRE DEPARTMENT ,12/24/2012,  9 Bottom
+Francis V. A. Maher,Engineer,NEW YORK CITY FIRE DEPARTMENT,5/3/1909,  5 Bottom
+Joseph Grzelak,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Jan Watala,Firefighter,HEMPSTEAD FIRE DEPARTMENT,10/23/1979,  9 Top
+Robert Malmsheimer,Firefighter,LINDENHURST FIRE DEPARTMENT,1/1/1969,  9 Bottom
+Christian L. Walter,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/17/1917,  3 Top
+Stanley M. Waite,Firefighter,COSSAYUNA FIRE DEPARTMENT,1/1/1980,  9 Top
+Matthew L. Ryan,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+Earl Geertgens,Firefighter,NEW ROCHELLE FIRE DEPARTMENT,7/16/1965,  7 Top
+Anthony Vielkind,Firefighter,TROY FIRE DEPARTMENT,12/2/1910,  5 Bottom
+"Howard J. Carpluk, Jr.",Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/27/2006,  1 Top
+James J. Steakem,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/15/1940,  7 Bottom
+John Mosher,Firefighter,SOLVAY FIRE DEPARTMENT,1/11/1968,  7 Top
+Bernardo F. Carlock,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,11/29/1930,  4 Top
+Loren J. Michael,Captain,BATAVIA FIRE DEPARTMENT,8/5/1966,  7 Top
+George H. Tifft,Firefighter,BUFFALO FIRE DEPARTMENT,01/25/1865,  1 Top
+David G. Flynn,Firefighter,CANANDAIGUA FIRE DEPARTMENT,4/9/1978,  9 Top
+"Joseph P. Colleluori, Jr. ",Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,1/4/2007,17 Bottom
+Joseph Wesolowski,Firefighter,RIVERHEAD FIRE DEPARTMENT,1/1/1971,  7 Top
+James A. O’Brien,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/19/1930,  4 Top
+Francis J. Trau,Firefighter,EGYPT FIRE DEPARTMENT,1/1/1975,  8 Top
+Jonathan L. Ielpi,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+J. Kenneth Flinton,Firefighter,TROY FIRE DEPARTMENT,10/11/1928,  5 Top
+"William F. Steffens, Jr.",Engineer,HILLCREST FIRE COMPANY NO. 1,7/21/1967,  7 Top
+Francis Esposito,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+Wilfredo F. Urbina,Firefighter,BALDWIN FIRE DEPARTMENT,11/29/2004,  6 Top
+Thomas F. Phillips,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/10/1908,  6 Bottom
+Harry C. Wilmot,Firefighter,NISKAYUNA NO. 2 FIRE DEPARTMENT,4/12/1959,  6 Top
+Albino J. Norberto,Firefighter,MAMARONECK FIRE DEPARTMENT,9/3/1973,  7 Top
+Joseph E. Maloney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+"William F. Kelly, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/27/1967,  9 Bottom
+Edward J. Butler,Lieutenant,TROY FIRE DEPARTMENT,1/26/1911,  1 Top
+Eugene Miller,Firefighter,PORT CHESTER FIRE DEPARTMENT,4/10/1991,  8 Bottom
+William J. Walsh,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,1/9/1912,  4 Bottom
+Henry Fields,Firefighter,BAY SHORE FIRE DEPARTMENT,1/1/1968,  9 Bottom
+William Sharp,Fire Police Captain,RIDGE-CULVER FIRE DEPARTMENT,11/2/1980,  9 Top
+Terence P. McShane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+Richard A Dellacona ,Chief ,WESTBURY FIRE DEPARTMENT ,9/3/2012,  4 Top
+William Wren,Fire Safety Director,WORLD TRADE CENTER,9/11/2001,  3 Top
+Roy E. Smith ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,4/2/2017,19 Top
+Harry O. Fairweather,Firefighter,TROY FIRE DEPARTMENT,4/8/1909,  5 Bottom
+Gerald Otto,Captain,GARDEN CITY FIRE DEPARTMENT,3/21/1969,  7 Top
+James J. O’Shea,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/27/2003,  2 Top
+Leland Campbell,Firefighter/Past Chief,HUNTERSLAND FIRE DEPARTMENT,11/11/1962,  7 Bottom
+Thomas Lawson,Firefighter,BUFFALO FIRE DEPARTMENT,1/1/1977,  8 Bottom
+George H. Gombert,Firefighter,CAMBRIA FIRE DEPARTMENT,12/10/1973,  7 Top
+Peter A. Vega,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Bottom
+Richard Sweeney,1st Assistant Chief,JOHNSTOWN FIRE DEPARTMENT,1/15/1965,  5 Bottom
+"Vincent J. Tancredi, II ",Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,8/8/2008,19 Top 
+Sean M. McCarthy ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,5/27/2008,  1 Top
+Edward R. Skumurski,Firefighter,SCHENECTADY FIRE DEPARTMENT,3/26/1975,  8 Bottom
+John E. Heffernan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Rev. John L. Brown,Firefighter,ONONDAGA HILL FIRE DEPARTMENT,1/1/1978,  9 Top
+Ignatius F. Neusch,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/3/1916,  3 Top
+William O’Connor,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/2/1978,  9 Top
+George Casselis,Firefighter,PEEKSKILL FIRE DEPARTMENT,8/1/1918,  2 Top
+Dynah Monahan,Firefighter,ELMIRA FIRE DEPARTMENT,1/1/1925,  5 Top
+Rudolph M. Lutz,Firefighter,SNYDER FIRE DEPARTMENT,10/7/1956,  7 Bottom
+Richard A. Nappi,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/16/2012,  9 Top  
+John F. Searing,Firefighter,AUBURN CITY FIRE DEPARTMENT,3/30/1960,  7 Bottom
+Michael D. D’Auria,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+John J. Stelmack,Captain,NEW YORK CITY FIRE DEPARTMENT,6/23/1977,  8 Top
+Christopher J. Pickford,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,17 Top
+Joseph D. McKeon ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,8/19/2017,11 Bottom
+Gregory M. Stajk,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+Michael McCarthy,Captain,BUFFALO FIRE DEPARTMENT,12/6/1925,  5 Top
+Emmet F. Donnelly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/15/1922,  6 Top
+"Harold Coons, Jr.",Captain,SOUTH SCHODACK FIRE DEPARTMENT,8/30/2002,  5 Bottom
+Edward J. Ehlers,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/20/1970,  8 Bottom
+Robert Sherman,Firefighter,MONTEZUMA FIRE DEPARTMENT,1/1/1980,  9 Top
+Dr. Charles Greene,Firefighter,PEEKSKILL FIRE DEPARTMENT,8/1/1918,  2 Top
+Richard Provost,Ex-Captain,GARDEN CITY PARK FIRE DEPARTMENT,4/30/1977,  8 Top
+Charles W. Byron,Engineer,ROCHESTER FIRE DEPARTMENT,2/26/1919,  1 Top
+Dennis J. Healy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/26/1906,  1 Bottom
+"Willie Stroman, Jr.",Firefighter,ROOSEVELT FIRE DEPARTMENT,1/1/1979,  9 Top
+George E. Meenken,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/5/1977,  9 Top
+Charles E. Meadows,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/13/1909,  5 Bottom
+Patrick J. Waters,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+Harry Shapiro,Fire Police,SOUTH FALLSBURG FIRE DEPARTMENT,8/11/1978,  9 Top
+John T. McKenna,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/19/1979,  9 Top
+Fred G. Lane,Captain,CORNING FIRE DEPARTMENT,2/11/1923,  6 Top
+James Nash,Firefighter,WEST SENECA FIRE DEPARTMENT,4/4/1975,  8 Top
+Oscar Dixon,Firefighter,SELDEN FIRE DEPARTMENT,10/27/1973,  3 Top
+John S. Roberts,Captain,NEW YORK CITY FIRE DEPARTMENT,1/28/1927,  5 Top
+Clarence Schoures,Chief,NORTH BAILEY FIRE DEPARTMENT,11/18/1975,  8 Top
+Dana J. Stevens,Firefighter,BOSTON FIRE DEPARTMENT,7/17/1978,  9 Top
+Frank W. Schmidt,Firefighter,HEWLETT FIRE DEPARTMENT,5/3/1966,  7 Top
+Richard Sycz,Firefighter,GREENPORT FIRE DEPARTMENT,1/1/1977,  8 Top
+Robert F. DiGiovanni ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,1/27/2017,   8 Top
+"George R. Davidson, III ",Firefighter ,YOUNGSVILLE FIRE DEPARTMENT,4/25/2007,  1 Bottom
+Thomas A. Gardner,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+Donald R. Totman,Firefighter,MCLEAN FIRE DEPARTMENT,8/12/1955,  7 Bottom
+Donald M. Bub,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/6/1980,  9 Top
+Walter E. Ferguson ,Firefighter ,CRONOMER VALLEY FIRE DEPARTMENT ,12/20/1946,  1 Top
+Jerome Taylor,Captain,HILLBURN FIRE DEPARTMENT,3/12/1999,  2 Top
+Philip T. Hayes,Fire Safety Director WTC,"WORLD TRADE CENTER, ENGINE 217",9/11/2001,  3 Bottom
+John Maloney,Firefighter,BUFFALO FIRE DEPARTMENT,7/25/1972,  8 Bottom
+Fred Fempel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/25/1919,  6 Top
+Durrell V. Pearsall,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+George Knapp,Firefighter,WHITE PLAINS FIRE DEPARTMENT,12/1/1911,  5 Bottom
+Kevin A. Rooney ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/22/2017,14 Top
+John O’Hara,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,12/18/1926,  5 Top
+Thomas P. Eglinton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/4/1908,  6 Bottom
+Thomas J. Hetzel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+John M. Janos ,Firefighter ,BINGHAMTON FIRE DEPARTMENT ,4/6/2013,  9 Top
+"Martin J. Egan, Jr.",Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Daniel C. Henderson,Firefighter,PORT WASHINGTON FIRE DEPARTMENT,7/29/1943, 6 Bottom
+Dwight L. Seaton,Firefighter,SUMMIT FIRE DEPARTMENT,4/30/1972,  7 Top
+Lewis D. McManus,Firefighter,NEW WOODSTOCK FIRE DEPARTMENT,5/5/1973,   5 Bottom
+Frank Marciniak,Lieutenant,AMSTERDAM FIRE DEPARTMENT,1/10/1980,  9 Top
+"Joseph Sanford, Jr. ",Firefighter ,INWOOD FIRE DEPARTMENT ,12/23/2014,  3 Top
+Theodore Fitzgerald,Lieutenant,ROCHESTER FIRE DEPARTMENT,4/28/1905,  2 Bottom
+Henry F. Baker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/27/1907,  6 Bottom
+"John T. Gallagher, Sr. ",Captain ,NEW YORK CITY FIRE DEPARTMENT,7/26/2015,19 Top
+"James E. Mero, Jr.",Firefighter,WILLSBORO VOLUNTEER FIRE DEPARTMENT,3/9/2005,   2 Bottom
+Edward A. Maxon,Firefighter,OSWEGO FIRE DEPARTMENT,5/2/1956,  7 Bottom
+"Kevin M. Delano, Sr. ",Firefighter ,NEW YORK CITY FIRE DEPARTMENT  ,7/30/2008,20 Top
+Perry R. Peterson,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,1/7/1968,  9 Bottom
+"Joseph R. Stach, Jr. ",Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,1/7/2018,19 Bottom
+Frank P. Bertin,Lieutenant,ENDICOTT FIRE DEPARTMENT,11/14/1942,  2 Bottom
+Patrick J. Lee,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/16/1919,  1 Top
+Anton Jiranek,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/7/1911,  5 Bottom
+Peter J. Parks,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/23/1927,  5 Top
+George Bassett,2nd Assistant Chief,SELDEN FIRE DEPARTMENT,3/10/1970,  4 Top
+Tarel Coleman,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Edward J. Mankuski,Chief,KINGS PARK FIRE DEPARTMENT,2/15/1974,  8 Bottom
+Brian G. McAleese,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+Robert J. Wieber ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT  ,10/31/2006,18 Bottom
+Raymond R. York,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Michael Zerrilla,Firefighter,OSSINING FIRE DEPARTMENT,12/4/1966,  9 Bottom
+Henry H. Mitchell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/31/1972,  7 Top
+John Torpy,Firefighter,PEEKSKILL FIRE DEPARTMENT,8/1/1918,  2 Top
+Donald E. Faughnan,Assistant Chief,BINGHAMTON FIRE DEPARTMENT,5/1/1987,  8 Bottom
+Jose A. Guadalupe,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Kevin McKinney,Firefighter,LEVITTOWN FIRE DEPARTMENT,1/1/1979,  9 Top
+Phillip Cohen,Firefighter,LONG BEACH FIRE DEPARTMENT,1/1/1975,  8 Top
+Thomas F. Kearns,Captain,NEW YORK CITY FIRE DEPARTMENT,4/12/1917,  3 Top
+Joseph P. McCann,Firefighter,TROY FIRE DEPARTMENT,5/1/1922,  6 Top
+Alan F. Hogancamp,Fire Police,ELSMERE FIRE DEPARTMENT,3/6/1981,  1 Bottom
+Lawrence J. Sullivan ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT  ,8/20/2012,  1 Top
+"Joseph Sullivan, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/19/1930,  4 Top
+Frank J. Bonomo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+Charles W. Garbarini,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+Al Petersen,Ex-Chief,ROSLYN HIGHLAND FIRE DEPARTMENT,7/3/1969,  9 Bottom
+Stephen G. Siller,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+Gerald J. Frisby,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/27/1980,  9 Top
+James Burgess,Captain,NEW ROCHELLE FIRE DEPARTMENT,1/19/1963,  7 Bottom
+Stephen Barry,Firefighter,BALDWIN FIRE DEPARTMENT,1/1/1975,  8 Top
+Ronald C. DooLittle,Firefighter,CAMPBELL HALL FIRE DEPARTMENT,4/13/1970,  7 Top
+Walter Hill,Firefighter,WANTAGH FIRE DEPARTMENT,7/12/1949,  1 Bottom
+Walter F. Ruland,Firefighter,EAST MORICHES FIRE DEPARTMENT,1/1/1972,  7 Top
+"Bernard P. McManus, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/25/1969,  9 Bottom
+Edward Kazanacki,Firefighter,TERRYVILLE FIRE DEPARTMENT,1/1/1974,  8 Top
+Richard D. Arazosa ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,4/13/2013,20 Top
+Daniel F. Anson,Firefighter,DUNKIRK FIRE DEPARTMENT,8/8/1979,  9 Top
+Joseph P. Henry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+"Edward F. Reilly, Jr. ",Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,7/23/2009,21 Top
+William Koerner,Firefighter,OCEANSIDE FIRE DEPARTMENT,3/31/1977,  8 Top
+James A. Hagan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/24/1939,  8 Bottom
+"Stephen T. Ray, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/6/1911,  5 Bottom
+Julius Spanier,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/30/1923,  6 Top
+Richard E. Nogan ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/20/2014,21 Top
+Sam Sabeido,Firefighter,SELDEN FIRE DEPARTMENT,6/19/1938,  9 Bottom
+Daniel J. Campbell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/6/1907,  6 Bottom
+Michael T. Russo,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Mathew J. Dunn ,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/14/1931,  4 Top
+Paul M. Beyer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+Arnold B. Shepard,Firefighter,BINGHAMTON FIRE DEPARTMENT,2/5/1951,  7 Bottom
+Donald O. Smith,Lieutenant,LOCKPORT FIRE DEPARTMENT,2/10/1985,  6 Bottom
+Gregory A. Chevalley ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,4/24/2015,  1 Top
+Joseph F. Zino,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/15/1979,  9 Top
+George J. Major,Hoseman,ROCHESTER FIRE DEPARTMENT,11/1/1913,  4 Bottom
+George P. Linnermann,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/18/1968,  9 Bottom
+Kevin M. Shea,Chief,ELSMERE FIRE DEPARTMENT,1/24/2004,  3 Bottom
+Jonathan R. Hohmann,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Raymond W. Alexander ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,11/21/2016,16 Top
+"John P. Sullivan, Jr. ",Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/24/2010,21 Bottom
+Kenneth D. Morrison,Firefighter,CORNWALL FIRE DEPARTMENT,4/14/1957,  4 Bottom
+Allan J. Sweet,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/14/1973,  4 Bottom
+Thomas Lynch,Marine Engineer,BUFFALO FIRE DEPARTMENT,7/27/1928,  5 Top
+Jack Ward,Firefighter,CORNWALL FIRE DEPARTMENT,1/1/1979,  9 Top
+Gerard T. Nevins,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+"Louis A. Kolts, Jr.",Firefighter,KINGSTON FIRE DEPARTMENT,2/3/1919,  6 Top
+Herbert Allgeier,Firefighter,SOUTH WILSON FIRE COMPANY,11/14/1973,  7 Top
+"Patrick S. Joyce, Jr. ",Firefighter ,YONKERS FIRE DEPARTMENT ,10/2/2009,  2 Bottom
+Dennis P. O’Berg,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Ernest L. Heatherman,Firefighter,BRISBEN FIRE DEPARTMENT,2/16/2004,  1 Top
+Michael E. Hanley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/6/1923,  6 Top
+"Willie T. Franklin, Jr. ",Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,2/14/2011,20 Bottom
+William V. Lattrell ,Fire Chief ,KEESEVILLE VOLUNTEER FIRE DEPARTMENT ,8/25/1953,  5 Top
+Steven Coakley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+"Edward J. White, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+John J. Halpin ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,5/29/2014,20 Top
+Thomas P. Hannafin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+William Naughton,Lieutenant,BUFFALO FIRE DEPARTMENT,1/28/1907,  6 Bottom
+Michael D. Curtin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/15/1915,  3 Top
+Walter G. Morrison,Firefighter,WEST EXETER FIRE DEPARTMENT,1/1/1981,  9 Top
+Danny Levy ,Firefighter ,PLAINVIEW FIRE DEPARTMENT ,1/7/2013,20 Bottom
+Charles E. Cooley,Firefighter,WHITE PLAINS FIRE DEPARTMENT,2/3/1907,  6 Bottom
+Robert G. Courtnay,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/21/1978,  8 Bottom
+Lee Jordan,Firefighter,FRIENDSHIP FIRE DEPARTMENT,1/1/1980,  9 Top
+Harry Schumann,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/11/1928,  5 Top
+Edward Shirley,Lieutenant,SYRACUSE FIRE DEPARTMENT,3/11/1977,  8 Bottom
+Michael F. Alder,Firefighter,VOLNEY FIRE DEPARTMENT,11/14/1996,  2 Bottom
+Edward A. D’Atri,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Robert Robinson,Driver,BUFFALO FIRE DEPARTMENT,6/8/1915,  3 Top
+Lloyd Coughlin,Firefighter,HUNTINGTON MANOR FIRE DEPARTMENT,1/17/1972,  7 Top
+Dever Morey,Firefighter,EARLVILLE FIRE DEPARTMENT,1/1/1975,  8 Top
+William Fletcher,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/3/1925,  5 Top
+Walter Voight ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,2/2/2004,21 Bottom
+Victor M. Gabriel,Firefighter,STOCKPORT FIRE COMPANY,4/24/1979,  9 Top
+Howard L. Hendrix,Firefighter,ILION FIRE DEPARTMENT,12/27/1967,  7 Top
+Harry L. Davidson,Firefighter,WINONA LAKE FIRE DEPARTMENT,4/30/1995,11 Bottom 
+James J. Sullivan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/21/1923,  6 Top
+Charles Grieco,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/26/1968,  6 Top
+James W. Thompson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/27/1915,  3 Top
+Alexander Collie,Chief,NORTH LINDENHURST FIRE DEPARTMENT,1/14/1978,  9 Top
+Donald L. Franklin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/13/2001,  4 Bottom
+Thomas J. Foley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Carl Edmonds,Firefighter,HARFORD FIRE DEPARTMENT,5/4/1965,  7 Top
+Gerard P. Schrang,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+Thomas Malaney,Firefighter,WESTBURY FIRE DEPARTMENT,7/11/1926,  5 Top
+Michael P. Smith ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/25/2015,  4 Bottom
+Robert R. Dolney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/5/1980,  9 Top
+William J. Gormley ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,6/14/2017,  3 Top
+Timothy J. Lamere,Assistant Chief,CONSTABLE FIRE DEPARTMENT,8/21/2012,  8 Bottom
+John Ryan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/8/1907,  6 Bottom
+Nelson Carpenter,Firefighter,POLAND VOLUNTEER FIRE DEPARTMENT,9/16/1964,  6 Bottom  
+James F. Walker,Firefighter,YONKERS FIRE DEPARTMENT,1/1/1971,  7 Top
+Henry Oltmann,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/8/1918,  2 Top
+John J. Vadas,Firefighter,ROCHESTER FIRE DEPARTMENT,9/29/1969,  9 Bottom
+Andre G. Fletcher,Fire Marshal,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+Raymond M. Downey,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+Sheldon Barocas ,Captain ,NEW YORK CITY FIRE DEPARTMENT ,12/19/2011,  5 Bottom
+John J. Whelan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/31/1930,  4 Top
+William J. McGovern,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Bottom
+Everett Hull,Firefighter,CASTILE FIRE DEPARTMENT,1/1/1974,  8 Top
+William R. St. George ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,7/1/2007,18 Bottom
+Joseph Beattie,Firefighter,DOBBS FERRY FIRE DEPARTMENT,12/1/1964,  7 Bottom
+Adrian C. Snyder,Firefighter,CATON FIRE DEPARTMENT,8/26/1976,  8 Top
+Anthony J. Nuccio ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,6/7/2011,  4 Bottom
+Eugene J. McCarey ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,11/13/2014,  2 Bottom
+Robert J. Ventriglia ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,11/2/2010,20 Bottom
+Adolfo Otaño ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,11/8/2013,  4 Bottom
+George A. O’Conner,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/10/1908,  6 Bottom
+Charles Werner,Firefighter,NORTH GREECE FIRE DEPARTMENT,10/4/1975,  8 Top
+Peter J. Cusumano,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/25/1972,  7 Top
+Abraham Price,Captain,ROCHESTER FIRE DEPARTMENT,4/26/1924,  5 Top
+James Mitchell,Firefighter,SYRACUSE FIRE DEPARTMENT,4/3/1930,  4 Top
+Richard B. VanHine,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Frank King,Assistant Chief,EAST ROCHESTER VOLUNTEER FIRE DEPARTMENT,4/9/1967,  1 Top
+Timothy J. Gray,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/7/1970,  8 Bottom
+"Thomas T. Haskell, Jr.",Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+"Mychal F. Judge, O.F.M.",Chaplain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Donald H. Butterfield,Captain,WATERTOWN FIRE DEPARTMENT,3/7/1972,  7 Top
+Thomas Ledwich,Hoseman,ALBANY FIRE DEPARTMENT,7/31/1930,  4 Top
+Alfred S. Robinson,Firefighter,ITHACA FIRE DEPARTMENT,12/7/1906,  4 Top
+William Brown,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/25/1905,  2 Bottom
+Robert W. Dillon ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,4/30/2003,  1 Top
+"Peter J. Ganci, Jr.",Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+Lawrence J. Yonkin,Chief,FOREST VIEW-GANG MILLS FIRE DISTRICT,11/15/2003,  5 Top
+Charles A. Kruger,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,2/14/1908,  6 Bottom
+"Michael A. Demart, Sr.",Firefighter,NORTH TONAWANDA FIRE DEPARTMENT,12/2/1980,  9 Top
+Wilfred S. Sanders,Firefighter,MARBLETOWN FIRE DEPARTMENT,1/1/1978,  9 Top
+Hugh F. Arragoni,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/27/1904,  3 Bottom
+John D. Mitchell,Firefighter,BUFFALO FIRE DEPARTMENT,07/18/1878,  3 Top
+Charles L. Jones III ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/29/2013,19 Top
+Gomer W. Morgan,Firefighter,NYACK FIRE DEPARTMENT,8/11/1926,  7 Top
+Patrick J. Cleary,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/30/1976,  8 Top
+"Arthur C. Stickney, Sr. ",Assistant Chief ,VILLAGE OF MALONE FIRE DEPARTMENT ,9/2/1942,  4 Top
+William T. Nixon,Lieutenant,ROCHESTER FIRE DEPARTMENT,12/30/1981,  9 Top
+Patrick Donnelly,Ladderman,ROCHESTER FIRE DEPARTMENT,7/4/1926,  5 Top
+"Joseph Fitzgerald, II",Captain,NEW YORK CITY FIRE DEPARTMENT,12/18/1918,  3 Top
+Robert M. Hess ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,5/2/2010,  3 Top
+William D. Prange,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/9/1976,  8 Top
+Thomas Mitchell,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/28/1913,  4 Bottom
+Michael Kristal,Inspector,NEW YORK CITY FIRE DEPARTMENT,8/30/1944,  5 Bottom
+Michael T. Carr,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/19/1969,  9 Bottom
+Robert E. Newman ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,2/9/2017,14 Top
+Vincent J. Schiavoni,Ex-Captain,SAG HARBOR FIRE DEPARTMENT,10/20/1941,  7 Bottom
+James A. Hagen,Captain,NEW YORK CITY FIRE DEPARTMENT,11/3/1911,  5 Bottom
+Dennis Scauso,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+William H. Kelly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/10/1929,  4 Top
+Frank C. Murry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/3/1930,  4 Top
+Louis Lubcker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/5/1929,  4 Top
+Michael J. Higgins,Chief,ALBANY FIRE DEPARTMENT,2/11/1911,  5 Bottom
+John J. O’Hearn,Firefighter,SYRACUSE FIRE DEPARTMENT,5/18/1911,  5 Bottom
+"Robert E. Reed, Jr.",Firefighter,EAST MEADOW FIRE DEPARTMENT,1/26/1981,  9 Top
+Arnold Seaman,Chief,SELDEN FIRE DEPARTMENT,4/10/1969,  5 Top
+"John W. Smith, III",Captain,NEW YORK CITY FIRE DEPARTMENT,2/11/1967,  9 Bottom
+Benjamin H. Fay,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/2/1918,  3 Top
+James H. Malone,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/18/1922,  6 Top
+James J. McCormack,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/4/1924,  6 Top
+John H. Martinson,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/3/2008,  3 Top
+August Ihlenburg,Ex-Captain,FARMINGDALE FIRE DEPARTMENT,12/28/1943,  6 Bottom
+"William L. Hendrickson, Jr.",1st Assistant Chief,WOODMERE FIRE DEPARTMENT,3/23/1953,  7 Bottom
+James Smith,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/14/1907,  6 Bottom
+Martin Meyerdierks,Firefighter,PUTNAM LAKE FIRE DEPARTMENT,3/20/1978,  9 Top
+Ronald R. Brenneisen ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,9/12/2014,  1 Bottom
+Walter Torres ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/18/2012,  3 Bottom
+Barry G. Miller ,Assistant Chief ,BERGEN FIRE DEPARTMENT ,9/23/2015,  6 Bottom
+John Cook,Firefighter,HUNTINGTON FIRE DEPARTMENT,1/1/1978,  9 Top
+Timothy Cotter,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/6/1910,  5 Bottom
+James Hall,Ex-Captain,GLEN COVE FIRE DEPARTMENT,8/14/1975,  8 Top
+Daniel F. Pujdak,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/21/2007,  2 Bottom
+Michael E. Roberts,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+William R. O’Connor ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/16/2006,  1 Top
+Henry J. Helmken,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/13/1918,  2 Top
+James Marren,Firefighter,MOUNT VERNON FIRE DEPARTMENT,5/17/1974,  8 Top
+Douglas E. Oelschlager,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+Andrew B. Jordan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+Charles L. Kasper,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT ,9/11/2001,  4 Bottom
+Robert R. Wines,Past Chief,SAYVILLE FIRE DEPARTMENT,11/9/1979,  9 Top
+Edward J. Chester,Firefighter,BUFFALO FIRE DEPARTMENT,04/04/1875,  1 Top
+Raymond W. Hauber ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/4/2007,  2 Top
+Arthur P. Schorse,Firefighter,SOUTHAMPTON FIRE DEPARTMENT,1/1/1930,  4 Top
+John M. Moran,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+Vincent G. Halloran,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+Ronald D. Biller ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,9/18/2016,18 Bottom
+John Mayer,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/24/1929,  4 Top
+Keith M. Loughlin ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,7/31/2014,  8 Bottom
+"Cornelius F. Patterson, Jr.",Lieutenant,ALBANY FIRE DEPARTMENT,4/4/1931,  4 Top
+Michael Wall,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/3/1918,  2 Top
+James H. Brady,Firefighter,ALBANY FIRE DEPARTMENT,8/29/1971,  7 Top
+Frank Kersten,Firefighter,WANTAGH FIRE DEPARTMENT,9/4/1972,  7 Top
+Charles E. Parks,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/8/1908,  6 Bottom
+Joseph P. Connelly,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/19/1972,  7 Top
+Henry W. Brick,Firefighter,ANGOLA FIRE DEPARTMENT,12/27/1929,  4 Top
+Richard D. Allen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Bottom
+William Kelley,Captain,BUFFALO FIRE DEPARTMENT,9/14/1923,  6 Top
+William L. Henry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+John C. Draxler,Firefighter,WEBB MILLS FIRE DEPARTMENT,3/17/1979,  9 Top
+Robert A. Ford ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/29/2009,   1 Top
+Samuel Lilley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/30/1905,  2 Bottom
+Joseph G. Hunter,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+James J. Lanza ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,4/6/2017,  8 Top
+William J. Duffy,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,5/5/1913,  4 Bottom
+Carl V. Bini,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Bottom
+Michael L. Bocchino,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+James J. Walsh,Ladderman,ALBANY FIRE DEPARTMENT,11/27/1908,  6 Bottom
+Michael A. Maloney,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/19/1973,  8 Top
+Sherman Smith,Firefighter,VALLEY STREAM FIRE DEPARTMENT,9/9/1971,  7 Top
+Charles B. Franssen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/24/1919,  1 Top
+"John Duffy, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/7/1915,  3 Top
+Russell T. Linneball,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/29/1974,  8 Top
+Charles S. Szoke ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/1/2014,20 Top
+Richard G. Sullivan    ,Chief    ,HORSEHEADS FIRE DEPARTMENT    ,4/5/2006,  9 Top
+John J. Carey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/28/1907,  6 Bottom
+David F. Prior ,Lieutenant ,ELBRIDGE FIRE DEPARTMENT ,9/4/2006,20 Top
+William J. Mahoney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Jacob G. Guilde,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/26/1928,  5 Top
+Edward F. Geraghty,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+Thomas P. McEvoy,Firefighter,NEWPORT FIRE DEPARTMENT,2/24/1980,  8 Bottom
+Kevin Landau,Firefighter,NEW CITY FIRE ENGINE COMPANY NO. 1,1/1/1975,  8 Top
+William N. Tolley,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,4/20/2017,21 Bottom
+Herman G. Berny,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/10/1972,  7 Top
+Henry P. O’Bryan,Firefighter,TROY FIRE DEPARTMENT,4/29/1913,  4 Bottom
+William Leichsenring,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/18/1924,  5 Top
+Peter J. Carroll,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3  Top
+John F. Cox,Chief,BINGHAMTON FIRE DEPARTMENT,9/29/1975,  8 Top
+James Sellick,Firefighter,PEEKSKILL FIRE DEPARTMENT,8/1/1918,  2 Top
+"James J. Skelly, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/16/1916,  3 Top
+Charles J. Tozzo,Captain,COLD SPRING HARBOR FIRE DEPARTMENT,10/28/2003,  2 Bottom
+Joseph McDonough,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/30/1919,  1 Top
+Christopher Dressel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/31/1904,  3 Bottom
+Albert E. Donovan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/21/1923,  6 Top
+Randolph A. Ervin,Firefighter,GATES-CHILI FIRE DEPARTMENT,11/2/1964,  9 Top
+Bret E. Neff,Assistant Chief,HARFORD FIRE COMPANY,2/23/2004,  2 Top
+John E. Rauch,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/30/1928,  5 Top
+George C. Strauss,Captain,NEW YORK CITY FIRE DEPARTMENT,2/26/1928,  4 Top
+"Myron Hickok, Sr.",Firefighter,FAYETTEVILLE FIRE DEPARTMENT,2/11/1959,  7 Bottom
+"Robert G. Brooks, Sr.",Firefighter,MONTGOMERY VOLUNTEER FIRE DEPARTMENT,3/28/2005,   1 Top
+Frank J. Brennan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/6/1973,  8 Bottom
+Thomas J. McManus,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/16/1913,  4 Bottom
+Neil J. Leavy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Samuel L. Levine,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,3/21/1967,  9 Bottom
+Arthur T. Barry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+Henry Hanson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/14/1908,  6 Bottom
+Bejamin Suarez,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Harold R. Nelson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/3/1970,  8 Bottom
+A. David Feluren,Foreman,SCOTIA FIRE DEPARTMENT,8/26/1976,  8 Top
+William D. Lake,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Ralph D. Transue,Chief,VESTAL FIRE DEPARTMENT,11/23/1941,  5 Top
+"James J. Murphy, III",Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/4/1924,  6 Top
+William Clinton,Firefighter,BUFFALO FIRE DEPARTMENT,3/13/1911,  5 Bottom
+James L. Dam,Deputy Coordinator,VERNON FIRE DEPARTMENT,12/15/1976,  1 Top
+Eugene D. Bevan,Firefighter,WHITNEY POINT FIRE DEPARTMENT,1/1/1980,  9 Top
+John Clarke,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/1/1973,  7 Top
+Leon L. Lockwood,Firefighter,CENTERPORT FIRE DEPARTMENT,5/31/1930,  4 Top
+James Lawrence,1st Assistant Chief,KATONAH FIRE DEPARTMENT,11/6/1959,  7 Bottom
+Harry E. Flynn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/13/1917,  3 Top
+"Dennis J. Heedles, Sr. ",Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/10/2015,19 Top
+Michael Moran,Captain,VALLEY STREAM FIRE DEPARTMENT,12/8/1979,  9 Top
+Johnny Williams,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/29/1974,  8 Top
+Charles T. Dib,Chief,FRANKLIN SQ. & MUNSON FIRE DEPARTMENT,2/11/1969,  5 Top
+Francis Fitzgerald,Firefighter,BUFFALO FIRE DEPARTMENT,3/8/1974,  8 Top
+Elmer Cassidy ,Driver,BUFFALO FIRE DEPARTMENT,2/28/1922,  6 Top
+"Walter J. Smith, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/14/1979,  9 Top
+Gregory T. Saucedo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Dominick Marchese,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/21/1967,  9 Bottom
+Jerome J. Balbierz,Firefighter,LACKAWANNA FIRE DEPARTMENT,7/12/1969,  7 Top
+James P. McManus,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/2/1978,  9 Top
+Charles Kaiser,Driver,BUFFALO FIRE DEPARTMENT,9/11/1917,  3 Top
+William Macan,Firefighter,ENDICOTT FIRE DEPARTMENT,3/21/1970,  7 Top
+Allen Frye,Captain,ROSLYN RESCUE FIRE DEPARTMENT,3/25/2002,  7 Top
+Gregg J. McLoughlin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/4/2001,  4 Bottom
+Randy J. Wiebicke ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,3/2/2011,21 Bottom
+Daniel Morawski,Firefighter,CLEVELAND HILL FIRE COMPANY,11/3/1976,  8 Top
+"Richard J. Kelly, Jr. ",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+Daniel E. Heglund ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,9/22/2014,   1 Bottom
+Daniel G. McKenzie ,Forest Ranger ,NEW YORK STATE DEC ,10/6/1948,10 Bottom
+Louis Ciardullo,Firefighter,HASTINGS ON THE HUDSON FIRE DEPARTMENT,6/1/1970,  8 Bottom
+William J. Guido ,Deputy Chief ,NEW YORK CITY FIRE DEPARTMENT ,11/10/2011,  1 Bottom
+Brian C. Malloy ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,3/28/2011,21 Bottom
+Leland G. Foster,Firefighter,CORTLAND FIRE DEPARTMENT,1/1/1974,  8 Top
+James T. Brown,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/29/1922,  6 Top
+Raymond Severance,Firefighter,GRANVILLE FIRE DEPARTMENT,3/12/1967,  7 Top
+Robert J. Stegmeier ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,2/16/2012,  5 Bottom
+Eric T. Allen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Howard Crowell,Firefighter,CICERO FIRE DEPARTMENT,1/1/1978,  9 Top
+Edward T. Meehan ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,2/2/2018,12 Top
+"Anthony Prigitano, Sr.",Firefighter,MT. KISCO FIRE DEPARTMENT,1/1/1978,  9 Top
+Michael E. Roberts,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+William E. McGinn,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Harrington Brand,Firefighter,BUFFALO FIRE DEPARTMENT,8/7/1923,  6 Top
+Fred Edwards ,Firefighter ,LIBERTY FIRE DEPARTMENT,5/7/2014,  3 Bottom
+Patrick J. LaGambino,Firefighter,AUBURN CITY FIRE DEPARTMENT,5/12/1973,  7 Top
+Stanley Pawlowski,Firefighter,ELMONT FIRE DEPARTMENT,1/1/1970,  8 Bottom
+Steven J. Olson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Edward Kearney,Captain,SCHENECTADY FIRE DEPARTMENT,3/20/1975,  8 Bottom
+Patrick Bardin,Captain,NEWBURGH FIRE DEPARTMENT,12/27/1970,  8 Bottom
+Thomas H. Carmody,Ladderman,ROCHESTER FIRE DEPARTMENT,12/6/1913,  4 Bottom
+John Zahn,Firefighter,BUFFALO FIRE DEPARTMENT,7/14/1926,  5 Top
+John Dwyer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/6/1928,  4 Top
+Fabian J. Echevarrieta,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/7/1974,  8 Top
+Brownie Mach,Firefighter,LACKAWANNA FIRE DEPARTMENT,4/9/1980,  9 Top
+David M. Lynch,Captain,NEW YORK CITY FIRE DEPARTMENT,10/31/1927,  5 Top
+William J. Kelly ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,6/10/2017,  4 Bottom
+Timothy T. Gunther ,Firefighter ,POUGHKEEPSIE FIRE DEPARTMENT ,5/5/2015,  2 Top
+William S. O’Keefe,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+"Ralph Oralls, Jr.",Firefighter,OXFORD FIRE DEPARTMENT,1/2/2000,  6 Bottom
+Jack H. Rose ,Captain ,MT. MARION FIRE DEPARTMENT,12/19/2015,  5 Top
+Henry P. Rienhardt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/25/1922,  6 Top
+Donald J. Regan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Anthony Zito,Firefighter,OCEANSIDE FIRE DEPARTMENT,11/24/1967,  9 Bottom
+Frederick Fink,Firefighter,EASTCHESTER FIRE DEPARTMENT,1/6/1944,  5 Top
+Russell C. Brinkworth ,Firefighter,NEW YORK CITY FIRE DEPARTMENT ,8/26/2003,  1 Top
+Winifred Knapp,Fire Police,OWEGO FIRE DEPARTMENT,11/6/1965,  8 Top
+Edmond Kullman,Firefighter,NORTH BELLMORE FIRE DEPARTMENT,2/16/1973,  7 Top
+"John J. Kelly, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/18/1918,  3 Top
+P. Ellsworth Rude,Assistant Chief,FULTON FIRE DEPARTMENT,6/12/1927,  5 Top
+"Benjamin Proper, Jr.",Firefighter,FAYETTEVILLE FIRE DEPARTMENT,9/20/1951,  7 Bottom
+Emilio R. Longo ,Captain ,NEW YORK CITY FIRE DEPARTMENT ,8/29/2011,17 Bottom
+Joseph T. Callahan ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/1/2005,  2 Top
+Walter G. Hynes,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+George Wohl,Firefighter,CONGERS FIRE DISTRICT,12/13/2003,  7 Top
+Thomas F. Carrigan,Firefighter,SYRACUSE FIRE DEPARTMENT,5/5/1923,  6 Top
+Thomas Carrigan,Battalion Chief,NEW ROCHELLE FIRE DEPARTMENT,11/10/1962,  7 Bottom
+Raymond Lawrence,Firefighter,BUFFALO FIRE DEPARTMENT,4/15/1921,  6 Top
+Edward L. Gommenginger,Tillerman,ROCHESTER FIRE DEPARTMENT,11/2/1922,  6 Top
+Edward D. Lahey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/25/1907,  6 Bottom
+William E. Woodlon ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/20/2016,20 Bottom
+Ronald P. Svec ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,2/2/2018,20 Bottom
+Joseph Schellheimer,Firefighter,BUFFALO FIRE DEPARTMENT,10/7/1908,  6 Bottom
+"Henry Hoffman, Jr.",Lieutenant,BUFFALO FIRE DEPARTMENT,11/8/1972,  7 Top
+Claire Lockwood,Firefighter,PEEKSKILL FIRE DEPARTMENT,8/1/1918,  2 Top
+Milton North,Firefighter,ELBRIDGE FIRE DEPARTMENT,1/1/1976,  8 Top
+Cornelius R. Fogg    ,Firefighter    ,POUGHKEEPSIE FIRE DEPARTMENT     ,2/15/1928,  1 Top
+Richard A. Manetta ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/11/2009,  1 Bottom
+Albert Rigali,Chief,VERDOY FIRE DEPARTMENT,3/27/1970,  7 Top
+John T. Hart,Sergeant,MT. MCGREGOR CORRECTIONAL FACILITY,9/9/2002,  4 Top
+Charles E. Johnson,Inspector,NEW YORK CITY FIRE DEPARTMENT,7/1/1944,  5 Bottom
+Alfred Doerrer,Ex-Chief,NEW HYDE PARK FIRE DEPARTMENT,1/20/1969,  4 Top
+Michael Ludwig,Firefighter,SYRACUSE FIRE DEPARTMENT,1/14/1971,  7 Top
+James S. Hosey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/29/1967,  9 Bottom
+Robert Suckow,Firefighter,WEST SAYVILLE FIRE DEPARTMENT,2/25/1968,  7 Top
+"August Zunno, Jr.",Captain,ELMONT FIRE DEPARTMENT,10/1/1949,15 Top
+William R. Johnston,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+James Griffin,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,2/7/1923,  6 Top
+Thomas J. Farino,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+Herman F. Rhodey,Firefighter,LOCKPORT FIRE DEPARTMENT,1/26/1903,  8 Top
+Henry Wick,Firefighter,BUFFALO FIRE DEPARTMENT,12/19/1915,  3 Top
+Edward Steinert,Firefighter,NORTH BELLMORE FIRE DEPARTMENT,12/2/1973,  7 Top
+James H. Martin,Firefighter,CAZENOVIA FIRE DEPARTMENT,11/9/1901,  5 Top
+Joseph Pallesco,Firefighter,SCHENECTADY FIRE DEPARTMENT,9/23/1970,  3 Bottom
+Raymond F. Kihlmire,Firefighter,POUGHKEEPSIE FIRE DEPARTMENT,4/18/1971,  8 Bottom
+Peter J. Gaffeney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/31/1904,  3 Bottom
+Vincent A. Princiotta,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+James J. Ryan ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/25/2009,13 Bottom
+Richard W. Holst    ,Fire Police Captain    ,HUNTINGTON MANOR FIRE DEPARTMENT      ,9/9/2009,  1 Bottom
+Joseph P. O’Toole ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/12/2016,16 Top
+Harold J. Hoey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/13/1974,  8 Top
+Alfred Gracey,Ladderman,ROCHESTER FIRE DEPARTMENT,6/18/1916,  3 Top
+"George F. Farrell, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/13/1912,  4 Bottom
+Timothy J. Lynch,Firefighter,MANLIUS FIRE DEPARTMENT,3/7/2002,  8 Bottom
+George Wilkinson,Chief,THOMAS CORNERS FIRE DEPARTMENT,8/12/1955,  7 Bottom
+James O’Brien,Firefighter,BUFFALO FIRE DEPARTMENT,9/18/1914,  4 Bottom
+William F. Stanton,Engineer,NEW YORK CITY FIRE DEPARTMENT,10/23/1912,  4 Bottom
+Carl E. Molinaro,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Nicholas Taska,Firefighter,PAWLING FIRE DEPARTMENT,2/5/1969,  7 Top
+Thomas P. Holohan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+George D. Raynor,Firefighter,WESTHAMPTON BEACH FIRE DEPARTMENT,4/9/1968,  9 Bottom
+Charles S. Bouton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/2/1978,  9 Top
+Edward J. Heaney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/22/1971,  7 Top
+Frederick Soller,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/25/1999,  5 Bottom
+Thomas C. Brick,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/16/2003,  4 Top
+James A. Walsh,Captain,NEW YORK CITY FIRE DEPARTMENT,2/15/1956, 9 Bottom
+Tammy M. Hanno,Firefighter/EMT ,TURIN FIRE COMPANY,12/12/1995,  8 Bottom
+Frank Callmeyer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/3/1920,  6 Top
+John F. Dunne,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/6/1923,  6 Top
+George Grant,Firefighter,POINT LOOKOUT-LIDO FIRE DEPARTMENT,3/1/1980,  9 Top
+Joseph A. Fay,Captain,NEW YORK CITY FIRE DEPARTMENT,11/30/1967,  9 Bottom
+Joseph M. Beetle,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,2/8/1976,  8 Top
+Lawrence Filiatrault,Firefighter,FORT DRUM  FIRE DEPARTMENT,1/1/1979,  9 Top
+Edward Pawlowski,Firefighter,THOMAS CORNERS FIRE DEPARTMENT,1/1/1978,  9 Top
+Gary J. Gates ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,9/29/2015,19 Top
+James W. Gerdes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/1/1904,  3 Bottom
+George Gibson,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/22/1904,  3 Bottom
+William F. Sellinger,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/18/1921,  6 Top
+Stephen G. Gavin,Lieutenant,OWEGO FIRE DEPARTMENT,9/2/2003,  4 Bottom
+Walter Farrell,Firefighter,BUFFALO FIRE DEPARTMENT,2/1/1922,  6 Top
+Martin N. DeMeo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+James Coveney,Firefighter,LINDENHURST FIRE DEPARTMENT,1/1/1982,  8 Bottom
+LaFord H. Stanley,Firefighter,CAMPVILLE FIRE DEPARTMENT,1/1/1973,  7 Top
+Matthew D. Garvey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Rozel T. Rice,Firefighter,DAYTON FIRE DEPARTMENT,1/1/1976,  8 Top
+Adolph A. D’ Ambrosio,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/4/1975,  8 Top
+John D. Cunningham,Firefighter,PAWLING FIRE DEPARTMENT,12/6/1966,  7 Top
+Rudolph F. Kaminsky,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/17/1966,  2 Bottom
+Donald P. Aversa,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/17/1977,  9 Top
+Glenn E. Wilkinson,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Bottom
+Richard B. Marsh,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/3/1976,  8 Top
+John J. Florio,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+Frank Friederlein,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/31/1945,  4 Bottom
+Lloyd Flavin,Firefighter,COHOES FIRE DEPARTMENT,6/14/1976,  8 Top
+Steven B. Reisman ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,6/1/2014,18 Bottom
+Glenn C. Perry,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+Berthold H. Lorenz,Firefighter,VALHALLA FIRE DEPARTMENT,3/25/1952,  7 Bottom
+Dominick J. Rosato,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/21/1969,  9 Bottom
+Steven J. Bates,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+Richard A. Spina,Firefighter,SYRACUSE FIRE DEPARTMENT,3/11/1972,  7 Top
+Robert W. Alexander ,Marine Engineer ,NEW YORK CITY FIRE DEPARTMENT ,8/14/2017,16 Top
+Eugene Bowers,Battalion Chief,BUFFALO FIRE DEPARTMENT,9/12/1967,  9 Bottom
+Henry J. Hoehn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/27/1930,  4 Top
+Terrell A. Reeve,Firefighter,EAST MORICHES FIRE DEPARTMENT,1/1/1972,  7 Top
+Frederick Carpenter,Assistant Chief,NEWBURGH FIRE DEPARTMENT,5/2/1968,  9 Bottom
+Mark A. Kelly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/26/1904,  3 Bottom
+John T. Foran,Firefighter,NANUET FIRE DEPARTMENT,9/9/1975,  8 Top
+Philip S. Petti,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+Paul Siegert,Firefighter,BUFFALO FIRE DEPARTMENT,7/6/1912,  4 Bottom
+Keith E. Atlas ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,4/4/2014,18 Top
+Peter A. Bielfeld,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+Francis J. Martin,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/9/1972,  7 Top
+Michael Smith,Firefighter,WEST SENECA FIRE DEPARTMENT,9/4/1977,  8 Top
+George Boyce,Firefighter,BELLPORT FIRE DEPARTMENT,1/1/1973,  7 Top
+Lawrence Perchuck,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/27/1967,  9 Bottom
+Gerard J. Duffy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Bottom
+John J. Henderson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/8/1929,  4 Top
+Carl H. Lucas,Captain,WATERTOWN FIRE DEPARTMENT,7/7/1955,  7 Bottom
+Ronald F. Warren,Firefighter,GENEVA FIRE DEPARTMENT,5/16/1980,  9 Top
+Edward Thompson,Firefighter,BUFFALO FIRE DEPARTMENT,11/7/1928,  5 Top
+Nathan Riley,Firefighter,BUFFALO FIRE DEPARTMENT,8/12/1909,  5 Bottom
+Percy Smith,Firefighter,JONESVILLE FIRE DEPARTMENT,6/12/1946,  4 Bottom
+Lorenzo Warlick,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/5/1967,  9 Bottom
+George N. Peartree,Hoseman,ROCHESTER FIRE DEPARTMENT,11/11/1907,  6 Bottom
+Edward V. Tietjen ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,11/25/2003,21 Bottom
+Raymond Mursch,Firefighter,WHITESBORO FIRE DEPARTMENT,1/6/1957,  7 Bottom
+Patrick J. Brown,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+Thomas J. Thompson ,Captain ,NEW YORK CITY FIRE DEPARTMENT ,8/17/2015,19 Top
+William C. Seelig,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/7/1972,  7 Top
+George E. Klopfer,Assistant Chief,VOORHEESVILLE FIRE DEPARTMENT,7/6/1959,  7 Bottom
+Donald E. McFee,Assistant Chief,MEXICO FIRE DEPARTMENT,8/31/1969,  9 Bottom
+Frank T. Tuttlemondo,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,8/13/1980,  9 Top
+Eugene Dean,Firefighter,MOUNT VERNON FIRE DEPARTMENT,1/1/1980,  9 Top
+Howard A. Dailey,Captain,AMITYVILLE FIRE DEPARTMENT,6/20/1971,  7 Top
+Brian J. Masterson ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/22/2017,  7 Bottom
+Jonathan S. Croom,Firefighter,BUFFALO FIRE DEPARTMENT,8/24/2009,  1 Top
+Steve J. Mercado,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+Frederick Masserli,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/2/1907,  6 Bottom
+Donald J. Urbano ,Lieutenant ,ALBANY FIRE DEPARTMENT,11/18/2016,21 Top
+Harold F. Hastings,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/2/1978,  9 Top
+John E. Mahon,Hoseman,ROCHESTER FIRE DEPARTMENT,8/9/1930,  4 Top
+Leo P. Lydon,Ex-Captain,SUFFERN FIRE DEPARTMENT,9/16/1969,  9 Bottom
+J. Chester Cromwell,Firefighter,WHITE PLAINS FIRE DEPARTMENT,2/3/1907,  6 Bottom
+William E. Moreau ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,3/12/2008,  2 Top
+James P. Lavin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/14/1971,  7 Top
+Michael R. O’Hanlon ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/28/2017,15 Bottom
+Roy W. Chelsen ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/9/2011,21 Bottom
+Edward Guarino,Firefighter,EGGERTSVILLE HOSE FIRE DEPARTMENT,6/17/1970,  6 Bottom
+Michael J. Dickinson,Firefighter,SOUTH GLENS FALLS FIRE DEPARTMENT,4/17/1970,  6 Top
+Steven C. Mosiello ,Fire Marshal ,NEW YORK CITY FIRE DEPARTMENT ,7/15/2011,  4 Bottom
+Brereton E. Johnson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/13/1913,  4 Bottom
+Kenneth Dack,Firefighter,SOLVAY FIRE DEPARTMENT,9/3/1973,  7 Top
+Mary Skidmore,President,SELDEN FIRE DEPARTMENT,11/24/1976,  2 Top
+Robert E. Leaver ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,9/22/2014,  1 Bottom
+Frank Seeback,Captain,WANTAGH FIRE DEPARTMENT,11/18/1973,  7 Top
+Raymond E. Murphy,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Richard E. McGuire ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,12/9/2012,  2 Top
+Joseph C. Clark,Firefighter,SARATOGA SPRINGS FIRE DEPARTMENT,12/14/1974,  8 Top
+James H. Landrigan,Ex-Captain,EAST MEADOW FIRE DEPARTMENT,9/29/1977,  9 Top
+Charles R. Nagle,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/11/1926,  5 Top
+Carmelo J. Puccia,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/6/1970,  8 Bottom
+Kevin J. Cassidy ,Captain ,NEW YORK CITY FIRE DEPARTMENT ,8/30/2009,  1 Bottom
+Raymond Koehler,Captain,NEW YORK CITY FIRE DEPARTMENT,11/19/1975,  8 Top
+George M. Bayard,Firefighter,CORNWALL FIRE DEPARTMENT,8/23/1923,  4 Top
+Daniel O’Connor,Firefighter,BUFFALO FIRE DEPARTMENT,1/19/1908,  6 Bottom
+John Smith,Firefighter,BUFFALO FIRE DEPARTMENT,07/02/1858,  1 Top
+Homer G. Mead,Firefighter,JOHNSON CITY FIRE DEPARTMENT,1/8/1974,  8 Top
+Steven Sorger,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,3/11/2017,  4 Top
+Thomas F. Lennon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/6/1907,  6 Bottom
+Keith Purcell,Firefighter,SOUTHOLD FIRE DEPARTMENT,12/17/2000,  7 Bottom
+John Carbush,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/9/1905,  2 Bottom
+Michael J. Cawley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Elmer Lissow,Firefighter,HILTON FIRE DEPARTMENT,3/7/1972,  7 Top
+Joseph Nirschel,Battalion Chief,BUFFALO FIRE DEPARTMENT,5/9/1923,  6 Top
+James R. Starkey,Captain,NEW YORK CITY FIRE DEPARTMENT,7/16/1924,  6 Top
+Stephen J. Finn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/17/1920,  6 Top
+Jospeh D. Farrelly,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+Henry V. Delaney,Firefighter,BALLSTON SPA FIRE DEPARTMENT,3/13/1974,  8 Top
+Howard J. Bischoff ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,9/22/2014,  2 Bottom
+Lawrence Franklin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/19/1969,  9 Bottom
+Jacques W. Paultre ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,6/24/2008,20 Bottom
+William Hoff,Firefighter,WILLISTON PARK FIRE DEPARTMENT,1/1/1971,  7 Top
+William Roland,Driver,BUFFALO FIRE DEPARTMENT,6/1/1918,  3 Top
+Walter Cole,Firefighter,PEEKSKILL FIRE DEPARTMENT,8/1/1918,  2 Top
+Martin R. Celic,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/10/1977,  8 Top
+Walter H. Huhne,Firefighter,PORT CHESTER FIRE DEPARTMENT,4/3/1963,  7 Top
+Paul Alle,Chief,ASHLAND FIRE DEPARTMENT,9/12/1960,  7 Bottom
+Leon J. Hammond,Firefighter,FULTON FIRE DEPARTMENT,11/30/1915,  5 Bottom
+Brian E. Sweeney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Matthew S. Rogan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+"Robert J. Schnibbe, Jr.",Battalion Chief,WESTCHESTER BATTALION 14,3/3/2006,  2 Bottom
+James C. Kearney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/28/1967,  9 Bottom
+"William F. Burke, Jr.",Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+John Henky,Firefighter,BUFFALO FIRE DEPARTMENT,1/28/1907,  6 Bottom
+Edward White,Captain,BUFFALO FIRE DEPARTMENT,11/13/1917,  3 Top
+Jerry Cotignola,Firefighter,FREEPORT FIRE DEPARTMENT,1/1/1978,  9 Top
+John R. Eastburn,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,2/10/1970,  8 Bottom
+Michael Petragnani,Firefighter,SYRACUSE FIRE DEPARTMENT,4/9/1978,  9 Top
+Burton Winspear,Firefighter,BUFFALO FIRE DEPARTMENT,1/7/1975,  8 Top
+John J. Burke,Firefighter,YONKERS FIRE DEPARTMENT,7/1/1913,  4 Bottom
+Michael R. Warchola,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+Frank Wilkinson,Firefighter,HUTCHINSON HOSE FIRE DEPARTMENT,11/23/1970,  8 Bottom
+John C. Rumsey,Firefighter,ITHACA FIRE DEPARTMENT,12/7/1906,  3 Top
+Herbert F. Clark,Firefighter,CATSKILL FIRE DEPARTMENT,7/31/1960,  7 Bottom
+Anthony Schepis,Firefighter,AVERILL PARK-SANDLAKE FIRE DEPARTMENT,4/13/1960,  7 Bottom
+Harold B. Sayers,Ladderman,ALBANY FIRE DEPARTMENT,6/4/1922,  6 Top
+Thomas Ringlehan,Firefighter,CORNWALL-ON-HUDSON FIRE DEPARTMENT,6/12/1973,  7 Top
+Francis Masterson,Lieutenant,BUFFALO FIRE DEPARTMENT,2/9/1931,  4 Top
+Mark W. McKay ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,4/4/2012,  2 Bottom
+James J. Maine,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/10/1969,  9 Bottom
+Michael J. Greene,"Firefighter, Ex-Captain",WEST BABYLON FIRE DEPARTMENT,6/16/2006,  2 Top
+John P. Murray ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,4/30/2008,  3 Top
+Reinaldo Natal ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,2/5/2006,  2 Top
+George D. Eysser ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT,6/13/2015,  3 Top
+James J. Marshall ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,11/30/2014,  1 Top
+Frank J. Caravella,Firefighter,DEER PARK FIRE DEPARTMENT,1/1/1978,  9 Top
+Jeffrey W. Howell,Firefighter,SHARON SPRINGS FIRE DEPARTMENT,5/13/2004,  4 Bottom
+Charles J. Murphy,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/9/1918,  2 Top
+Dana Standish,Firefighter,NAPLES FIRE DEPARTMENT,7/26/1966,  9 Bottom
+Patrick J. Sullivan ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,6/16/2012,  1 Bottom
+Denis Donovan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/17/1920,  6 Top
+William J. Aeillo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/30/1923,  6 Top
+William J. Dayton,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/13/1905,  3 Bottom
+"John J. Harvey, I",Pilot,NEW YORK CITY FIRE DEPARTMENT,2/11/1930,  4 Top
+Lewis Pfeil,Chief,GUILFORD FIRE DEPARTMENT,6/23/1961,  7 Bottom
+Paul F. Santoro ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/15/2016,18 Top
+Peter Simpson,Firefighter,NANUET FIRE ENGINE COMPANY,6/22/1957,  7 Bottom
+Terrence P. Farrell,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Bottom
+Carlton A. Bouck,Firefighter,BRIDGEWATER FIRE DEPARTMENT,11/5/1966,  3 Top
+George McDermott,Firefighter,SYRACUSE FIRE DEPARTMENT,3/12/1905,  2 Bottom
+Max Schmidt,Firefighter,LEEDS FIRE DEPARTMENT,11/1/1935,  9 Bottom
+Lawrence Fitzpatrick,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/27/1980,  9 Top
+"Frank Porpiglio, Jr.",Firefighter,SYRACUSE FIRE DEPARTMENT,4/9/1978,  9 Top
+Michael J. Clarke,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Gordon M. Ambelas ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,7/5/2014,  4 Top
+Robert F. Coates,Firefighter,CRYSTAL BEACH FIRE DEPARTMENT,1/1/1981,  9 Top
+Edward F. Nealis,Captain,NEW YORK CITY FIRE DEPARTMENT,5/17/1919,  1 Top
+Cruz Antonio Fernandez ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT,7/14/2006,19 Bottom
+Anthony DeFalco,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/9/1974,  8 Top
+Clyde E. Johns,Lieutenant,BINGHAMTON FIRE DEPARTMENT,10/24/1970,  7 Top
+Edward J. Coiley,Chief,MORAVIA FIRE DEPARTMENT,4/5/1936,  3 Top
+Thomas R. Van Doran ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,11/13/2012,  3 Top
+Mathew J. Ward,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/26/1915,  3 Top
+John H. Massey,Firefighter,UNADILLA FORKS,10/10/1977,  9 Top
+Richard Hellberg,Firefighter,MILLER PLACE FIRE DEPARTMENT,1/1/1978,  9 Top
+John F. Timmons,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,12/23/1911,  5 Bottom
+Thomas F. Munroe,Captain,NEW YORK CITY FIRE DEPARTMENT,2/26/1968,  9 Bottom
+"William Wilson, Jr. ",Fire Marshal ,NEW YORK CITY FIRE DEPARTMENT ,7/15/2006,21 Bottom
+Carl J. Bedigian,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+"Edward Rykowski, Jr.",Firefighter,ROSLYN-HIGHLAND FIRE DEPARTMENT,9/3/1979,  9 Top
+Robert W. Johnson ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,4/10/2016,19 Bottom
+Gerard T. Ganley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/13/1978,  9 Top
+James P. McGahan,Lieutenant,ALBANY FIRE DEPARTMENT,6/4/1922,  6 Top
+Nicholas J. DeMasi ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/21/2015,20 Top
+James M. Meyers,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,11/15/1979,  8 Bottom
+Martin C. Simmons ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,7/21/2008,21 Bottom
+James W. Robertson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/8/1975,  8 Top
+John Venner,Firefighter,SYRACUSE FIRE DEPARTMENT,3/15/1926,  5 Top
+John E. Miller,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/24/1925,  5 Top
+Patrick J. O’Keefe,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+Michael F. Harley,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/29/1925,  5 Top
+Joseph Rittling,Firefighter,BUFFALO FIRE DEPARTMENT,04/25/1894,14 Bottom
+John F. Ginley,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+William Richardson,Pilot,BUFFALO FIRE DEPARTMENT,2/28/1931,  4 Top
+James E. Cutillo,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/2/1978,  9 Top
+Nathan C. Howell,Firefighter,SOUTHAMPTON FIRE DEPARTMENT,1/1/1918,  2 Top
+Vanclive A. Johnson ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/22/2003,  1 Top
+Stephen J. Glynn,Hoseman,ALBANY FIRE DEPARTMENT,7/22/1904,  3 Bottom
+Edward A. Dougherty,Captain,NEW YORK CITY FIRE DEPARTMENT,10/4/1930,  4 Top
+Eugene M. Whelan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Daniel T. Suhr,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Bottom
+Richard Bean,Firefighter,LONG LAKE FIRE DEPARTMENT,2/7/1974,  8 Top
+Vincent S. Morello,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+"Charles R. Sanchez, I",Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/7/1976,  8 Top
+"John J. Berardi, Jr.",Firefighter,KINGSTON FIRE DEPARTMENT,7/7/2003,  3 Bottom
+Floyd L. Adel,Firefighter,FULTON FIRE DEPARTMENT,12/4/1914,  4 Top
+William Vogel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/27/1929,  4 Top
+Paul D. Wilson,Firefighter,EVANS MILLS FIRE DEPARTMENT,7/7/1940,  8 Bottom
+William T. Keene,Firefighter,BUFFALO FIRE DEPARTMENT,4/5/1978,  9 Top
+Eugene R. Miller,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/24/1968,  9 Bottom
+William Jones,Engineer,BUFFALO FIRE DEPARTMENT,5/6/1922,  6 Top
+Frank Murphy,Firefighter,AUBURN FIRE DEPARTMENT,2/1/1927,  5 Top
+Lester A. Roselle,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/1/1977,  8 Top
+Robert Brunner,Firefighter,BUFFALO FIRE DEPARTMENT,1/3/1968,  9 Bottom
+Michael R. Davidson ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,3/23/2018,  1 Bottom
+William C. Gorry,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/10/1960,  7 Bottom
+Alton L. Lewis,Assistant Chief,MONTOUR FALLS FIRE DEPARTMENT,11/29/1999,  1 Top
+Joseph P. Costello ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,1/3/2006,  2 Top
+Raymond L. Murray ,Forest Ranger ,NYS DEPARTMENT OF CONSERVATION ,10/9/1970,21 Top
+Thomas Simpson,Firefighter,NANUET FIRE ENGINE COMPANY,6/22/1957,  7 Bottom
+Brian D. Fahey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/17/2001,  4 Top
+Melvin W. Martin,Firefighter,BANGOR FIRE DEPARTMENT,9/8/1958,  7 Bottom
+Michael G. Behette ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,9/17/2012,  3 Top
+Joseph A. Flannigan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/31/1921,  6 Top
+Francis M. Donelon,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/10/1930,  4 Top
+Charles J. Johnson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/14/1918,  3 Top
+James N. Costello ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,11/25/2015,  3 Bottom
+"David P. Meron, Sr.",Firefighter,HOOSICK FALLS FIRE DEPARTMENT,7/21/2008,   6 Bottom
+Fritz Wanerka,Firefighter,ANTWERP FIRE DEPARTMENT,1/1/1979,  9 Top
+Adam Damm,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/27/1907,  6 Bottom
+Gregorio Morales ,Fire Marshal ,NEW YORK CITY FIRE DEPARTMENT ,7/30/2016,19 Bottom
+George L. Collins,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/15/1968,  9 Bottom
+John F. Fecher,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/23/1910,  5 Bottom
+Dennis M. Mulligan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+James Brennan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/28/1920,  6 Top
+William Muldoon,Firefighter,SOLVAY FIRE DEPARTMENT,11/20/1969,  7 Top
+"David Hadley, Sr.",Firefighter,BOSTON FIRE DEPARTMENT,7/15/1978,  9 Top
+James F. Flood,Lieutenant,ALBANY FIRE DEPARTMENT,1/1/1929,  4 Top
+Joseph P. DiBernardo ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,11/22/2011,  6 Top
+Joseph Crawley,Assistant Chief,NEW YORK CITY FIRE DEPARTMENT,1/13/1925,  5 Top
+John B. Doran,Engineer,NEW YORK CITY FIRE DEPARTMENT,6/25/1914,  4 Bottom
+William C. Dugan,Firefighter,EAST MORICHES FIRE DEPARTMENT,1/1/1976,  8 Top
+Thomas J. Earl,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/8/1976,  8 Top
+Walter J. Tracey,Firefighter,NYBFU/STATIONED WITH FDNY,7/3/1966, 8 Top
+John R. Graziano ,Captain ,NEW YORK CITY FIRE DEPARTMENT  ,3/13/2015,21 Top
+Toby Stockman,Firefighter,FRIENDSHIP FIRE DEPARTMENT,1/1/1976,  8 Top
+Daniel O’Connell,Firefighter,PUTNAM LAKE FIRE DEPARTMENT,1/25/1999,  6 Top
+James V. O’Donnell,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/28/1922,  6 Top
+Ricardo Quinn,FDNY Paramedic,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+Leon Stark,Firefighter,GRANVILLE FIRE DEPARTMENT,2/1/1953,  7 Bottom
+John K. Corcoran ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT,1/11/2013,  3 Bottom
+Robert Minnis,Driver,BUFFALO FIRE DEPARTMENT,5/19/1905,  3 Bottom
+Vincent C. Innella,Firefighter,SPARROWBUSH ENGINE COMPANY,1/15/1979,  9 Top
+George J. Scanlan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/19/1919,  6 Top
+John P. Napolitano,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Bottom  
+John Harmon,Firefighter,FRANKLIN FIRE DEPARTMENT,1/1/1977,  8 Top
+George F. Woods,Firefighter,LOCKPORT FIRE DEPARTMENT,02/01/1882,  8 Top
+Paul H. Keating,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Edward J. Winewski,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/23/1975,  8 Top
+Frank A. Palombo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Bottom
+Michael F. Mongelli ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/3/2012,   1 Bottom 
+William J. Christopher,Firefighter,TROY FIRE DEPARTMENT,5/1/1922,  6 Top
+Charles H. Furey,Captain,NEW YORK CITY FIRE DEPARTMENT,2/14/1930,  4 Top
+"James Doyle, Jr.",Firefighter,PORT WASHINGTON FIRE DEPARTMENT,11/10/1947,  3 Bottom
+William C. Rinsdale,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,8/1/1971,  7 Top
+William M. Feehan,1st Deputy Commissioner,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Mike J. Cunningham,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/12/1927,  5 Top
+Thomas H. Geraghty,Firefighter,RHINEBECK FIRE DEPARTMENT,8/1/1932,  1 Bottom
+John M. Crane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/27/1927,  5 Top
+Erich Lachmann     ,Firefighter    ,WASHINGTON HEIGHTS FIRE DEPARTMENT     ,,  2 Bottom
+Edward J. Fox,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/27/1927,  5 Top
+Henry Clay,Firefighter,TULLY FIRE DEPARTMENT,1/1/1974,  8 Top
+"Joseph J. Angelini, Sr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Irvin R. Saltsman,Firefighter,AVOCA HOSE COMPANY NO. 1,1/1/1980,  9 Top
+Richard Laden,Firefighter,RICHFIELD SPRINGS FIRE DEPARTMENT,1/1/1980,  9 Top
+Robert Pryor,Captain,EAST ROCKAWAY FIRE DEPARTMENT,10/10/1970,  7 Top
+William Bostian,Fire Police Lieutenant,WEST WEBSTER FIRE DEPARTMENT,8/6/2005,   1 Bottom
+James J. Hughes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/3/1920,  6 Top
+Michael O. Glynn,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/22/1967,  9 Bottom
+Michael D. Falkouski,Assistant Chief,RENSSELAER FIRE DEPARTMENT,1/23/2005,   1 Top
+Robert A. Klineline,Firefighter,LOCKPORT FIRE DEPARTMENT,6/18/1981,  2 Bottom
+George E. Walker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/26/1927,  5 Top
+Thomas A. Casoria,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+Edward J. Rall,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Francis T. Keane ,Captain ,NEW YORK CITY FIRE DEPARTMENT,12/11/2006,  3 Bottom
+John G. Bellew,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/23/2005,  1 Top
+Robert J. Hassett,Firefighter,BETHPAGE FIRE DEPARTMENT,5/25/1978,  9 Top
+Willliam E. Bennett,Chief,KENNEDY FIRE DEPARTMENT,9/4/2001,  4 Bottom
+Michael L. Duffy ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/8/2017,  2 Top
+Raymond Zahm,Firefighter,BUFFALO FIRE DEPARTMENT,12/18/1929,  4 Top
+Charles Kraus,2nd Lieutenant,ROOSEVELT FIRE DEPARTMENT,11/8/1965,  9 Top
+Stanley H. Skinner,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/8/1976,  8 Top
+Harry L. Webber,Assistant Chief,BEEKMANTOWN FIRE DEPARTMENT,4/28/1965,  3 Top
+Cornell L. Horne ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT,10/5/2014,  2 Bottom
+Frank J. Callahan,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Kevin R. Byrnes ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,2/4/2004,21 Bottom
+Ronald W. Thomas,Firefighter,WELLSVILLE VOLUNTEER FIRE DEPARTMENT,4/29/2007,  1 Bottom
+Patrick O’Connor,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/12/1917,  3 Top
+Joseph Finger,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/25/1906,  1 Bottom
+"Thomas E. O’Brien, Jr.",Firefighter,WILMINGTON FIRE DEPARTMENT,4/15/1949,  4 Top
+John J. Crean,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/27/1904,  3 Bottom
+John Keupp,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/29/1920,  6 Top
+Kenneth Kerr,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/15/2000,  5 Bottom
+Lewis Near,Firefighter,ROOSEVELT FIRE DEPARTMENT,1/1/1978,  8 Bottom
+Stephen M. Johnson ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/6/2004,20 Bottom
+Frank C. Smith,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/14/1973,  7 Top
+Carl F. Asaro,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+Robert V. Buffham,Firefighter,LOCKPORT FIRE DEPARTMENT,2/8/1925,  4 Top
+Edwin Hoffman,Firefighter,BUFFALO FIRE DEPARTMENT,8/6/1929,  4 Top
+William Hill,Firefighter,BUFFALO FIRE DEPARTMENT,3/21/1929,  4 Top
+Peter L. Freund,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Bottom
+John P. Bresnahan,2nd Assistant Chief,SNYDER FIRE DEPARTMENT,6/3/1966,  7 Top
+Salvatore Deiosso,Engineer,ROSLYN FIRE DEPARTMENT,10/9/1965,  8 Top
+Charles J. Margiotta,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Michael J. Gorumba,Firefighter,GARDEN CITY FIRE DEPARTMENT,8/28/2001,  6 Bottom
+Thomas D. Hassett,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/13/1922,  6 Top
+Thomas F. Halpin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/26/1906,  1 Bottom
+Patrick D. Byrne,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Thomas P. DeAngelis,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Albert E. Donovan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/21/1924,  5 Top
+William H. Rush,Engineer,NEW YORK CITY FIRE DEPARTMENT,11/12/1906,  2 Bottom
+John J. Cassidy ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,1/21/2015,  1 Bottom
+Maynard M. Ham,Fire Police,RED HOOK FIRE COMPANY,8/25/1972,  7 Top
+Michael J. Fahy ,Deputy Chief ,NEW YORK CITY FIRE DEPARTMENT,9/27/2016,  4 Top
+John R. Baker,Assistant Chief,SHORT TACT FIRE DEPARTMENT,3/14/1970,  8 Bottom
+Joseph W. Pasquale,Firefighter,RYE FIRE DEPARTMENT,6/9/1974,  8 Top
+Carlos R. Lillo,Paramedic,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+Matthew E. Barnes,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Michael Schmidt,Firefighter,BUFFALO FIRE DEPARTMENT,12/5/1925,  5 Top
+Fordham O’Dell,Lieutenant,NORTH BELLMORE FIRE DEPARTMENT,4/21/1932,  8 Bottom
+George Carbine,Firefighter,BUFFALO FIRE DEPARTMENT,9/5/1926,  5 Top
+John J. McAvoy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Bottom
+John J. Brodbeck,Firefighter,COPAKE FIRE DEPARTMENT,11/8/1946,  2 Top
+Edward J. Day,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+"William Bailey, Jr.",Battalion Chief,TROY FIRE DEPARTMENT,4/17/1917,  2 Top
+"Faustino Apostol, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Tempest Hunter,Firefighter,NANUET FIRE ENGINE COMPANY,3/12/1967,  7 Top
+Joseph L. Norman,Firefighter,CAMPBELL FIRE DEPARTMENT,1/1/1976,  8 Top
+Michael T. Carroll,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3  Bottom
+John F. McNamara ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,8/9/2009,  2 Top
+"Walter Bozenko, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/14/1971,  7 Top
+"Joseph Sparacino, Jr.",Lieutenant,NEW YORK CITY FIRE DEPARTMENT,8/30/1976,  8 Top
+Charles R. Mendez,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+Joseph Kadlec,Firefighter,NORTH TARRYTOWN FIRE DEPARTMENT,1/1/1980,  9 Top
+Peter Brennan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+Henry J. Hinton,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,2/22/1974,  8 Bottom
+Matthew J. Cummings,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,10/25/1918,  3 Top
+Thomas Rutledge,Firefighter,SOUND BEACH FIRE DEPARTMENT,1/1/1970,  8 Bottom
+Richard M. Burke ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,8/13/2005,20 Bottom
+Daniel E. Wisniewski,Firefighter,BUFFALO FIRE DEPARTMENT,9/9/1956,  8 Top
+Edward J. Driscoll,Captain,TROY FIRE DEPARTMENT,12/7/1967,  9 Bottom
+Adrian B. Curnan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/19/1922,  6 Top
+Garret Pierce,Firefighter,NIAGARA FALLS FIRE DEPARTMENT,3/26/1923,  6 Top
+James O’Dwyer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/30/1926,  5 Top
+Hugh F. O’Neill,Firefighter,LAKEVIEW FIRE DEPARTMENT,1/1/1974,  8 Top
+George S. Rice,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/2/1978,  9 Top
+John Degnan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/7/1931,  4 Top
+Gregory R. Sikorsky,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Richard Dewling,Ex-Chief,SOUTH HEMPSTEAD FIRE DEPARTMENT,3/6/1947,  2 Bottom
+"Thomas P. Cullen, III",Firefighter ,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+William F. Carlock,Firefighter,NEW YORK CITY FIRE DEPARTMENT,8/29/1927,  5 Top
+Donald Herbert,Firefighter,BUFFALO FIRE DEPARTMENT,2/21/2006,  3 Top
+Virginia A. Spinelli ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/19/2011,  6 Bottom
+William B. Webb,Chief,MIDWAY FIRE DEPARTMENT,5/27/1964,  7 Top
+Carl Herer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/10/1967,  9 Bottom
+"Albert F. Rusack, Jr.",Firefighter,SALEM FIRE DEPARTMENT,10/2/1980,  9 Top
+Leo Grenier,Firefighter,WEST LEYDEN FIRE DEPARTMENT,1/1/1976, 8 Top
+Thomas Beagle,Chief,SOLVAY FIRE DEPARTMENT,8/15/1960,  7 Bottom
+Bruce H. Gary,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Frederick L. Brain,Fire Police,MILLER PLACE FIRE DEPARTMENT,4/24/2000,  3 Bottom
+John F. Whelan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/9/1969,  9 Bottom
+Casimir Klubek,Firefighter,LACKAWANNA FIRE DEPARTMENT,7/8/1977,  8 Top
+Stewart W. Powell,Firefighter,NORWOOD VOLUNTEER FIRE DEPARTMENT,7/12/1943,  4 Bottom
+Thomas J. Greaney ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT  ,1/5/2014,  4 Top
+Daniel O’Callaghan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Top
+Martin T. Fullam ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT,1/28/2013,19 Top
+Edward J. Knapp,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/7/1927,  5 Top
+John W. T. F. Kocher,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/15/1918,  2 Top
+Theodore F. Freed,Lieutenant,ROCHESTER FIRE DEPARTMENT,5/15/1968,  9 Bottom
+Raphael A. Fox,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/1/1916,  3 Top
+Edward J. McDonagh ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,11/12/2017,  8 Top
+Christopher Quinn,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/11/1926,  5 Top
+Walter Hauck,Firefighter,ROCHESTER FIRE DEPARTMENT,1/6/1978,  8 Bottom
+David Lemen,Firefighter,NORTH HORNELL FIRE DEPARTMENT,1/1/1979,  9 Top
+Thomas M. Butler,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Albert DeCourville,Firefighter,TROY FIRE DEPARTMENT,4/18/1917,  2 Top
+Philip F. Roos,Firefighter,MOUNT VERNON FIRE DEPARTMENT,12/4/1972,  7 Top
+Frederick J. Longmore,Ladderman,ROCHESTER FIRE DEPARTMENT,5/4/1930,  4 Top
+John J. Schoppmeyer,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,7/18/1922,  6 Top
+Frank J. Reid,Firefighter,LOCKPORT FIRE DEPARTMENT,2/13/1909,  5 Top
+Michael E. Brennan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  2 Top
+George Brown,Protective,ALBANY FIRE DEPARTMENT,6/17/1919,  6 Top
+Jerome R. O’Connor,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,1/19/1971,  7 Top
+Joseph L. D’ Ovidio,Firefighter,ROCHESTER FIRE DEPARTMENT,7/14/1968,  9 Bottom
+Jacob Gallagher,Firefighter,BUFFALO FIRE DEPARTMENT,8/12/1924,  6 Top
+William Ovenburg,Driver,SAINT PAUL BOULEVARD FIRE DEPARTMENT,4/14/1960,  8 Bottom
+Mathew Miller,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/30/1908,  6 Bottom
+Merle L. Nell ,Fire Police Capt. ,VOLUNTEER FIRE COMPANY OF VERNON ,11/26/2016,13 Top
+William F. Healy,Firefighter,NEW YORK CITY FIRE DEPARTMENT,6/6/1910,  5 Bottom
+"Calixto Anaya, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+Thomas F. Brennan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/26/1920,  6 Top
+Donald C. Pfarner,Firefighter,BOSTON FIRE DEPARTMENT,7/17/1978,  9 Top
+Eugene H. Schmitt,Firefighter,BOSTON FIRE DEPARTMENT,7/15/1978,  9 Top
+Jeremiah Leoney,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/27/1913,  4 Bottom
+Timothy E. Coughlin,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,10/28/1929,  4 Top
+Hobart A. Abbey,Firefighter,FOREST VIEW/GANG MILLS FIRE DEPARTMENT,6/23/1972,  7 Top
+Thomas A. Lynn ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/23/2015,  6 Top
+Joseph F. Dunn,Captain,BETHPAGE FIRE DEPARTMENT,5/25/1978,  9 Top
+"Joseph Johnson, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/1/1973,  7 Top
+Emil K. Harnischfeger ,Supervising Fire Marshal ,NEW YORK CITY FIRE DEPARTMENT ,5/6/2013,20 Top
+James F. Barrett,Firefighter,NEW YORK CITY FIRE DEPARTMENT,5/13/1910,  5 Bottom
+Andrew A. Fredericks,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Russell Moll,Firefighter,STONY BROOK FIRE DEPARTMENT,1/1/1927,  5 Top
+Vincent R. Ungaro ,Captain ,NEW YORK CITY FIRE DEPARTMENT ,10/1/2016,18 Top
+Robert E. Shuler,Firefighter,SYRACUSE FIRE DEPARTMENT,4/9/1978,  9 Top
+James W. Connelly,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/17/1970,  8 Bottom
+Daniel Perricone,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/23/1974,  8 Top
+J. Marion Harrison,Firefighter,HUNTINGTON FIRE DEPARTMENT,1/1/1927,  5 Top
+Phillip Bickell,Firefighter,ROME FIRE DEPARTMENT,07/31/1866,  6 Top
+Harry Wilson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,7/17/1920,  6 Top
+Vincent J. Albanese ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,7/31/2010,19 Bottom
+Arthur J. Rank,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/31/1904,  3 Bottom
+"Joseph J. Angelini, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Top
+Donald Marsh,Firefighter,CICERO FIRE DEPARTMENT,1/1/1980,  9 Top
+Thomas McNamera,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/23/1907,  6 Bottom
+Zigmund Klemowski,Firefighter,BUFFALO FIRE DEPARTMENT,7/21/1976,  8 Top
+Harvey Wales,Firefighter,NIAGARA FALLS FIRE DEPARTMENT,11/29/1906,  1 Bottom
+"Howard Mayforth, Sr.",Firefighter,HILLCREST FIRE DEPARTMENT,6/5/1976,  8 Top
+Henry Holster,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/24/1927,  5 Top
+John T. Dunne,Captain,NEW YORK CITY FIRE DEPARTMENT,3/28/1971,  7 Top
+"William Maurer, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/2/1912,  4 Bottom
+Charles Hunt,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/15/1977,  9 Top
+Joseph H. Henehan,Firefighter,BINGHAMTON FIRE DEPARTMENT,10/31/1938,  1 Top
+Patrick Daly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/26/1925,  5 Top
+John J. Vaughan ,Battalion Chief ,NEW YORK CITY FIRE DEPARTMENT ,10/26/2009,15 Top
+Francis Keller,Firefighter,GREENLAWN FIRE DEPARTMENT,8/16/1995,  8 Bottom
+John C. Russell,Firefighter,BINGHAMTON FIRE DEPARTMENT,9/28/1975,  8 Top
+Thomas J. Connolly,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/10/1924,  5 Top
+Brian Cannizzaro,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+Robert J. Cramer,Firefighter,BEACON FIRE DEPARTMENT,1/29/1955,  8 Bottom
+William Harrison,Firefighter,ELMIRA FIRE DEPARTMENT,3/30/1915,  3 Top
+"Louis J. Farrell, II",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/24/1922,  6 Top
+Louis Barmore,Firefighter,PEEKSKILL FIRE DEPARTMENT,8/1/1918,  2 Top
+William J. Weiland,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,8/13/1905,  2 Bottom
+Joseph P. Gullickson,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Top
+Caleb F. Underhill,Firefighter,WHITE PLAINS FIRE DEPARTMENT,2/3/1907,  6 Bottom
+"Harry Wanamaker, Jr. ",Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,7/20/2010,18 Bottom
+Terence S. Hatton,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  4 Bottom
+Joseph Giehler,Firefighter,MILLER PLACE FIRE DEPARTMENT,1/1/1972,  7 Top
+Joseph Agnello,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+James M. Sullivan,Training Instructor,BINGHAMTON FIRE DEPARTMENT,11/10/1962,  7 Bottom
+Oliver G. Davison,Captain,BABYLON FIRE DEPARTMENT,3/11/1967,  9 Bottom
+Edward Gorry,Lieutenant,GARDEN CITY FIRE DEPARTMENT,12/14/1951,  7 Bottom
+Vernon F. Bump,Firefighter,GLOVERSVILLE FIRE DEPARTMENT,12/20/1975,  8 Top
+Leonard Wood,Lieutenant,BUFFALO FIRE DEPARTMENT,9/30/1967,  9 Bottom
+Garrett W. Loomis    ,Assistant Chief    ,SACKETS HARBOR FIRE DEPARTMENT    ,4/11/2010,  3 Bottom
+John Pache,Firefighter,AVIATION VOLUNTEER FIRE COMPANY,9/8/1995,  8 Bottom
+John D. Marshall,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+Joseph Riceoppo,Firefighter,FLORIDA FIRE DEPARTMENT,7/3/1950,  7 Bottom
+John F. O’Neill ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,2/14/2011,16 Bottom
+James S. Foote ,Firefighter ,SUMMIT FIRE DEPARTMENT ,11/18/2014,  3 Bottom
+Joseph J. Neidert,Lieutenant,ROCHESTER FIRE DEPARTMENT,7/8/1915,  3 Top
+Raymond J. Pfeifer ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,5/28/2017,17 Bottom
+Donald J. Burns,Assistant Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+Michael S. Carlo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+William J. Hoar,Firefighter,TROY FIRE DEPARTMENT,4/18/1917,  2 Top
+Ryan T. Barker,Firefighter,WEST HILL FIRE DEPARTMENT,7/8/2008,  1 Top
+John R. Higbie,Captain,BABYLON FIRE DEPARTMENT,2/5/1916,  3 Top
+Fredrick G. Brandt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/25/1922,  6 Top
+Wayne Rosen,Firefighter,AKRON FIRE DEPARTMENT,6/22/1999,  2 Bottom
+Douglas C. Miller,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+John K. Gremse ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,9/16/2014,  4 Bottom
+Edward B. Bellefountaine,Firefighter,GREENPORT FIRE DEPARTMENT,1/1/1977,  9 Top
+George F. McGeary,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/2/1905,  2 Bottom
+Joseph Hentz,Lieutenant,ELMIRA FIRE DEPARTMENT,1/1/1968,  9 Bottom
+Francis Southern,Firefighter,SARATOGA SPRINGS FIRE DEPARTMENT,2/11/1975,  8 Top
+Carl Capobianco ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,7/29/2011,  4 Bottom
+Charles E. Owens,Firefighter,UTICA FIRE DEPARTMENT,2/6/1907,  6 Bottom
+Anthony T. Contrera,Firefighter,AUBURN CITY FIRE DEPARTMENT,3/30/1960,  7 Bottom
+Thomas P. Sheridan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,5/28/1971,  7 Top
+James DiGenova,Captain,SYRACUSE FIRE DEPARTMENT,9/24/1974,  8 Top
+Peter J. Casey ,Captain` ,NEW YORK CITY FIRE DEPARTMENT ,7/3/2013,  4 Top
+John R. Fischer,Captain,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Welles R. Crowther,Firefighter,NYACK FIRE DEPARTMENT,9/11/2001,  3 Top
+Charles McPherson,Firefighter,GATES-CHILI FIRE DEPARTMENT,1/1/1975,  8 Top
+Joseph A. Heslin,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/27/1927,  5 Top
+Gregg A. Atlas,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+Gerald D. Crowley,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/14/1979,  9 Top
+Michael Boyle,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Top
+Anthony Rodriguez,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  9 Bottom
+Phillip C. Smith,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/5/1968,  9 Bottom
+Martin Haley,Firefighter,BUFFALO FIRE DEPARTMENT,1/8/1920,  6 Top
+Joseph Maffeo,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+Joseph A. Morstatt ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,3/5/2016,  5 Top
+Francis E. Furch,Firefighter,BINGHAMTON FIRE DEPARTMENT,12/31/1977,  9 Top
+Carl Bauer,Firefighter,ARLINGTON FIRE DEPARTMENT,7/3/1974,  8 Top
+Eric T. Olsen,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+James W. McCusker,Firefighter,NEW YORK CITY FIRE DEPARTMENT,11/4/1906,  2 Bottom
+Edmund A. McNulty,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,4/17/1968,  9 Bottom
+John J. Dooley,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,6/6/1931,  4 Top
+Harold Zimmer,Firefighter,SAINT PAUL BOULEVARD FIRE DEPARTMENT,2/3/1968,  5 Top
+Thomas G. Roberts ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT ,8/12/2009,  2 Bottom
+Fred D. Osterman,President,FLEMING FIRE DEPARTMENT NO. 2,3/18/1954,  7 Bottom
+Stanley L. Duda,Firefighter,SYRACUSE FIRE DEPARTMENT,4/9/1978,  9 Top
+George Stragar,Firefighter,JAMESVILLE FIRE DEPARTMENT,1/1/1974,  8 Top
+"Robert MacNish, Jr.",Ex-Chief,AUSTERLITZ FIRE DEPARTMENT,5/9/1976,  3 Top
+Martin Hoelche,Firefighter,BUFFALO FIRE DEPARTMENT,10/8/1924,  6 Top
+Michael M. Karkel,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/26/1920,  6 Top
+James Galvin,Relief Driver,ALBANY FIRE DEPARTMENT,04/07/1875,16 Bottom
+John J. O’Brien,Engineer,ROCHESTER FIRE DEPARTMENT,11/9/1907,  6 Bottom
+John F. Walsh,Captain,NEW YORK CITY FIRE DEPARTMENT,3/26/1906,  6 Bottom
+Thomas Kowalski,Firefighter,DIX HILLS FIRE DEPARTMENT,1/1/1978,  9 Top
+Joseph G. Schmitt,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/19/1919,  6 Top
+Thomas J. Farrell ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,3/25/2016,  2 Bottom  
+Fredrick Monroe,Firefighter,BOLTON LANDING FIRE DEPARTMENT,2/22/1967,  9 Bottom
+Burton Seymour,Firefighter,ILION FIRE DEPARTMENT,4/21/1963,  7 Bottom
+Daniel O. Strauch,Firefighter,COLDENHAM FIRE DEPARTMENT,3/24/1983,  8 Bottom
+Edward C. Hackett,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,3/2/1970,  8 Bottom
+Bernard O’Kane,Firefighter,NEW YORK CITY FIRE DEPARTMENT,12/27/1927,  5 Top
+William G. Dusterwald,Division Chief,NEW YORK CITY FIRE DEPARTMENT,1/8/1970,  8 Bottom
+John Rush,Chief,NEW YORK CITY FIRE DEPARTMENT,4/25/1912,  4 Bottom
+Robert J. Ryan,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,11/23/2008,  9 Top
+Steve A. Williamson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,2/22/1927,  5 Top
+John B. Barget,Engineer,NEW YORK CITY FIRE DEPARTMENT,10/5/1913,  4 Bottom
+Robert M. Tilearcio ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,10/25/2017,21 Top
+Thomas Behan,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/12/1921,  6 Top
+"Thomas Gambino, Jr.",Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+William F. Acquaviva,Deputy Chief,UTICA FIRE DEPARTMENT,1/15/2001,  6 Bottom
+Francis R. Twomey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/16/1918,  2 Top
+Joseph H. White,Firefighter,NEW YORK CITY FIRE DEPARTMENT,3/28/1910,  5 Bottom
+Raymond Ragucci ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,9/4/2011,19 Bottom
+Allan Tarasiewicz,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  7 Top
+William Devlin,Chief,NEW YORK CITY FIRE DEPARTMENT,9/24/1911,  5 Bottom
+Bernard E. Bauman ,Firefighter ,LAURELTON FIRE DEPARTMENT ,8/27/1952,  3 Top
+"Edward J. Stanek, Jr.",Firefighter,YONKERS FIRE DEPARTMENT,2/11/1974,  8 Top
+Donald McGeever,Captain,BINGHAMTON FIRE DEPARTMENT,9/29/1975,  8 Top
+"John J. Tate, Jr.",Captain,VALLEY STREAM FIRE DEPARTMENT,11/30/1979,  9 Top
+Michael E. C. Graham,Battalion Chief,NEW YORK CITY FIRE DEPARTMENT,2/15/1909,  5 Bottom
+Frank Flora,Firefighter,SYRACUSE FIRE DEPARTMENT,3/4/1908,  5 Bottom
+Samuel Brown,Captain,NEW YORK CITY FIRE DEPARTMENT,3/26/1920,  6 Top
+Vincent A. Iaccino     ,Captain    ,ROOSEVELT FIRE DEPARTMENT       ,4/12/2010,  2 Top
+Frank D. Fontaino ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,12/11/2015,  3 Bottom
+Alfred H. Murphy,Lieutenant,AUBURN CITY FIRE DEPARTMENT,3/30/1960,  7 Bottom
+John J. Giordano,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  6 Bottom
+Donald E. Starr ,Firefighter ,FIRE DEPARTMENT CITY OF BUFFALO,8/13/1974,20 Top 
+James Byers,Firefighter,BUFFALO FIRE DEPARTMENT,11/7/1928,  5 Top
+Charles Cole,Firefighter,REXFORD FIRE DEPARTMENT,1/1/1975,  8 Top
+Joseph G. Leavey,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Henry J. Kaiser,Firefighter,NEW YORK CITY FIRE DEPARTMENT,4/6/1912,  4 Bottom
+Chester Jablonski,Firefighter,WOODGATE FIRE DEPARTMENT,5/11/1957,  7 Bottom
+Peter C. Martin,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Gregory G. Buck,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  8 Bottom
+Raymond W. Saftenberg,Assistant Chief,NORWICH FIRE DEPARTMENT,1/25/1974,  8 Top
+Michael Sofia ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,9/1/2005,  2 Top
+James Casey,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/6/1918,  2 Top
+Raymond M. Meisenheimer,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Bottom
+Thomas Sullivan,Ladderman,ROCHESTER FIRE DEPARTMENT,10/31/1922,  6 Top
+Thomas Yeates,Lieutenant,BUFFALO FIRE DEPARTMENT,3/22/1970,  9 Bottom
+Bruce M. Foss ,Firefighter ,NEW YORK CITY FIRE DEPARTMENT ,6/14/2008,  1 Top
+John M. Paolillo,Deputy Chief,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Top
+James McSweeney,Lieutenant,SYRACUSE FIRE DEPARTMENT,1/21/1968,  9 Bottom
+Peter J. Langone,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  5 Bottom
+Harry L. Miniter,Lieutenant,NEW YORK CITY FIRE DEPARTMENT,9/8/1968,  9 Bottom
+John J. Frein,Firefighter,NEW YORK CITY FIRE DEPARTMENT,1/4/1918,  1 Top
+Peter J. Farrenkopf ,Lieutenant ,NEW YORK CITY FIRE DEPARTMENT,10/18/2009,  3 Bottom
+William E. Krukowski,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  3 Bottom
+Clarence G. Hamel,Commissioner,MANHASSET-LAKEVILLE FIRE DEPARTMENT,10/9/1967,  6 Top
+Peter A. Nelson,Firefighter,NEW YORK CITY FIRE DEPARTMENT,9/11/2001,  1 Top
+Kenneth Matero,Past Chief,WEST NYACK FIRE COMPANY,7/3/1974,  8 Top
+John Burke,Engineer,ROCHESTER FIRE DEPARTMENT,10/12/1906,  1 Bottom
+Edward A. Junginger,Past Chief,LEVITTOWN FIRE DEPARTMENT,9/26/2008,  4 Bottom
+"Robert Hause, Sr.",Firefighter,NEWARK FIRE DEPARTMENT,1/1/1979,  9 Top
+Lawrence E. O’Hara,Captain,BINGHAMTON FIRE DEPARTMENT,1/13/1967,  7 Top
+Daniel A. Hart,Firefighter,NEW YORK CITY FIRE DEPARTMENT,10/27/1910,  5 Bottom
